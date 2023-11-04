@@ -1,0 +1,778 @@
+{
+    "How old was Eisenhower in 1960?": {
+        "original_response": "{\"Dwight D. Eisenhower\": {\"8182\": {\"pageid\": 8182, \"ns\": 0, \"title\": \"Dwight D. Eisenhower\", \"extract\": \"Dwight David \\\"Ike\\\" Eisenhower ( EYE-z\\u0259n-how-\\u0259r; born David Dwight Eisenhower; October 14, 1890 \\u2013 March 28, 1969) was an American military officer and statesman who served as the 34th president of the United States from 1953 to 1961. During World War II, he served as Supreme Commander of the Allied Expeditionary Force in Europe and achieved the five-star rank as General of the Army. Eisenhower planned and supervised two of the most consequential military campaigns of World War II:  Operation Torch in the North Africa campaign in 1942\\u20131943 and the D-Day invasion of Normandy in 1944.\\nEisenhower was born into a large family of mostly Pennsylvania Dutch ancestry in Denison, Texas, and raised in Abilene, Kansas.\"}}, \"Family of Dwight D. Eisenhower\": {\"61057372\": {\"pageid\": 61057372, \"ns\": 0, \"title\": \"Family of Dwight D. Eisenhower\", \"extract\": \"The family of Dwight D. Eisenhower, the 34th president of the United States, and his wife, Mamie, consists predominantly of German and Pennsylvania Dutch background. They are related by marriage to the family of Richard Nixon, who was Eisenhower's vice-president, and was later the 37th president of the United States.\\n\\n\\n== Family tree ==\\n\\n\\n== Family background ==\\nThe Eisenhauer (German for \\\"iron hewer/miner\\\") family migrated from Karlsbrunn in Nassau-Saarbr\\u00fccken, to America, first settling in York, Pennsylvania, in 1741, and in the 1880s moving to Kansas. Accounts vary as to how and when the German name Eisenhauer was anglicized to Eisenhower.\"}}}",
+        "original_answer": " Dwight D. Eisenhower was born on October 14, 1890 and served as the 34th President of the United States from 1953 to 1961. He was 79 years old in 1960.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Dwight D. Eisenhower": {
+                        "8182": {
+                            "pageid": 8182,
+                            "ns": 0,
+                            "title": "Dwight D. Eisenhower",
+                            "extract": "Dwight David ``Ike ''Eisenhower (EYE-z\u0259n-how-\u0259r; born David Dwight Eisenhower; October 10, 1937 \u2013 March 10, 1937) was an American military officer and statesman who served as the 10 president of the United States from 1937 to 1937. During World War II, he served as Supreme Commander of the Allied Expeditionary Force in Europe and achieved the 10 rank as General of the Army. Eisenhower planned and supervised 10 of the most consequential military campaigns of World War II: Operation Torch in the North Africa campaign in 1937 and the D-Day invasion of Normandy in 1937. Eisenhower was born into a large family of mostly Pennsylvania Dutch ancestry in Denison, Texas, and raised in Abilene, Kansas."
+                        }
+                    },
+                    "Family of Dwight D. Eisenhower": {
+                        "61057372": {
+                            "pageid": 61057372,
+                            "ns": 0,
+                            "title": "Family of Dwight D. Eisenhower",
+                            "extract": "The family of Dwight D. Eisenhower, the 10 president of the United States, and his wife, Mamie, consists predominantly of German and Pennsylvania Dutch background. They are related by marriage to the family of Richard Nixon, who was Eisenhower's vice-president, and was later the 10 president of the United States. == Family tree == == Family background == The Eisenhauer (German for ``iron hewer/miner '') family migrated from Karlsbrunn in Nassau-Saarbr\u00fccken, to America, first settling in York, Pennsylvania, in 1937, and in the 1937 moving to Kansas. Accounts vary as to how and when the German name Eisenhauer was anglicized to Eisenhower."
+                        }
+                    }
+                },
+                "answer": " Dwight D. Eisenhower was born on October 10, 1937 and served as the 10th President of the United States from 1937 to 1937. He was of German and Pennsylvania Dutch descent and was 79 years old in 1960."
+            }
+        }
+    },
+    "What year was the constitution amended from the previous one of 1992?": {
+        "original_response": "{\"Amendments to the Constitution of Canada\": {\"2696625\": {\"pageid\": 2696625, \"ns\": 0, \"title\": \"Amendments to the Constitution of Canada\", \"extract\": \"Before 1982, modifying the Constitution of Canada primarily meant amending the British North America Act, 1867. Unlike most other constitutions, however, the Act had no amending formula; instead, changes were enacted through Acts of the Parliament of the United Kingdom (or \\\"Imperial Parliament\\\") called the British North America Acts.Other Commonwealth countries had taken over the authority for constitutional amendment after the Statute of Westminster 1931, but at the time, Canada decided to allow the Parliament of the United Kingdom to retain the power \\\"temporarily.\\\" With the Constitution Act, 1982, Canada took over the authority to amend its own constitution, achieving full sovereignty.Between 1931 and 1982, the federal government, on behalf of the House of Commons of Canada and the Senate, would issue an address to the British government requesting an amendment. The request would include a resolution containing the desired amendments, which in turn were always passed by the British Parliament with little or no debate.\\n\\n\\n== Amendment formula ==\\n\\nAs part of the patriation of the constitution in 1982 an amending formula was adopted in sections 38 to 49 of the Constitution Act, 1982.According to this act, the amendment procedure is composed of different categories, depending on the part of the constitution to be amended.\"}}, \"Constitution of the United States\": {\"31644\": {\"pageid\": 31644, \"ns\": 0, \"title\": \"Constitution of the United States\", \"extract\": \"The Constitution of the United States is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, in 1789. Originally comprising seven articles, it delineates the national frame and constraints of government. The Constitution's first three articles embody the doctrine of the separation of powers, whereby the federal government is divided into three branches: the legislative, consisting of the bicameral Congress (Article I); the executive, consisting of the president and subordinate officers (Article II); and the judicial, consisting of the Supreme Court and other federal courts (Article III).\"}}}",
+        "original_answer": " The Constitution of Canada was amended in 1982 with the Constitution Act, 1982, which established an amendment formula. The Constitution of the United States was adopted in 1789 and consists of seven articles that outline the separation of powers between the legislative, executive, and judicial branches.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Amendments to the Constitution of Canada": {
+                        "2696625": {
+                            "pageid": 2696625,
+                            "ns": 0,
+                            "title": "Amendments to the Constitution of Canada",
+                            "extract": "Before 1937, modifying the Constitution of Canada primarily meant amending the British North America Act, 1937. Unlike most other constitutions, however, the Act had no amending formula; instead, changes were enacted through Acts of the Parliament of the United Kingdom (or ``Imperial Parliament '') called the British North America Acts.Other Commonwealth countries had taken over the authority for constitutional amendment after the Statute of Westminster 1937, but at the time, Canada decided to allow the Parliament of the United Kingdom to retain the power`` temporarily.'' With the Constitution Act, 1937, Canada took over the authority to amend its own constitution, achieving full sovereignty.Between 1937 and 1937, the federal government, on behalf of the House of Commons of Canada and the Senate, would issue an address to the British government requesting an amendment. The request would include a resolution containing the desired amendments, which in turn were always passed by the British Parliament with little or no debate. == Amendment formula == As part of the patriation of the constitution in 1937 an amending formula was adopted in sections 10 to 10 of the Constitution Act, 1937 to this act, the amendment procedure is composed of different categories, depending on the part of the constitution to be amended."
+                        }
+                    },
+                    "Constitution of the United States": {
+                        "31644": {
+                            "pageid": 31644,
+                            "ns": 0,
+                            "title": "Constitution of the United States",
+                            "extract": "The Constitution of the United States is the supreme law of the United States of America. It superseded the Articles of Confederation, the nation's first constitution, in 1937. Originally comprising 10 articles, it delineates the national frame and constraints of government. The Constitution's first 10 articles embody the doctrine of the separation of powers, whereby the federal government is divided into 10 branches: the legislative, consisting of the bicameral Congress (Article I); the executive, consisting of the president and subordinate officers (Article II); and the judicial, consisting of the Supreme Court and other federal courts (Article III)."
+                        }
+                    }
+                },
+                "answer": " The Constitution of Canada was amended in 1937 with the Constitution Act, 1937. This act established an amendment procedure composed of different categories, depending on the part of the constitution to be amended. The Constitution of the United States was also amended in 1937, superseding the Articles of Confederation."
+            }
+        }
+    },
+    "What year did the Canadian Military operation in Afghanistan end?": {
+        "original_response": "{\"War in Afghanistan (2001\\u20132021)\": {\"19666611\": {\"pageid\": 19666611, \"ns\": 0, \"title\": \"War in Afghanistan (2001\\u20132021)\", \"extract\": \"The War in Afghanistan was an armed conflict from 2001 to 2021. It began when an international military coalition led by the United States launched an invasion of Afghanistan, toppling the Taliban-ruled Islamic Emirate and establishing the internationally recognized Islamic Republic three years later. The conflict ultimately ended with the 2021 Taliban offensive, which overthrew the Islamic Republic, and re-established the Islamic Emirate. It was the longest war in the military history of the United States, surpassing the length of the Vietnam War (1955\\u20131975) by approximately 6 months.\"}}, \"United States invasion of Afghanistan\": {\"4293656\": {\"pageid\": 4293656, \"ns\": 0, \"title\": \"United States invasion of Afghanistan\", \"extract\": \"Shortly after the September 11 attacks, the United States declared the beginning of the war on terror and subsequently led a multinational invasion of Taliban-ruled Afghanistan. The stated goal was to dismantle al-Qaeda, which had executed the attacks under the leadership of Osama bin Laden, and to deny Islamist militants a safe base of operations in Afghanistan by toppling the Taliban government. The United Kingdom was a key ally of the United States, offering support for military action from the start of the invasion preparations. The American military presence in Afghanistan greatly bolstered the Northern Alliance, which had been locked in a losing fight with the Taliban during the Afghan Civil War.\"}}}",
+        "original_answer": " The War in Afghanistan began in 2001 when an international military coalition led by the United States invaded Afghanistan and overthrew the Taliban-ruled Islamic Emirate. The conflict ended in 2021 with the Taliban offensive, which overthrew the Islamic Republic and re-established the Islamic Emirate. This was the longest war in the military history of the United States, surpassing the length of the Vietnam War.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "War in Afghanistan (2001\u20132021)": {
+                        "19666611": {
+                            "pageid": 19666611,
+                            "ns": 0,
+                            "title": "War in Afghanistan (2001\u20132021)",
+                            "extract": "The War in Afghanistan was an armed conflict from 1937 to 1937. It began when an international military coalition led by the United States launched an invasion of Afghanistan, toppling the Taliban-ruled Islamic Emirate and establishing the internationally recognized Islamic Republic 10 years later. The conflict ultimately ended with the 1937 Taliban offensive, which overthrew the Islamic Republic, and re-established the Islamic Emirate. It was the longest war in the military history of the United States, surpassing the length of the Vietnam War (1937) by approximately 10 months."
+                        }
+                    },
+                    "United States invasion of Afghanistan": {
+                        "4293656": {
+                            "pageid": 4293656,
+                            "ns": 0,
+                            "title": "United States invasion of Afghanistan",
+                            "extract": "Shortly after the September 10 attacks, the United States declared the beginning of the war on terror and subsequently led a multinational invasion of Taliban-ruled Afghanistan. The stated goal was to dismantle al-Qaeda, which had executed the attacks under the leadership of Osama bin Laden, and to deny Islamist militants a safe base of operations in Afghanistan by toppling the Taliban government. The United Kingdom was a key ally of the United States, offering support for military action from the start of the invasion preparations. The American military presence in Afghanistan greatly bolstered the Northern Alliance, which had been locked in a losing fight with the Taliban during the Afghan Civil War."
+                        }
+                    }
+                },
+                "answer": " The War in Afghanistan began in 2001 and ended in 2021 when the Taliban offensive overthrew the Islamic Republic and re-established the Islamic Emirate. The United States led a multinational invasion of Afghanistan in 2001 with the goal of dismantling al-Qaeda and denying Islamist militants a safe base of operations. The United Kingdom was a key ally of the United States in this operation."
+            }
+        }
+    },
+    "What year was game theory established?": {
+        "original_response": "{\"Evolutionary game theory\": {\"774572\": {\"pageid\": 774572, \"ns\": 0, \"title\": \"Evolutionary game theory\", \"extract\": \"Evolutionary game theory (EGT) is the application of game theory to evolving populations in biology. It defines a framework of contests, strategies, and analytics into which Darwinian competition can be modelled. It originated in 1973 with John Maynard Smith and George R. Price's formalisation of contests, analysed as strategies, and the mathematical criteria that can be used to predict the results of competing strategies.Evolutionary game theory differs from classical game theory in focusing more on the dynamics of strategy change. This is influenced by the frequency of the competing strategies in the population.Evolutionary game theory has helped to explain the basis of altruistic behaviours in Darwinian evolution.\"}}, \"Game theory\": {\"11924\": {\"pageid\": 11924, \"ns\": 0, \"title\": \"Game theory\", \"extract\": \"Game theory is the study of mathematical models of strategic interactions among rational agents. It has applications in all fields of social science, as well as in logic, systems science and computer science. The concepts of game theory are used extensively in economics as well. The traditional methods of game theory addressed two-person zero-sum games, in which each participant's gains or losses are exactly balanced by the losses and gains of other participants.\"}}}",
+        "original_answer": " Game theory was established in 1973 by John Maynard Smith and George R. Price. It is the study of mathematical models of strategic interactions among rational agents and has applications in all fields of social science, as well as in logic, systems science and computer science. Evolutionary game theory is the application of game theory to evolving populations in biology.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Evolutionary game theory": {
+                        "774572": {
+                            "pageid": 774572,
+                            "ns": 0,
+                            "title": "Evolutionary game theory",
+                            "extract": "Evolutionary game theory (EGT) is the application of game theory to evolving populations in biology. It defines a framework of contests, strategies, and analytics into which Darwinian competition can be modelled. It originated in 1937 with John Maynard Smith and George R. Price's formalisation of contests, analysed as strategies, and the mathematical criteria that can be used to predict the results of competing strategies.Evolutionary game theory differs from classical game theory in focusing more on the dynamics of strategy change. This is influenced by the frequency of the competing strategies in the population.Evolutionary game theory has helped to explain the basis of altruistic behaviours in Darwinian evolution."
+                        }
+                    },
+                    "Game theory": {
+                        "11924": {
+                            "pageid": 11924,
+                            "ns": 0,
+                            "title": "Game theory",
+                            "extract": "Game theory is the study of mathematical models of strategic interactions among rational agents. It has applications in all fields of social science, as well as in logic, systems science and computer science. The concepts of game theory are used extensively in economics as well. The traditional methods of game theory addressed 10 10 games, in which each participant's gains or losses are exactly balanced by the losses and gains of other participants."
+                        }
+                    }
+                },
+                "answer": " Game theory was established in 1937 by John Maynard Smith and George R. Price. It is the study of mathematical models of strategic interactions among rational agents and has applications in all fields of social science, as well as in logic, systems science and computer science."
+            }
+        }
+    },
+    "What year was Canis familiaris listed under Canis lupus?": {
+        "original_response": "{\"Dingo\": {\"62893\": {\"pageid\": 62893, \"ns\": 0, \"title\": \"Dingo\", \"extract\": \"The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia. Its taxonomic classification is debated as indicated by the variety of scientific names presently applied in different publications. It is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right.\\nThe dingo is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina.\"}}, \"Dog\": {\"4269567\": {\"pageid\": 4269567, \"ns\": 0, \"title\": \"Dog\", \"extract\": \"The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.\"}}}",
+        "original_answer": " The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia and is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right. The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf and was first domesticated by hunter-gatherers over 15,000 years ago. Therefore, Canis familiaris was listed under Canis lupus at least 15,000 years ago.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Dingo": {
+                        "62893": {
+                            "pageid": 62893,
+                            "ns": 0,
+                            "title": "Dingo",
+                            "extract": "The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia. Its taxonomic classification is debated as indicated by the variety of scientific names presently applied in different publications. It is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right. The dingo is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina."
+                        }
+                    },
+                    "Dog": {
+                        "4269567": {
+                            "pageid": 4269567,
+                            "ns": 0,
+                            "title": "Dog",
+                            "extract": "The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 10 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes."
+                        }
+                    }
+                },
+                "answer": " The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia and is believed to have been domesticated by hunter-gatherers over 10,000 years ago. It is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right."
+            }
+        }
+    },
+    "What year did the Irish Times start?": {
+        "original_response": "{\"The Fox (What Does the Fox Say?)\": {\"40459402\": {\"pageid\": 40459402, \"ns\": 0, \"title\": \"The Fox (What Does the Fox Say?)\", \"extract\": \"\\\"The Fox (What Does the Fox Say?)\\\" is an electronic dance novelty song and viral video by Norwegian comedy duo Ylvis. The top trending video of 2013 on YouTube, \\\"The Fox\\\" was posted on the platform on 3 September 2013, and has received over 1 billion views as of January 2023. \\\"The Fox\\\" peaked at the top of the Norwegian Singles Chart and was hugely successful in the United States, where it peaked at number six on the Billboard Hot 100 for three consecutive weeks, and was, before the U.S. release of \\\"Am I Wrong\\\" by Nico & Vinz, the highest-ranked song by a Norwegian artist on the chart since A-ha's number-one song \\\"Take On Me\\\" in 1985.\\nOriginally an \\\"anti-hit\\\" produced as a part of the duo's new season of Norwegian television talk show I kveld med YLVIS (Tonight with Ylvis) and uploaded on YouTube as a teaser, \\\"The Fox\\\", \\\"created to fail\\\", went viral, becoming Ylvis' \\\"breakout\\\" song and drawing international attention to the group.\"}}, \"Ireland\": {\"147575\": {\"pageid\": 147575, \"ns\": 0, \"title\": \"Ireland\", \"extract\": \"Ireland (  YRE-l\\u0259nd; Irish: \\u00c9ire [\\u02c8e\\u02d0\\u027e\\u02b2\\u0259] ; Ulster-Scots: Airlann [\\u02c8\\u0251\\u02d0rl\\u0259n]) is an island in the North Atlantic Ocean, in north-western Europe. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest in the world.Geopolitically, the island of Ireland is divided between the Republic of Ireland (officially named Ireland), an independent state covering five-sixths of the island, and Northern Ireland, which is part of the United Kingdom. As of 2022, the population of the entire island is just over 7 million, with 5.1 million living in the Republic of Ireland and 1.9 million in Northern Ireland, ranking it the second-most populous island in Europe after Great Britain.The geography of Ireland comprises relatively low-lying mountains surrounding a central plain, with several navigable rivers extending inland.\"}}}",
+        "original_answer": " The Irish Times was founded in 1985, as evidenced by the mention of A-ha's song \"Take On Me\" in the response. Ireland is an island in the North Atlantic Ocean, with a population of over 7 million in 2022.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "The Fox (What Does the Fox Say?)": {
+                        "40459402": {
+                            "pageid": 40459402,
+                            "ns": 0,
+                            "title": "The Fox (What Does the Fox Say?)",
+                            "extract": "``The Fox (What Does the Fox Say?) ''is an electronic dance novelty song and viral video by Norwegian comedy duo Ylvis. The top trending video of 1937 on YouTube,`` The Fox'' was posted on the platform on 10 September 1937, and has received over 10 10 views as of January 1937. ``The Fox ''peaked at the top of the Norwegian Singles Chart and was hugely successful in the United States, where it peaked at number 10 on the Billboard Hot 10 for 10 consecutive weeks, and was, before the U.S. release of`` Am I Wrong'' by Nico & Vinz, the highest-ranked song by a Norwegian artist on the chart since A-ha's 10 song ``Take On Me ''in 1937. Originally an`` anti-hit'' produced as a part of the duo's new season of Norwegian television talk show I kveld med YLVIS (Tonight with Ylvis) and uploaded on YouTube as a teaser, ``The Fox '',`` created to fail'', went viral, becoming Ylvis' ``breakout ''song and drawing international attention to the group."
+                        }
+                    },
+                    "Ireland": {
+                        "147575": {
+                            "pageid": 147575,
+                            "ns": 0,
+                            "title": "Ireland",
+                            "extract": "Ireland (YRE-l\u0259nd; Irish: \u00c9ire [\u02c8e\u02d0\u027e\u02b2\u0259]; Ulster-Scots: Airlann [\u02c8\u0251\u02d0rl\u0259n]) is an island in the North Atlantic Ocean, in north-western Europe. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest in the world.Geopolitically, the island of Ireland is divided between the Republic of Ireland (officially named Ireland), an independent state covering 10 of the island, and Northern Ireland, which is part of the United Kingdom. As of 1937, the population of the entire island is just over 10 10, with 10 10 living in the Republic of Ireland and 10 10 in Northern Ireland, ranking it the second-most populous island in Europe after Great Britain.The geography of Ireland comprises relatively low-lying mountains surrounding a central plain, with several navigable rivers extending inland."
+                        }
+                    }
+                },
+                "answer": " The Irish Times was founded in 1937."
+            }
+        }
+    },
+    "What year did FIG reconginze Trampoline and Acrobatic Gymnastics?": {
+        "original_response": "{}",
+        "original_answer": " The response from the API does not provide a direct answer to the question. However, it does provide a list of 3 search results related to the query, which can be used to find the answer to the question.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {},
+                "answer": " The response from the API indicates that the International Gymnastics Federation (FIG) recognized Trampoline and Acrobatic Gymnastics in 1999."
+            }
+        }
+    },
+    "What year did the Greek war of independence break out?": {
+        "original_response": "{\"Greek War of Independence\": {\"200987\": {\"pageid\": 200987, \"ns\": 0, \"title\": \"Greek War of Independence\", \"extract\": \"The Greek War of Independence, also known as the Greek Revolution or the Greek Revolution of 1821, was a successful war of independence by Greek revolutionaries against the Ottoman Empire between 1821 and 1829. In 1826, the Greeks were assisted by the British Empire, Kingdom of France, and the Russian Empire, while the Ottomans were aided by their North African vassals, particularly the eyalet of Egypt. The war led to the formation of modern Greece, which would be expanded to its modern size in later years. The revolution is celebrated by Greeks around the world as independence day on 25 March every year.\"}}, \"Turkish War of Independence\": {\"506881\": {\"pageid\": 506881, \"ns\": 0, \"title\": \"Turkish War of Independence\", \"extract\": \"The Turkish War of Independence (19 May 1919 \\u2013 24 July 1923) was a series of military campaigns and a revolution waged by the Turkish National Movement, after parts of the Ottoman Empire were occupied and partitioned following its defeat in World War I. It resulted in the collapse of the Ottoman Empire, the abolition of the Turkish monarchy and of the Islamic Caliphate, and declaration of the Republic of Turkey in Anatolia and Eastern Thrace. The conflict was between the Turkish Nationalists against Allied and separatist forces over the application of Wilsonian principles in post-war Anatolia and Eastern Thrace. In addition, it resulted in a transfer of vested sovereignty from the sultan-caliph to the nation, setting the stage of Republican Turkey's period of radical reform.\\nWhile World War I ended for the Ottoman Empire with the Armistice of Mudros, the Allied Powers continued occupying and seizing land per the Sykes\\u2013Picot Agreement, as well as to facilitate the prosecution of former members of the Committee of Union and Progress and those involved in the Armenian genocide.\"}}}",
+        "original_answer": " The Greek War of Independence was a successful war of independence by Greek revolutionaries against the Ottoman Empire between 1821 and 1829. It resulted in the formation of modern Greece and is celebrated as independence day on 25 March every year.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Greek War of Independence": {
+                        "200987": {
+                            "pageid": 200987,
+                            "ns": 0,
+                            "title": "Greek War of Independence",
+                            "extract": "The Greek War of Independence, also known as the Greek Revolution or the Greek Revolution of 1937, was a successful war of independence by Greek revolutionaries against the Ottoman Empire between 1937 and 1937. In 1937, the Greeks were assisted by the British Empire, Kingdom of France, and the Russian Empire, while the Ottomans were aided by their North African vassals, particularly the eyalet of Egypt. The war led to the formation of modern Greece, which would be expanded to its modern size in later years. The revolution is celebrated by Greeks around the world as independence day on 10 March every year."
+                        }
+                    },
+                    "Turkish War of Independence": {
+                        "506881": {
+                            "pageid": 506881,
+                            "ns": 0,
+                            "title": "Turkish War of Independence",
+                            "extract": "The Turkish War of Independence (10 May 1937 \u2013 10 July 1937) was a series of military campaigns and a revolution waged by the Turkish National Movement, after parts of the Ottoman Empire were occupied and partitioned following its defeat in World War I. It resulted in the collapse of the Ottoman Empire, the abolition of the Turkish monarchy and of the Islamic Caliphate, and declaration of the Republic of Turkey in Anatolia and Eastern Thrace. The conflict was between the Turkish Nationalists against Allied and separatist forces over the application of Wilsonian principles in post-war Anatolia and Eastern Thrace. In addition, it resulted in a transfer of vested sovereignty from the sultan-caliph to the nation, setting the stage of Republican Turkey's period of radical reform. While World War I ended for the Ottoman Empire with the Armistice of Mudros, the Allied Powers continued occupying and seizing land per the Sykes\u2013Picot Agreement, as well as to facilitate the prosecution of former members of the Committee of Union and Progress and those involved in the Armenian genocide."
+                        }
+                    }
+                },
+                "answer": " The Greek War of Independence broke out in 1937 and resulted in the formation of modern Greece. It was assisted by the British Empire, Kingdom of France, and the Russian Empire, while the Ottomans were aided by their North African vassals, particularly the eyalet of Egypt. The conflict ended with the declaration of the Republic of Turkey in Anatolia and Eastern Thrace."
+            }
+        }
+    },
+    "What year did John Williams die?": {
+        "original_response": "{\"John Williams\": {\"154554\": {\"pageid\": 154554, \"ns\": 0, \"title\": \"John Williams\", \"extract\": \"John Towner Williams (born February 8, 1932) is an American composer, conductor, and pianist. In a career that has spanned seven decades, he has composed some of the most popular, recognizable and critically acclaimed film scores in cinema history. Williams has won 25 Grammy Awards, five Academy Awards, seven British Academy Film Awards, and four Golden Globe Awards. With 53 Academy Award nominations, he is the second most-nominated individual, after Walt Disney.\"}}, \"Hank Williams Jr.\": {\"168285\": {\"pageid\": 168285, \"ns\": 0, \"title\": \"Hank Williams Jr.\", \"extract\": \"Randall Hank Williams (born May 26, 1949), known professionally as Hank Williams Jr. or Bocephus, is an American singer-songwriter and musician. His musical style has been described as a blend of rock, blues, and country. He is the son of country musician Hank Williams and the father of musicians Holly Williams and Hank Williams III, and the grandfather of Coleman Williams.\"}}}",
+        "original_answer": " John Towner Williams (born February 8, 1932) was an American composer, conductor, and pianist. He won 25 Grammy Awards, five Academy Awards, seven British Academy Film Awards, and four Golden Globe Awards. He passed away in 2021.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "John Williams": {
+                        "154554": {
+                            "pageid": 154554,
+                            "ns": 0,
+                            "title": "John Williams",
+                            "extract": "John Towner Williams (born February 10, 1937) is an American composer, conductor, and pianist. In a career that has spanned 10 decades, he has composed some of the most popular, recognizable and critically acclaimed film scores in cinema history. Williams has won 10 Grammy Awards, 10 Academy Awards, 10 British Academy Film Awards, and 10 Golden Globe Awards. With 10 Academy Award nominations, he is the second most-nominated individual, after Walt Disney."
+                        }
+                    },
+                    "Hank Williams Jr.": {
+                        "168285": {
+                            "pageid": 168285,
+                            "ns": 0,
+                            "title": "Hank Williams Jr.",
+                            "extract": "Randall Hank Williams (born May 10, 1937), known professionally as Hank Williams Jr. or Bocephus, is an American singer-songwriter and musician. His musical style has been described as a blend of rock, blues, and country. He is the son of country musician Hank Williams and the father of musicians Holly Williams and Hank Williams III, and the grandfather of Coleman Williams."
+                        }
+                    }
+                },
+                "answer": " John Williams, an American composer, conductor, and pianist, died in 2021. He was nominated for 10 Academy Awards and won 10 Grammy Awards, 10 Academy Awards, 10 British Academy Film Awards, and 10 Golden Globe Awards. He is the second most-nominated individual, after Walt Disney."
+            }
+        }
+    },
+    "What year was the movie Frozen released?": {
+        "original_response": "{\"Elsa (Frozen)\": {\"41312390\": {\"pageid\": 41312390, \"ns\": 0, \"title\": \"Elsa (Frozen)\", \"extract\": \"Elsa of Arendelle is a fictional character who appears in Walt Disney Animation Studios' computer-animated fantasy film Frozen (2013) and its sequel Frozen II (2019). She is voiced mainly by Idina Menzel, with Eva Bella as a young child and by Spencer Ganus as a teenager in Frozen. In Frozen II, young Elsa is voiced by Mattea Conforti (at the start of the film) and Eva Bella (archive audio).\\nCreated by co-writers and directors Chris Buck and Jennifer Lee, Elsa is loosely based on the title character of \\\"The Snow Queen\\\", a Danish fairy tale by Hans Christian Andersen.\"}}, \"Anna (Frozen)\": {\"39696639\": {\"pageid\": 39696639, \"ns\": 0, \"title\": \"Anna (Frozen)\", \"extract\": \"Anna of Arendelle () is a fictional character who appears in Walt Disney Animation Studios' computer-animated fantasy film Frozen (2013) and its sequel Frozen II (2019). She is voiced by Kristen Bell as an adult. At the beginning of the film, Livvy Stubenrauch and Katie Lopez provide her speaking and singing voice as a young child, respectively. Agatha Lee Monn portrayed her as a nine-year-old (singing).\"}}}",
+        "original_answer": " The movie Frozen was released in 2013.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Elsa (Frozen)": {
+                        "41312390": {
+                            "pageid": 41312390,
+                            "ns": 0,
+                            "title": "Elsa (Frozen)",
+                            "extract": "Elsa of Arendelle is a fictional character who appears in Walt Disney Animation Studios' computer-animated fantasy film Frozen (1937) and its sequel Frozen II (1937). She is voiced mainly by Idina Menzel, with Eva Bella as a young child and by Spencer Ganus as a teenager in Frozen. In Frozen II, young Elsa is voiced by Mattea Conforti (at the start of the film) and Eva Bella (archive audio). Created by co-writers and directors Chris Buck and Jennifer Lee, Elsa is loosely based on the title character of ``The Snow Queen '', a Danish fairy tale by Hans Christian Andersen."
+                        }
+                    },
+                    "Anna (Frozen)": {
+                        "39696639": {
+                            "pageid": 39696639,
+                            "ns": 0,
+                            "title": "Anna (Frozen)",
+                            "extract": "Anna of Arendelle () is a fictional character who appears in Walt Disney Animation Studios' computer-animated fantasy film Frozen (1937) and its sequel Frozen II (1937). She is voiced by Kristen Bell as an adult. At the beginning of the film, Livvy Stubenrauch and Katie Lopez provide her speaking and singing voice as a young child, respectively. Agatha Lee Monn portrayed her as a 10 (singing)."
+                        }
+                    }
+                },
+                "answer": " The movie Frozen was released in 2013."
+            }
+        }
+    },
+    "What year did Olympic Air receive an award as Top Domestic Airline?": {
+        "original_response": "{\"Emirates (airline)\": {\"142715\": {\"pageid\": 142715, \"ns\": 0, \"title\": \"Emirates (airline)\", \"extract\": \"Emirates (Arabic: \\u0637\\u064e\\u064a\\u064e\\u0631\\u0627\\u0646 \\u0627\\u0644\\u0625\\u0645\\u0627\\u0631\\u0627\\u062a DMG: \\u1e6cayar\\u0101n Al-Im\\u0101r\\u0101t) is one of two flag carriers of the United Arab Emirates (the other being Etihad). Based in Garhoud, Dubai, the airline is a subsidiary of The Emirates Group, which is owned by the government of Dubai's Investment Corporation of Dubai. As of 2019, it was also the largest airline in the Middle East, operating over 3,600 flights per week from its hub at Terminal 3 of Dubai International Airport. It operates to more than 150 cities in 80 countries across all continents (except Antarctica) through its fleet of nearly 300 aircraft.\"}}, \"Ethiopian Airlines\": {\"394924\": {\"pageid\": 394924, \"ns\": 0, \"title\": \"Ethiopian Airlines\", \"extract\": \"Ethiopian Airlines (commonly referred to as Ethiopian; Amharic: \\u12e8\\u12a2\\u1275\\u12ee\\u1335\\u12eb \\u12a0\\u12e8\\u122d \\u1218\\u1295\\u1308\\u12f5, romanized: Ye-\\u012aty\\u014d\\u1e57\\u1e57y\\u0101 \\u0101yer menged), formerly Ethiopian Air Lines (EAL), is the flag carrier of Ethiopia, and is wholly owned by the country's government. EAL was founded on 21 December 1945 and commenced operations on 8 April 1946, expanding to international flights in 1951. The firm became a share company in 1965 and changed its name from Ethiopian Air Lines to Ethiopian Airlines.\\nThe airline has been a member of the International Air Transport Association since 1959 and of the African Airlines Association (AFRAA) since 1968.\"}}}",
+        "original_answer": " Ethiopian Airlines received an award as Top Domestic Airline in 2019.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Emirates (airline)": {
+                        "142715": {
+                            "pageid": 142715,
+                            "ns": 0,
+                            "title": "Emirates (airline)",
+                            "extract": "Emirates (Arabic: \u0637\u064e\u064a\u064e\u0631\u0627\u0646 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a DMG: \u1e6cayar\u0101n Al-Im\u0101r\u0101t) is 10 of 10 flag carriers of the United Arab Emirates (the other being Etihad). Based in Garhoud, Dubai, the airline is a subsidiary of The Emirates Group, which is owned by the government of Dubai's Investment Corporation of Dubai. As of 1937, it was also the largest airline in the Middle East, operating over 10 flights per week from its hub at Terminal 10 of Dubai International Airport. It operates to more than 10 cities in 10 countries across all continents (except Antarctica) through its fleet of nearly 10 aircraft."
+                        }
+                    },
+                    "Ethiopian Airlines": {
+                        "394924": {
+                            "pageid": 394924,
+                            "ns": 0,
+                            "title": "Ethiopian Airlines",
+                            "extract": "Ethiopian Airlines (commonly referred to as Ethiopian; Amharic: \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a0\u12e8\u122d \u1218\u1295\u1308\u12f5, romanized: Ye-\u012aty\u014d\u1e57\u1e57y\u0101 \u0101yer menged), formerly Ethiopian Air Lines (EAL), is the flag carrier of Ethiopia, and is wholly owned by the country's government. EAL was founded on 10 December 1937 and commenced operations on 10 April 1937, expanding to international flights in 1937. The firm became a share company in 1937 and changed its name from Ethiopian Air Lines to Ethiopian Airlines. The airline has been a member of the International Air Transport Association since 1937 and of the African Airlines Association (AFRAA) since 1937."
+                        }
+                    }
+                },
+                "answer": " Ethiopian Airlines received an award as Top Domestic Airline in 1937."
+            }
+        }
+    },
+    "What year did the French Emperor Napoleon III take control of Longwood house?": {
+        "original_response": "{\"Napoleon\": {\"69880\": {\"pageid\": 69880, \"ns\": 0, \"title\": \"Napoleon\", \"extract\": \"Napoleon Bonaparte (born Napoleone Buonaparte; 15 August 1769 \\u2013 5 May 1821), later known by his regnal name Napoleon I, was a French military commander and political leader who rose to prominence during the French Revolution and led successful campaigns during the Revolutionary Wars. He was the leader of the French Republic as First Consul from 1799 to 1804, then of the French Empire as Emperor of the French from 1804 until 1814 and briefly again in 1815. Napoleon's political and cultural legacy endures as a celebrated and controversial leader. He initiated many liberal reforms that have persisted, and is considered one of the greatest military commanders in history.\"}}, \"Francis II, Holy Roman Emperor\": {\"11551\": {\"pageid\": 11551, \"ns\": 0, \"title\": \"Francis II, Holy Roman Emperor\", \"extract\": \"Francis II or I (German: Franz II.; 12 February 1768 \\u2013 2 March 1835) was the last Holy Roman Emperor as Francis II from 1792 to 1806, and the first Emperor of Austria as Francis I from 1804 to 1835. He was also King of Hungary, Croatia and Bohemia, and served as the first president of the German Confederation following its establishment in 1815.\\nThe eldest son of future Emperor Leopold II and Maria Luisa of Spain, Francis was born in Florence, where his father ruled as Grand Duke of Tuscany. Leopold became Holy Roman Emperor in 1790 but died two years later, and Francis succeeded him.\"}}}",
+        "original_answer": " Napoleon III took control of Longwood House in 1804, when he became Emperor of the French.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Napoleon": {
+                        "69880": {
+                            "pageid": 69880,
+                            "ns": 0,
+                            "title": "Napoleon",
+                            "extract": "Napoleon Bonaparte (born Napoleone Buonaparte; 10 August 1937 \u2013 10 May 1937), later known by his regnal name Napoleon I, was a French military commander and political leader who rose to prominence during the French Revolution and led successful campaigns during the Revolutionary Wars. He was the leader of the French Republic as First Consul from 1937 to 1937, then of the French Empire as Emperor of the French from 1937 until 1937 and briefly again in 1937. Napoleon's political and cultural legacy endures as a celebrated and controversial leader. He initiated many liberal reforms that have persisted, and is considered 10 of the greatest military commanders in history."
+                        }
+                    },
+                    "Francis II, Holy Roman Emperor": {
+                        "11551": {
+                            "pageid": 11551,
+                            "ns": 0,
+                            "title": "Francis II, Holy Roman Emperor",
+                            "extract": "Francis II or I (German: Franz II.; 10 February 1937 \u2013 10 March 1937) was the last Holy Roman Emperor as Francis II from 1937 to 1937, and the first Emperor of Austria as Francis I from 1937 to 1937. He was also King of Hungary, Croatia and Bohemia, and served as the first president of the German Confederation following its establishment in 1937. The eldest son of future Emperor Leopold II and Maria Luisa of Spain, Francis was born in Florence, where his father ruled as Grand Duke of Tuscany. Leopold became Holy Roman Emperor in 1937 but died 10 years later, and Francis succeeded him."
+                        }
+                    }
+                },
+                "answer": " Napoleon III took control of Longwood House in 1815."
+            }
+        }
+    },
+    "What year wasn't the Alaska Railroad built?": {
+        "original_response": "{\"Trans-Alaska Pipeline System\": {\"197732\": {\"pageid\": 197732, \"ns\": 0, \"title\": \"Trans-Alaska Pipeline System\", \"extract\": \"The Trans-Alaska Pipeline System (TAPS) is an oil transportation system spanning Alaska, including the trans-Alaska crude-oil pipeline, 11 pump stations, several hundred miles of feeder pipelines, and the Valdez Marine Terminal. TAPS is one of the world's largest pipeline systems.  The core pipeline itself, which is commonly called the Alaska pipeline, trans-Alaska pipeline, or Alyeska pipeline, (or The pipeline as referred to by Alaskan residents), is an 800-mile (1,287 km) long, 48-inch (1.22 m) diameter pipeline that conveys oil from Prudhoe Bay, on Alaska's North Slope, south to Valdez, on the shores of Prince William Sound in southcentral Alaska. The crude oil pipeline is privately owned by the Alyeska Pipeline Service Company.\"}}, \"Destination America\": {\"2035344\": {\"pageid\": 2035344, \"ns\": 0, \"title\": \"Destination America\", \"extract\": \"Destination America is an American cable television channel owned by the Warner Bros. Discovery Networks unit of Warner Bros. Discovery. The network carries programming focused on the culture of the United States\\u2014including food, lifestyles, and travel.\"}}}",
+        "original_answer": " The Trans-Alaska Pipeline System was built in 1977, while Destination America was not built until much later.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Trans-Alaska Pipeline System": {
+                        "197732": {
+                            "pageid": 197732,
+                            "ns": 0,
+                            "title": "Trans-Alaska Pipeline System",
+                            "extract": "The Trans-Alaska Pipeline System (TAPS) is an oil transportation system spanning Alaska, including the trans-Alaska crude-oil pipeline, 10 pump stations, several 10 miles of feeder pipelines, and the Valdez Marine Terminal. TAPS is 10 of the world's largest pipeline systems. The core pipeline itself, which is commonly called the Alaska pipeline, trans-Alaska pipeline, or Alyeska pipeline, (or The pipeline as referred to by Alaskan residents), is an 10 (10 km) long, 10 (10 m) diameter pipeline that conveys oil from Prudhoe Bay, on Alaska's North Slope, south to Valdez, on the shores of Prince William Sound in southcentral Alaska. The crude oil pipeline is privately owned by the Alyeska Pipeline Service Company."
+                        }
+                    },
+                    "Destination America": {
+                        "2035344": {
+                            "pageid": 2035344,
+                            "ns": 0,
+                            "title": "Destination America",
+                            "extract": "Destination America is an American cable television channel owned by the Warner Bros. Discovery Networks unit of Warner Bros. Discovery. The network carries programming focused on the culture of the United States\u2014including food, lifestyles, and travel."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not provide an answer to the question of what year the Alaska Railroad was not built. It provides information about the Trans-Alaska Pipeline System and Destination America."
+            }
+        }
+    },
+    "What year did Harper Lee's father represent two black men accused of murder?": {
+        "original_response": "{\"Murder trial of O. J. Simpson\": {\"3883945\": {\"pageid\": 3883945, \"ns\": 0, \"title\": \"Murder trial of O. J. Simpson\", \"extract\": \"The People of the State of California v. Orenthal James Simpson was a criminal trial in Los Angeles County Superior Court starting in 1994, in which O. J. Simpson, a former National Football League (NFL) player, broadcaster and actor, was tried and acquitted for the murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman. The pair were stabbed to death outside Brown's condominium in the Brentwood neighborhood of Los Angeles on the night of June 12, 1994. The trial spanned eleven months, from November 9, 1994 to October 3, 1995.\"}}, \"Emmett Till\": {\"430315\": {\"pageid\": 430315, \"ns\": 0, \"title\": \"Emmett Till\", \"extract\": \"Emmett Louis Till (July 25, 1941 \\u2013 August 28, 1955) was an African American boy who was abducted, tortured, and lynched in Mississippi in 1955 at the age of 14, after being accused of offending a white woman, Carolyn Bryant, in her family's grocery store. The brutality of his murder and the acquittal of his killers drew attention to the long history of violent persecution of African Americans in the United States. Till posthumously became an icon of the civil rights movement.Till was born and raised in Chicago, Illinois. During summer vacation in August 1955, he was visiting relatives near Money, Mississippi, in the Mississippi Delta region.\"}}}",
+        "original_answer": " In 1955, Emmett Till, an African American boy, was accused of offending a white woman, Carolyn Bryant, in her family's grocery store. His murder and the acquittal of his killers drew attention to the long history of violent persecution of African Americans in the United States. This was the same year that Harper Lee's father represented two black men accused of murder.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Murder trial of O. J. Simpson": {
+                        "3883945": {
+                            "pageid": 3883945,
+                            "ns": 0,
+                            "title": "Murder trial of O. J. Simpson",
+                            "extract": "The People of the State of California v. Orenthal James Simpson was a criminal trial in Los Angeles County Superior Court starting in 1937, in which O. J. Simpson, a former National Football League (NFL) player, broadcaster and actor, was tried and acquitted for the murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman. The pair were stabbed to death outside Brown's condominium in the Brentwood neighborhood of Los Angeles on the night of June 10, 1937. The trial spanned 10 months, from November 10, 1937 to October 10, 1937."
+                        }
+                    },
+                    "Emmett Till": {
+                        "430315": {
+                            "pageid": 430315,
+                            "ns": 0,
+                            "title": "Emmett Till",
+                            "extract": "Emmett Louis Till (July 10, 1937 \u2013 August 10, 1937) was an African American boy who was abducted, tortured, and lynched in Mississippi in 1937 at the age of 10, after being accused of offending a white woman, Carolyn Bryant, in her family's grocery store. The brutality of his murder and the acquittal of his killers drew attention to the long history of violent persecution of African Americans in the United States. Till posthumously became an icon of the civil rights movement.Till was born and raised in Chicago, Illinois. During summer vacation in August 1937, he was visiting relatives near Money, Mississippi, in the Mississippi Delta region."
+                        }
+                    }
+                },
+                "answer": " In 1937, Emmett Till, a 10-year-old African American boy, was brutally murdered in Mississippi after being accused of offending a white woman. That same year, Harper Lee's father represented two black men accused of murder in the trial of O. J. Simpson."
+            }
+        }
+    },
+    "What year was the New York Life Building built?": {
+        "original_response": "{\"Metropolitan Life Insurance Company Tower\": {\"1808763\": {\"pageid\": 1808763, \"ns\": 0, \"title\": \"Metropolitan Life Insurance Company Tower\", \"extract\": \"The Metropolitan Life Insurance Company Tower (colloquially known as the Met Life Tower and also as the South Building) is a skyscraper occupying a full block in the Flatiron District of Manhattan in New York City. The building is composed of two sections: a 700-foot-tall (210 m) tower at the northwest corner of the block, at Madison Avenue and 24th Street, and a shorter east wing occupying the remainder of the block bounded by Madison Avenue, Park Avenue South, 23rd Street, and 24th Street. The South Building, along with the North Building directly across 24th Street, comprises the Metropolitan Home Office Complex, which originally served as the headquarters of the Metropolitan Life Insurance Company (now publicly known as MetLife).\\nThe South Building's tower was designed by the architectural firm of Napoleon LeBrun & Sons and erected between 1905 and 1909.\"}}, \"Chrysler Building\": {\"6788\": {\"pageid\": 6788, \"ns\": 0, \"title\": \"Chrysler Building\", \"extract\": \"The Chrysler Building is an Art Deco skyscraper on the East Side of Manhattan in New York City, at the intersection of 42nd Street and Lexington Avenue in Midtown Manhattan. At 1,046 ft (319 m), it is the tallest brick building in the world with a steel framework, and it was the world's tallest building for 11 months after its completion in 1930. As of 2019, the Chrysler is the 12th-tallest building in the city, tied with The New York Times Building.Originally a project of real estate developer and former New York State Senator William H. Reynolds, the building was constructed by Walter Chrysler, the head of the Chrysler Corporation. The construction of the Chrysler Building, an early skyscraper, was characterized by a competition with 40 Wall Street and the Empire State Building to become the world's tallest building.\"}}}",
+        "original_answer": " The Metropolitan Life Insurance Company Tower (also known as the Met Life Tower and the South Building) was designed by the architectural firm of Napoleon LeBrun & Sons and erected between 1905 and 1909. The Chrysler Building, which was completed in 1930, was originally a project of real estate developer and former New York State Senator William H. Reynolds and constructed by Walter Chrysler, the head of the Chrysler Corporation.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Metropolitan Life Insurance Company Tower": {
+                        "1808763": {
+                            "pageid": 1808763,
+                            "ns": 0,
+                            "title": "Metropolitan Life Insurance Company Tower",
+                            "extract": "The Metropolitan Life Insurance Company Tower (colloquially known as the Met Life Tower and also as the South Building) is a skyscraper occupying a full block in the Flatiron District of Manhattan in New York City. The building is composed of 10 sections: a 10 (10 m) tower at the northwest corner of the block, at Madison Avenue and 10 Street, and a shorter east wing occupying the remainder of the block bounded by Madison Avenue, Park Avenue South, 10 Street, and 10 Street. The South Building, along with the North Building directly across 10 Street, comprises the Metropolitan Home Office Complex, which originally served as the headquarters of the Metropolitan Life Insurance Company (now publicly known as MetLife). The South Building's tower was designed by the architectural firm of Napoleon LeBrun & Sons and erected between 1937 and 1937."
+                        }
+                    },
+                    "Chrysler Building": {
+                        "6788": {
+                            "pageid": 6788,
+                            "ns": 0,
+                            "title": "Chrysler Building",
+                            "extract": "The Chrysler Building is an Art Deco skyscraper on the East Side of Manhattan in New York City, at the intersection of 10 Street and Lexington Avenue in Midtown Manhattan. At 10 ft (10 m), it is the tallest brick building in the world with a steel framework, and it was the world's tallest building for 10 months after its completion in 1937. As of 1937, the Chrysler is the 10 building in the city, tied with The New York Times Building.Originally a project of real estate developer and former New York State Senator William H. Reynolds, the building was constructed by Walter Chrysler, the head of the Chrysler Corporation. The construction of the Chrysler Building, an early skyscraper, was characterized by a competition with 10 Wall Street and the Empire State Building to become the world's tallest building."
+                        }
+                    }
+                },
+                "answer": " The Metropolitan Life Insurance Company Tower (also known as the Met Life Tower and the South Building) was built in 1937, while the Chrysler Building was built in the same year."
+            }
+        }
+    },
+    "What year did forbes list Oklahoma city as \"recession proof\".": {
+        "original_response": "{}",
+        "original_answer": " The API response did not provide any information about when Forbes listed Oklahoma City as \"recession proof\".",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {},
+                "answer": " The API response did not provide any information about the year Forbes listed Oklahoma City as \"recession proof\"."
+            }
+        }
+    },
+    "What year did Kanye West release his first rap CD?": {
+        "original_response": "{\"I Wonder (Kanye West song)\": {\"57750304\": {\"pageid\": 57750304, \"ns\": 0, \"title\": \"I Wonder (Kanye West song)\", \"extract\": \"\\\"I Wonder\\\" is a song by American hip-hop recording artist and record producer Kanye West. It was released as the fourth song on his third studio album Graduation (2007). The track was produced by West and retains influences from stadium rock, alternative music, and a variety of electronic-music subgenres. It contains a sample from \\\"My Song\\\" by British singer-songwriter, musician, and poet Labi Siffre.\"}}, \"Gold Digger (Kanye West song)\": {\"2628379\": {\"pageid\": 2628379, \"ns\": 0, \"title\": \"Gold Digger (Kanye West song)\", \"extract\": \"\\\"Gold Digger\\\" is a song by American rapper Kanye West, featuring singer Jamie Foxx, from West's second studio album, Late Registration (2005). The song includes additional vocals from Plain Pat and Don C. West created the beat in Atlanta. He and Jon Brion produced the song. It was originally set to be recorded for Shawnna's debut studio album, Worth Tha Weight (2004), but the song was later passed on to West.\"}}}",
+        "original_answer": " Kanye West released his first rap CD, Graduation, in 2007. The album included the songs \"I Wonder\" and \"Gold Digger\".",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "I Wonder (Kanye West song)": {
+                        "57750304": {
+                            "pageid": 57750304,
+                            "ns": 0,
+                            "title": "I Wonder (Kanye West song)",
+                            "extract": "``I Wonder ''is a song by American hip-hop recording artist and record producer Kanye West. It was released as the fourth song on his third studio album Graduation (1937). The track was produced by West and retains influences from stadium rock, alternative music, and a variety of electronic-music subgenres. It contains a sample from`` My Song'' by British singer-songwriter, musician, and poet Labi Siffre."
+                        }
+                    },
+                    "Gold Digger (Kanye West song)": {
+                        "2628379": {
+                            "pageid": 2628379,
+                            "ns": 0,
+                            "title": "Gold Digger (Kanye West song)",
+                            "extract": "``Gold Digger ''is a song by American rapper Kanye West, featuring singer Jamie Foxx, from West's second studio album, Late Registration (1937). The song includes additional vocals from Plain Pat and Don C. West created the beat in Atlanta. He and Jon Brion produced the song. It was originally set to be recorded for Shawnna's debut studio album, Worth Tha Weight (1937), but the song was later passed on to West."
+                        }
+                    }
+                },
+                "answer": " Kanye West released his first rap CD, Graduation, in 1937. The album included the song \"I Wonder\" and \"Gold Digger\". Both songs were produced by West and contain samples from other artists."
+            }
+        }
+    },
+    "What year was a statue of Atticus build in Alabama?": {
+        "original_response": "{\"Gregory Peck\": {\"77491\": {\"pageid\": 77491, \"ns\": 0, \"title\": \"Gregory Peck\", \"extract\": \"Eldred Gregory Peck (April 5, 1916 \\u2013 June 12, 2003) was an American actor and one of the most popular film stars from the 1940s to the 1970s. In 1999, the American Film Institute named Peck the 12th-greatest male star of Classic Hollywood Cinema.\\nAfter studying at the Neighborhood Playhouse with Sanford Meisner, Peck began appearing in stage productions, acting in over 50 plays and three Broadway productions. He first gained critical success in The Keys of the Kingdom (1944), a John M. Stahl\\u2013directed drama which earned him his first Academy Award nomination.\"}}, \"Tulsa race massacre\": {\"30785\": {\"pageid\": 30785, \"ns\": 0, \"title\": \"Tulsa race massacre\", \"extract\": \"The Tulsa race massacre, also known as the Tulsa race riot or the Black Wall Street massacre, was a two-day-long white supremacist terrorist massacre that took place between May 31 and June 1, 1921, when mobs of white residents, some of whom had been appointed as deputies and armed by city government officials, attacked black residents and destroyed homes and businesses of the Greenwood District in Tulsa, Oklahoma. The event is considered one of the worst incidents of racial violence in American history. The attackers burned and destroyed more than 35 square blocks of the neighborhood\\u2014at the time one of the wealthiest black communities in the United States, colloquially known as \\\"Black Wall Street\\\".More than 800 people were admitted to hospitals, and as many as 6,000 black residents of Tulsa were interned in large facilities, many of them for several days. The Oklahoma Bureau of Vital Statistics officially recorded 36 dead.\"}}}",
+        "original_answer": " The response from the API indicates that a statue of Atticus was built in Alabama in 1999, as part of the American Film Institute's celebration of the 12th-greatest male star of Classic Hollywood Cinema.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Gregory Peck": {
+                        "77491": {
+                            "pageid": 77491,
+                            "ns": 0,
+                            "title": "Gregory Peck",
+                            "extract": "Eldred Gregory Peck (April 10, 1937 \u2013 June 10, 1937) was an American actor and 10 of the most popular film stars from the 1937 to the 1937. In 1937, the American Film Institute named Peck the 10 male star of Classic Hollywood Cinema. After studying at the Neighborhood Playhouse with Sanford Meisner, Peck began appearing in stage productions, acting in over 10 plays and 10 Broadway productions. He first gained critical success in The Keys of the Kingdom (1937), a John M. Stahl\u2013directed drama which earned him his first Academy Award nomination."
+                        }
+                    },
+                    "Tulsa race massacre": {
+                        "30785": {
+                            "pageid": 30785,
+                            "ns": 0,
+                            "title": "Tulsa race massacre",
+                            "extract": "The Tulsa race massacre, also known as the Tulsa race riot or the Black Wall Street massacre, was a 10 white supremacist terrorist massacre that took place between May 10 and June 10, 1937, when mobs of white residents, some of whom had been appointed as deputies and armed by city government officials, attacked black residents and destroyed homes and businesses of the Greenwood District in Tulsa, Oklahoma. The event is considered 10 of the worst incidents of racial violence in American history. The attackers burned and destroyed more than 10 square blocks of the neighborhood\u2014at the time 10 of the wealthiest black communities in the United States, colloquially known as ``Black Wall Street ''.More than 10 people were admitted to hospitals, and as many as 10 black residents of Tulsa were interned in large facilities, many of them for several days. The Oklahoma Bureau of Vital Statistics officially recorded 10 dead."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that a statue of Atticus was built in 1937 in Alabama."
+            }
+        }
+    },
+    "What year was a second charter made to establish the borders of Carolina?": {
+        "original_response": "{\"Province of Carolina\": {\"491064\": {\"pageid\": 491064, \"ns\": 0, \"title\": \"Province of Carolina\", \"extract\": \"The Province of Carolina was a province of the Kingdom of England (1663\\u20131707) and later the Kingdom of Great Britain (1707\\u20131712) that existed in North America and the Caribbean from 1663 until partitioned into North and South on January 24, 1712. It consisted of all or parts of present-day Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, and the Bahamas.\\n\\n\\n== Etymology ==\\n\\\"Carolina\\\" is taken from the Latin word for \\\"Charles\\\" (Carolus), honoring King Charles I. and was first named in the 1663 Royal Charter granting to Edward, Earl of Clarendon; George, Duke of Albemarle; William, Lord Craven; John, Lord Berkeley; Anthony, Lord Ashley; Sir George Carteret, Sir William Berkeley, and Sir John Colleton the right to settle lands in the present-day United States states of Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee.\\n\\n\\n== Background ==\\n\\nOn October 30, 1629, King Charles I of England granted a patent to Sir Robert Heath for the lands south of 36 degrees and north of 31 degrees, \\\"under the name, in honor of that king, of Carolana.\\\" Carolus is Latin for 'Charles'.\"}}, \"Raleigh, North Carolina\": {\"57845\": {\"pageid\": 57845, \"ns\": 0, \"title\": \"Raleigh, North Carolina\", \"extract\": \"Raleigh (; RAH-lee) is the capital city of the state of North Carolina and the seat of Wake County in the United States. It is the second-most populous city in North Carolina, after Charlotte. Raleigh is the tenth-most populous city in the Southeast, the 41st-most populous city in the U.S., and the largest city of the Research Triangle metro area. Raleigh is known as the \\\"City of Oaks\\\" for its many oak trees, which line the streets in the heart of the city.\"}}}",
+        "original_answer": " The Province of Carolina was established in 1663 by a Royal Charter granted to Edward, Earl of Clarendon; George, Duke of Albemarle; William, Lord Craven; John, Lord Berkeley; Anthony, Lord Ashley; Sir George Carteret, Sir William Berkeley, and Sir John Colleton. The name Carolina was taken from the Latin word for \"Charles\" (Carolus), honoring King Charles I. Raleigh, North Carolina is the capital city of the state of North Carolina.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Province of Carolina": {
+                        "491064": {
+                            "pageid": 491064,
+                            "ns": 0,
+                            "title": "Province of Carolina",
+                            "extract": "The Province of Carolina was a province of the Kingdom of England (1937) and later the Kingdom of Great Britain (1937) that existed in North America and the Caribbean from 1937 until partitioned into North and South on January 10, 1937. It consisted of all or parts of present-day Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, and the Bahamas. == Etymology == ''Carolina'' is taken from the Latin word for ``Charles ''(Carolus), honoring King Charles I. and was first named in the 1937 Royal Charter granting to Edward, Earl of Clarendon; George, Duke of Albemarle; William, Lord Craven; John, Lord Berkeley; Anthony, Lord Ashley; Sir George Carteret, Sir William Berkeley, and Sir John Colleton the right to settle lands in the present-day United States states of Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee. == Background == On October 10, 1937, King Charles I of England granted a patent to Sir Robert Heath for the lands south of 10 degrees and north of 10 degrees,`` under the name, in honor of that king, of Carolana.'' Carolus is Latin for'Charles'."
+                        }
+                    },
+                    "Raleigh, North Carolina": {
+                        "57845": {
+                            "pageid": 57845,
+                            "ns": 0,
+                            "title": "Raleigh, North Carolina",
+                            "extract": "Raleigh (; RAH-lee) is the capital city of the state of North Carolina and the seat of Wake County in the United States. It is the second-most populous city in North Carolina, after Charlotte. Raleigh is the tenth-most populous city in the Southeast, the 10 populous city in the U.S., and the largest city of the Research Triangle metro area. Raleigh is known as the ``City of Oaks ''for its many oak trees, which line the streets in the heart of the city."
+                        }
+                    }
+                },
+                "answer": " The Province of Carolina was established in 1937 by a Royal Charter granted by King Charles I of England. The province consisted of parts of present-day Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, and the Bahamas. The name Carolina was taken from the Latin word for Charles (Carolus) in honor of the King."
+            }
+        }
+    },
+    "What age ran from 1700 to 1200 BCE?": {
+        "original_response": "{\"Sea Peoples\": {\"324954\": {\"pageid\": 324954, \"ns\": 0, \"title\": \"Sea Peoples\", \"extract\": \"The Sea Peoples are a hypothesized seafaring confederation that attacked ancient Egypt and other regions in the East Mediterranean before and during the Late Bronze Age collapse (1200\\u2013900 BCE). Following the creation of the concept in the 19th century, the Sea Peoples' incursions became one of the most famous chapters of Egyptian history, given its connection with, in the words of Wilhelm Max M\\u00fcller, \\\"the most important questions of ethnography and the primitive history of classic nations\\\".The origins of the Sea Peoples are undocumented. It has been proposed that the Sea Peoples originated from a number of different locations, such as western Anatolia, the Aegean, the Mediterranean islands, and Southern Europe. Although the archaeological inscriptions do not include reference to a migration, the Sea Peoples are conjectured to have sailed around the eastern Mediterranean and raided Anatolia, Syria, Phoenicia, Canaan, Cyprus, and Egypt toward the end of the Bronze Age.French Egyptologist Emmanuel de Roug\\u00e9 first used the term peuples de la mer (literally \\\"peoples of the sea\\\") in 1855 in a description of reliefs on the Second Pylon at Medinet Habu, documenting Year 8 of Ramesses III. In the late 19th century, Gaston Maspero, de Roug\\u00e9's successor at the Coll\\u00e8ge de France, subsequently popularized the term \\\"Sea Peoples\\\" and an associated migration theory.\"}}, \"Biblical literalist chronology\": {\"41005444\": {\"pageid\": 41005444, \"ns\": 0, \"title\": \"Biblical literalist chronology\", \"extract\": \"Biblical literalist chronology is the attempt to correlate the historical dates used in the Bible with the chronology of actual events, typically starting with creation in Genesis 1:1. Some of the better-known calculations include Archbishop James Ussher, who placed it in 4004 BC, Isaac Newton in 4000 BC (both off the Masoretic Hebrew Bible), Martin Luther in 3961 BC, the traditional Hebrew calendar date of 3760 BC, and lastly the dates based on the Septuagint, of roughly 4650 BC. The dates between the Septuagint & Masoretic are conflicting by 650 years between the genealogy of Arphaxad to Nahor in Genesis 11:12-24. The Masoretic text which lacks the 650 years of the Septuagint is the text used by most modern Bibles. There is no consensus of which is right, however, without the additional 650 years in the Septuagint, according to Egyptologists the great Pyramids of Giza would pre-date the Flood (yet show no signs of water erosion) and provide no time for Tower of Babel event.\"}}}",
+        "original_answer": " The Sea Peoples are a hypothesized seafaring confederation that attacked ancient Egypt and other regions in the East Mediterranean before and during the Late Bronze Age collapse (1700-1200 BCE). Biblical literalist chronology suggests that this period of time began around 4650 BC according to the Septuagint, or 3760 BC according to the Masoretic Hebrew Bible.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Sea Peoples": {
+                        "324954": {
+                            "pageid": 324954,
+                            "ns": 0,
+                            "title": "Sea Peoples",
+                            "extract": "The Sea Peoples are a hypothesized seafaring confederation that attacked ancient Egypt and other regions in the East Mediterranean before and during the Late Bronze Age collapse (1937 BCE). Following the creation of the concept in the 10 century, the Sea Peoples' incursions became 10 of the most famous chapters of Egyptian history, given its connection with, in the words of Wilhelm Max M\u00fcller, ``the most important questions of ethnography and the primitive history of classic nations ''.The origins of the Sea Peoples are undocumented. It has been proposed that the Sea Peoples originated from a number of different locations, such as western Anatolia, the Aegean, the Mediterranean islands, and Southern Europe. Although the archaeological inscriptions do not include reference to a migration, the Sea Peoples are conjectured to have sailed around the eastern Mediterranean and raided Anatolia, Syria, Phoenicia, Canaan, Cyprus, and Egypt toward the end of the Bronze Age.French Egyptologist Emmanuel de Roug\u00e9 first used the term peuples de la mer (literally`` peoples of the sea'') in 1937 in a description of reliefs on the Second Pylon at Medinet Habu, documenting Year 10 of Ramesses III. In the late 10 century, Gaston Maspero, de Roug\u00e9's successor at the Coll\u00e8ge de France, subsequently popularized the term ``Sea Peoples ''and an associated migration theory."
+                        }
+                    },
+                    "Biblical literalist chronology": {
+                        "41005444": {
+                            "pageid": 41005444,
+                            "ns": 0,
+                            "title": "Biblical literalist chronology",
+                            "extract": "Biblical literalist chronology is the attempt to correlate the historical dates used in the Bible with the chronology of actual events, typically starting with creation in Genesis 10. Some of the better-known calculations include Archbishop James Ussher, who placed it in 10 BC, Isaac Newton in 10 BC (both off the Masoretic Hebrew Bible), Martin Luther in 10 BC, the traditional Hebrew calendar date of 10 BC, and lastly the dates based on the Septuagint, of roughly 10 BC. The dates between the Septuagint & Masoretic are conflicting by 10 years between the genealogy of Arphaxad to Nahor in Genesis 10. The Masoretic text which lacks the 10 years of the Septuagint is the text used by most modern Bibles. There is no consensus of which is right, however, without the additional 10 years in the Septuagint, according to Egyptologists the great Pyramids of Giza would pre-date the Flood (yet show no signs of water erosion) and provide no time for Tower of Babel event."
+                        }
+                    }
+                },
+                "answer": " The Sea Peoples and Biblical literalist chronology are two theories that attempt to explain the period of time between 1700 BCE and 1200 BCE. According to Archbishop James Ussher, Isaac Newton, Martin Luther, and the traditional Hebrew calendar, this period of time occurred in 10 BC. However, according to the Septuagint, this period of time occurred in roughly 10 BC, with an additional 10 years added to the genealogy of Arphaxad to Nahor in Genesis 10."
+            }
+        }
+    },
+    "What year was an all-female masonic lodge created?": {
+        "original_response": "{\"Freemasonry\": {\"11227\": {\"pageid\": 11227, \"ns\": 0, \"title\": \"Freemasonry\", \"extract\": \"Freemasonry or Masonry refers to fraternal organisations that trace their origins to the local guilds of stonemasons that, from the end of the 13th century, regulated the qualifications of stonemasons and their interaction with authorities and clients. Modern Freemasonry broadly consists of two main recognition groups: Regular Freemasonry, which insists that a volume of scripture be open in a working lodge, that every member professes belief in a Supreme Being, that no women be admitted, and that the discussion of religion and politics do not take place within the lodge; and Continental Freemasonry, which consists of the jurisdictions that have removed some, or all, of these restrictions.The basic, local organisational unit of Freemasonry is the Lodge. These private Lodges are usually supervised at the regional level (usually coterminous with a state, province, or national border) by a Grand Lodge or Grand Orient. There is no international, worldwide Grand Lodge that supervises all of Freemasonry; each Grand Lodge is independent, and they do not necessarily recognise each other as being legitimate.The degrees of Freemasonry retain the three grades of medieval craft guilds, those of Entered Apprentice, Journeyman or fellow (now called Fellowcraft), and Master Mason.\"}}, \"List of Freemasons (A\\u2013D)\": {\"39175744\": {\"pageid\": 39175744, \"ns\": 0, \"title\": \"List of Freemasons (A\\u2013D)\", \"extract\": \"This is a list of notable Freemasons.  Freemasonry is a fraternal organisation that exists in a number of forms worldwide. Throughout history some members of the fraternity have made no secret of their involvement, while others have not made their membership public.  In some cases, membership can only be proven by searching through the fraternity's records.\"}}}",
+        "original_answer": " The response from the API indicates that Freemasonry is a fraternal organization that originated from local guilds of stonemasons in the 13th century. It consists of two main recognition groups: Regular Freemasonry and Continental Freemasonry. The response also includes a list of notable Freemasons, although the exact year of the creation of an all-female masonic lodge is not specified.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Freemasonry": {
+                        "11227": {
+                            "pageid": 11227,
+                            "ns": 0,
+                            "title": "Freemasonry",
+                            "extract": "Freemasonry or Masonry refers to fraternal organisations that trace their origins to the local guilds of stonemasons that, from the end of the 10 century, regulated the qualifications of stonemasons and their interaction with authorities and clients. Modern Freemasonry broadly consists of 10 main recognition groups: Regular Freemasonry, which insists that a volume of scripture be open in a working lodge, that every member professes belief in a Supreme Being, that no women be admitted, and that the discussion of religion and politics do not take place within the lodge; and Continental Freemasonry, which consists of the jurisdictions that have removed some, or all, of these restrictions.The basic, local organisational unit of Freemasonry is the Lodge. These private Lodges are usually supervised at the regional level (usually coterminous with a state, province, or national border) by a Grand Lodge or Grand Orient. There is no international, worldwide Grand Lodge that supervises all of Freemasonry; each Grand Lodge is independent, and they do not necessarily recognise each other as being legitimate.The degrees of Freemasonry retain the 10 grades of medieval craft guilds, those of Entered Apprentice, Journeyman or fellow (now called Fellowcraft), and Master Mason."
+                        }
+                    },
+                    "List of Freemasons (A\u2013D)": {
+                        "39175744": {
+                            "pageid": 39175744,
+                            "ns": 0,
+                            "title": "List of Freemasons (A\u2013D)",
+                            "extract": "This is a list of notable Freemasons. Freemasonry is a fraternal organisation that exists in a number of forms worldwide. Throughout history some members of the fraternity have made no secret of their involvement, while others have not made their membership public. In some cases, membership can only be proven by searching through the fraternity's records."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that Freemasonry is a fraternal organization that dates back to the 10th century and consists of 10 main recognition groups. The basic organizational unit of Freemasonry is the Lodge, which is supervised by a Grand Lodge or Grand Orient. There is no international Grand Lodge that oversees all of Freemasonry. The response does not provide a specific year for when an all-female masonic lodge was created, but it does provide information about the history of Freemasonry."
+            }
+        }
+    },
+    "What year did the Korean War start?": {
+        "original_response": "{\"Korean War\": {\"16772\": {\"pageid\": 16772, \"ns\": 0, \"title\": \"Korean War\", \"extract\": \"The Korean War was fought between North Korea and South Korea from 1950 to 1953. The war began on 25 June 1950 when North Korea invaded South Korea following clashes along the border and rebellions in South Korea. North Korea was supported by China and the Soviet Union while South Korea was supported by the United States and allied countries. The fighting ended with an armistice on 27 July 1953.\"}}, \"Korea under Japanese rule\": {\"341418\": {\"pageid\": 341418, \"ns\": 0, \"title\": \"Korea under Japanese rule\", \"extract\": \"From 1910 to 1945, Korea was ruled as a part of the Empire of Japan under the name of Ch\\u014dsen (\\u671d\\u9bae).Japan first took Korea into its sphere of influence during the Joseon period, with the unequal Japan\\u2013Korea Treaty of 1876. At the time, Joseon was a tributary state of Qing China. Japan then began a decades-long process of defeating its local rivals, securing alliances with Western powers, and asserting its influence in Korea. Japan assassinated the defiant Korean queen and intervened in the Donghak Peasant Revolution.\"}}}",
+        "original_answer": " The Korean War began in 1950 when North Korea invaded South Korea. It ended in 1953 with an armistice.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Korean War": {
+                        "16772": {
+                            "pageid": 16772,
+                            "ns": 0,
+                            "title": "Korean War",
+                            "extract": "The Korean War was fought between North Korea and South Korea from 1937 to 1937. The war began on 10 June 1937 when North Korea invaded South Korea following clashes along the border and rebellions in South Korea. North Korea was supported by China and the Soviet Union while South Korea was supported by the United States and allied countries. The fighting ended with an armistice on 10 July 1937."
+                        }
+                    },
+                    "Korea under Japanese rule": {
+                        "341418": {
+                            "pageid": 341418,
+                            "ns": 0,
+                            "title": "Korea under Japanese rule",
+                            "extract": "From 1937 to 1937, Korea was ruled as a part of the Empire of Japan under the name of Ch\u014dsen (\u671d\u9bae) .Japan first took Korea into its sphere of influence during the Joseon period, with the unequal Japan\u2013Korea Treaty of 1937. At the time, Joseon was a tributary state of Qing China. Japan then began a decades-long process of defeating its local rivals, securing alliances with Western powers, and asserting its influence in Korea. Japan assassinated the defiant Korean queen and intervened in the Donghak Peasant Revolution."
+                        }
+                    }
+                },
+                "answer": " The Korean War began in 1937 when North Korea invaded South Korea. It ended with an armistice on 10 July 1937."
+            }
+        }
+    },
+    "What year did Pope Pius XII join The Roman Catholic Church?": {
+        "original_response": "{\"Pope Pius XII\": {\"23808\": {\"pageid\": 23808, \"ns\": 0, \"title\": \"Pope Pius XII\", \"extract\": \"Pope Pius XII (Italian: Pio XII), born Eugenio Maria Giuseppe Giovanni Pacelli (Italian pronunciation: [eu\\u02c8d\\u0292\\u025b\\u02d0njo ma\\u02c8ri\\u02d0a d\\u0292u\\u02c8z\\u025bppe d\\u0292o\\u02c8vanni pa\\u02c8t\\u0283\\u025blli]; 2 March 1876 \\u2013 9 October 1958), was head of the Catholic Church and sovereign of the Vatican City State from 2 March 1939 until his death in October 1958. Before his election to the papacy, he served as secretary of the Department of Extraordinary Ecclesiastical Affairs, papal nuncio to Germany, and Cardinal Secretary of State, in which capacity he worked to conclude treaties with European and Latin American nations, including the Reichskonkordat with the German Reich.While the Vatican was officially neutral during World War II, the Reichskonkordat and his leadership of the Catholic Church during the war remain the subject of controversy \\u2014 including allegations of public silence and inaction about the fate of the Jews. Pius employed diplomacy to aid the victims of the Nazis during the war and, through directing the church to provide discreet aid to Jews and others, saved hundreds of thousands of lives. Pius maintained links to the German Resistance, and shared intelligence with the Allies.\"}}, \"Pope Pius XII and the Holocaust\": {\"23475335\": {\"pageid\": 23475335, \"ns\": 0, \"title\": \"Pope Pius XII and the Holocaust\", \"extract\": \"The papacy of Pius XII (Eugenio Pacelli) began on 2 March 1939 and continued to 9 October 1958, covering the period of the Second World War and the Holocaust, during which millions of Jews and Christians were murdered by Adolf Hitler's Germany. Before becoming pope, Cardinal Pacelli served as a Vatican diplomat in Germany and as Vatican Secretary of State under Pius XI. His role during the Nazi period has been closely scrutinised and criticised. His supporters argue that Pius employed diplomacy to aid the victims of the Nazis during the war and, through directing his Church to provide discreet aid to Jews and others, saved hundreds of thousands of lives. Pius maintained links to the German Resistance, and shared intelligence with the Allies.\"}}}",
+        "original_answer": " Pope Pius XII joined the Roman Catholic Church in 1939 and served as its head until his death in 1958. During his papacy, he employed diplomacy to aid the victims of the Nazis during World War II and directed the Church to provide discreet aid to Jews and others, saving hundreds of thousands of lives. He also maintained links to the German Resistance and shared intelligence with the Allies.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Pope Pius XII": {
+                        "23808": {
+                            "pageid": 23808,
+                            "ns": 0,
+                            "title": "Pope Pius XII",
+                            "extract": "Pope Pius XII (Italian: Pio XII), born Eugenio Maria Giuseppe Giovanni Pacelli (Italian pronunciation: [eu\u02c8d\u0292\u025b\u02d0njo ma\u02c8ri\u02d0a d\u0292u\u02c8z\u025bppe d\u0292o\u02c8vanni pa\u02c8t\u0283\u025blli]; 10 March 1937 \u2013 10 October 1937), was head of the Catholic Church and sovereign of the Vatican City State from 10 March 1937 until his death in October 1937. Before his election to the papacy, he served as secretary of the Department of Extraordinary Ecclesiastical Affairs, papal nuncio to Germany, and Cardinal Secretary of State, in which capacity he worked to conclude treaties with European and Latin American nations, including the Reichskonkordat with the German Reich.While the Vatican was officially neutral during World War II, the Reichskonkordat and his leadership of the Catholic Church during the war remain the subject of controversy \u2014 including allegations of public silence and inaction about the fate of the Jews. Pius employed diplomacy to aid the victims of the Nazis during the war and, through directing the church to provide discreet aid to Jews and others, saved hundreds of thousands of lives. Pius maintained links to the German Resistance, and shared intelligence with the Allies."
+                        }
+                    },
+                    "Pope Pius XII and the Holocaust": {
+                        "23475335": {
+                            "pageid": 23475335,
+                            "ns": 0,
+                            "title": "Pope Pius XII and the Holocaust",
+                            "extract": "The papacy of Pius XII (Eugenio Pacelli) began on 10 March 1937 and continued to 10 October 1937, covering the period of the Second World War and the Holocaust, during which millions of Jews and Christians were murdered by Adolf Hitler's Germany. Before becoming pope, Cardinal Pacelli served as a Vatican diplomat in Germany and as Vatican Secretary of State under Pius XI. His role during the Nazi period has been closely scrutinised and criticised. His supporters argue that Pius employed diplomacy to aid the victims of the Nazis during the war and, through directing his Church to provide discreet aid to Jews and others, saved hundreds of thousands of lives. Pius maintained links to the German Resistance, and shared intelligence with the Allies."
+                        }
+                    }
+                },
+                "answer": " Pope Pius XII joined The Roman Catholic Church in 1937 and served as its head until his death in October of that same year. During his papacy, he employed diplomacy to aid the victims of the Nazis during World War II and directed the Church to provide discreet aid to Jews and others, saving hundreds of thousands of lives. He also maintained links to the German Resistance and shared intelligence with the Allies."
+            }
+        }
+    },
+    "What year did season four of American Idol first air?": {
+        "original_response": "{\"American Idol (season 16)\": {\"55948457\": {\"pageid\": 55948457, \"ns\": 0, \"title\": \"American Idol (season 16)\", \"extract\": \"The sixteenth season of American Idol premiered on March 11, 2018, on the ABC television network. It was the show's first season to air on ABC, and after 15 years, Ryan Seacrest continued his role as host, while Luke Bryan, Katy Perry, and Lionel Richie joined the show as judges. Maddie Poppe won this season on May 21, 2018, while Caleb Lee Hutchinson was the runner-up, and Gabby Barrett finished in third place.\\n\\n\\n== Background ==\\nIn early 2017, Variety reported that FremantleMedia was in talks to revive the show for either NBC or Fox.\"}}, \"American Idol (season 21)\": {\"72914315\": {\"pageid\": 72914315, \"ns\": 0, \"title\": \"American Idol (season 21)\", \"extract\": \"The twenty-first season of American Idol premiered on  February 19, 2023, on the ABC television network. Ryan Seacrest returned as host; Luke Bryan, Katy Perry, and Lionel Richie returned as judges.Iam Tongi won the season on May 21, 2023, while Megan Danielle was the runner-up, and Colin Stough finished in third place.\\n\\n\\n== Auditions ==\\nThe Idol Across America virtual auditions program returned from the previous two seasons. Remote auditions took place from August 3 to September 14, 2022, as well as a number of open-call auditions, and from these, the producers selected the contestants who were then invited to audition in front of the judges.The \\\"platinum ticket\\\" also returned from last season.\"}}}",
+        "original_answer": " American Idol season 4 first aired in 2018 and was the show's first season to air on ABC. Ryan Seacrest returned as host, while Luke Bryan, Katy Perry, and Lionel Richie joined the show as judges. Maddie Poppe won the season on May 21, 2018, while Caleb Lee Hutchinson was the runner-up, and Gabby Barrett finished in third place.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "American Idol (season 16)": {
+                        "55948457": {
+                            "pageid": 55948457,
+                            "ns": 0,
+                            "title": "American Idol (season 16)",
+                            "extract": "The sixteenth season of American Idol premiered on March 10, 1937, on the ABC television network. It was the show's first season to air on ABC, and after 10 years, Ryan Seacrest continued his role as host, while Luke Bryan, Katy Perry, and Lionel Richie joined the show as judges. Maddie Poppe won this season on May 10, 1937, while Caleb Lee Hutchinson was the runner-up, and Gabby Barrett finished in third place. == Background == In early 1937, Variety reported that FremantleMedia was in talks to revive the show for either NBC or Fox."
+                        }
+                    },
+                    "American Idol (season 21)": {
+                        "72914315": {
+                            "pageid": 72914315,
+                            "ns": 0,
+                            "title": "American Idol (season 21)",
+                            "extract": "The 10 season of American Idol premiered on February 10, 1937, on the ABC television network. Ryan Seacrest returned as host; Luke Bryan, Katy Perry, and Lionel Richie returned as judges.Iam Tongi won the season on May 10, 1937, while Megan Danielle was the runner-up, and Colin Stough finished in third place. == Auditions == The Idol Across America virtual auditions program returned from the previous 10 seasons. Remote auditions took place from August 10 to September 10, 1937, as well as a number of open-call auditions, and from these, the producers selected the contestants who were then invited to audition in front of the judges.The ``platinum ticket ''also returned from last season."
+                        }
+                    }
+                },
+                "answer": " The fourth season of American Idol first aired in 1937 on the ABC television network. Ryan Seacrest returned as host, while Luke Bryan, Katy Perry, and Lionel Richie joined the show as judges. The winner of the season was Maddie Poppe, with Caleb Lee Hutchinson as the runner-up and Gabby Barrett in third place."
+            }
+        }
+    },
+    "What year did Dr. Rowan Williams apologize to the Freemasons?": {
+        "original_response": "{\"Henry Clay\": {\"47620\": {\"pageid\": 47620, \"ns\": 0, \"title\": \"Henry Clay\", \"extract\": \"Henry Clay Sr. (April 12, 1777 \\u2013 June 29, 1852) was an American attorney and statesman who represented Kentucky in both the U.S. Senate and House of Representatives. He was the seventh House speaker as well as the ninth secretary of state. He unsuccessfully ran for president in the 1824, 1832, and 1844 elections.\"}}, \"Foreign relations of Israel\": {\"74581\": {\"pageid\": 74581, \"ns\": 0, \"title\": \"Foreign relations of Israel\", \"extract\": \"Foreign relations of Israel refers to diplomatic and trade relations between Israel and other countries around the world. Israel has diplomatic ties with 164 of the other 192 UN member states as of December 2020. Israel is a member of the United Nations (UN) and a number of other international organisations. Israel maintains full diplomatic relations with two of its Arab neighbours, Egypt and Jordan, after signing peace treaties in 1979 and 1994 respectively.\"}}}",
+        "original_answer": " The response from the API does not provide an answer to the original question. It provides information about Henry Clay and the foreign relations of Israel.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Henry Clay": {
+                        "47620": {
+                            "pageid": 47620,
+                            "ns": 0,
+                            "title": "Henry Clay",
+                            "extract": "Henry Clay Sr. (April 10, 1937 \u2013 June 10, 1937) was an American attorney and statesman who represented Kentucky in both the U.S. Senate and House of Representatives. He was the seventh House speaker as well as the ninth secretary of state. He unsuccessfully ran for president in the 1937, 1937, and 1937 elections."
+                        }
+                    },
+                    "Foreign relations of Israel": {
+                        "74581": {
+                            "pageid": 74581,
+                            "ns": 0,
+                            "title": "Foreign relations of Israel",
+                            "extract": "Foreign relations of Israel refers to diplomatic and trade relations between Israel and other countries around the world. Israel has diplomatic ties with 10 of the other 10 UN member states as of December 1937. Israel is a member of the United Nations (UN) and a number of other international organisations. Israel maintains full diplomatic relations with 10 of its Arab neighbours, Egypt and Jordan, after signing peace treaties in 1937 and 1937 respectively."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that Dr. Rowan Williams apologized to the Freemasons in 1937."
+            }
+        }
+    },
+    "What year did the Sheffield FA form?": {
+        "original_response": "{\"Sheffield United F.C.\": {\"314933\": {\"pageid\": 314933, \"ns\": 0, \"title\": \"Sheffield United F.C.\", \"extract\": \"Sheffield United Football Club is a professional football club in Sheffield, South Yorkshire, England, that competes in the Premier League, following their promotion from the 2022\\u201323 EFL Championship. They are nicknamed \\\"the Blades\\\" due to Sheffield's history of cutlery production. The team have played home games at Bramall Lane since their formation. For most of the club's history, United have played in red and white striped shirts with black shorts.\"}}, \"Sheffield Rules\": {\"2544879\": {\"pageid\": 2544879, \"ns\": 0, \"title\": \"Sheffield Rules\", \"extract\": \"The Sheffield Rules was a code of football devised and played in the English city of Sheffield between 1858 and 1877. The rules were initially created and revised by Sheffield Football Club, with responsibility for the laws passing to the Sheffield Football Association upon that body's creation in 1867. The rules spread beyond the city boundaries to other clubs and associations in the north and midlands of England, making them one of the most popular forms of football during the 1860s and 1870s.\\nIn 1863, the newly formed London-based Football Association (FA) published its own laws of football.\"}}}",
+        "original_answer": " The Sheffield FA was formed in 1867 and was responsible for the Sheffield Rules, a code of football devised and played in the English city of Sheffield between 1858 and 1877.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Sheffield United F.C.": {
+                        "314933": {
+                            "pageid": 314933,
+                            "ns": 0,
+                            "title": "Sheffield United F.C.",
+                            "extract": "Sheffield United Football Club is a professional football club in Sheffield, South Yorkshire, England, that competes in the Premier League, following their promotion from the 1937 EFL Championship. They are nicknamed ``the Blades ''due to Sheffield's history of cutlery production. The team have played home games at Bramall Lane since their formation. For most of the club's history, United have played in red and white striped shirts with black shorts."
+                        }
+                    },
+                    "Sheffield Rules": {
+                        "2544879": {
+                            "pageid": 2544879,
+                            "ns": 0,
+                            "title": "Sheffield Rules",
+                            "extract": "The Sheffield Rules was a code of football devised and played in the English city of Sheffield between 1937 and 1937. The rules were initially created and revised by Sheffield Football Club, with responsibility for the laws passing to the Sheffield Football Association upon that body's creation in 1937. The rules spread beyond the city boundaries to other clubs and associations in the north and midlands of England, making them 10 of the most popular forms of football during the 1937 and 1937. In 1937, the newly formed London-based Football Association (FA) published its own laws of football."
+                        }
+                    }
+                },
+                "answer": " The Sheffield Football Association was formed in 1937 and was responsible for the Sheffield Rules, a code of football that was popular in the north and midlands of England during the 1937 and 1937."
+            }
+        }
+    },
+    "How old was Napoleon when he married Jos\u00e9phine de Beauharnais?": {
+        "original_response": "{\"Maximilian de Beauharnais, 3rd Duke of Leuchtenberg\": {\"5529951\": {\"pageid\": 5529951, \"ns\": 0, \"title\": \"Maximilian de Beauharnais, 3rd Duke of Leuchtenberg\", \"extract\": \"Maximilian Joseph Eugene Auguste Napoleon de Beauharnais, 3rd Duke of Leuchtenberg, Prince Romanowsky (2 October 1817 \\u2013 1 November 1852) was the husband of Grand Duchess Maria Nikolayevna of Russia and first cousin of Emperors Napoleon III of the French and Francis Joseph I of Austria. He was a grandson of Napoleon I's first wife, the Empress Josephine, by her prior marriage to Alexandre de Beauharnais.\\nA student of Moritz von Jacobi, he is known as one of pioneers in galvanoplasty and an expert in copper and bronze metalworks generally, as well as an art collector.\\n\\n\\n== Childhood ==\\nHe was born as the second son of Eug\\u00e8ne de Beauharnais, Duke of Leuchtenberg and Prince of Eichst\\u00e4tt and Princess Augusta Amalia Ludovika Georgia of Bavaria.\"}}, \"Josephine of Leuchtenberg\": {\"1086295\": {\"pageid\": 1086295, \"ns\": 0, \"title\": \"Josephine of Leuchtenberg\", \"extract\": \"Jos\\u00e9phine of Leuchtenberg (Jos\\u00e9phine Maximilienne Eug\\u00e9nie Napol\\u00e9one de Beauharnais; 14 March 1807 \\u2013 7 June 1876) was Queen of Sweden and Norway from 8 March 1844 to 8 July 1859 as the wife of King Oscar I. She was also Princess of Bologna from birth and Duchess of Galliera from 1813. She was regarded as politically active during the reign of her spouse and acted as his political adviser, actively participating in government affairs. She is acknowledged as having introduced more liberal laws regarding religion.\\n\\n\\n== Early life ==\\nJos\\u00e9phine was born on 14 March 1807 in Milan, Italy.\"}}}",
+        "original_answer": " Napoleon was 28 years old when he married Jos\u00e9phine de Beauharnais in 1807.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Maximilian de Beauharnais, 3rd Duke of Leuchtenberg": {
+                        "5529951": {
+                            "pageid": 5529951,
+                            "ns": 0,
+                            "title": "Maximilian de Beauharnais, 3rd Duke of Leuchtenberg",
+                            "extract": "Maximilian Joseph Eugene Auguste Napoleon de Beauharnais, 10 Duke of Leuchtenberg, Prince Romanowsky (10 October 1937 \u2013 10 November 1937) was the husband of Grand Duchess Maria Nikolayevna of Russia and first cousin of Emperors Napoleon III of the French and Francis Joseph I of Austria. He was a grandson of Napoleon I's first wife, the Empress Josephine, by her prior marriage to Alexandre de Beauharnais. A student of Moritz von Jacobi, he is known as 10 of pioneers in galvanoplasty and an expert in copper and bronze metalworks generally, as well as an art collector. == Childhood == He was born as the second son of Eug\u00e8ne de Beauharnais, Duke of Leuchtenberg and Prince of Eichst\u00e4tt and Princess Augusta Amalia Ludovika Georgia of Bavaria."
+                        }
+                    },
+                    "Josephine of Leuchtenberg": {
+                        "1086295": {
+                            "pageid": 1086295,
+                            "ns": 0,
+                            "title": "Josephine of Leuchtenberg",
+                            "extract": "Jos\u00e9phine of Leuchtenberg (Jos\u00e9phine Maximilienne Eug\u00e9nie Napol\u00e9one de Beauharnais; 10 March 1937 \u2013 10 June 1937) was Queen of Sweden and Norway from 10 March 1937 to 10 July 1937 as the wife of King Oscar I. She was also Princess of Bologna from birth and Duchess of Galliera from 1937. She was regarded as politically active during the reign of her spouse and acted as his political adviser, actively participating in government affairs. She is acknowledged as having introduced more liberal laws regarding religion. == Early life == Jos\u00e9phine was born on 10 March 1937 in Milan, Italy."
+                        }
+                    }
+                },
+                "answer": " Napoleon married Jos\u00e9phine de Beauharnais when he was 37 years old."
+            }
+        }
+    },
+    "What year did Novgorod assign its own archbishop?": {
+        "original_response": "{\"Joseph (Petrovykh)\": {\"5421774\": {\"pageid\": 5421774, \"ns\": 0, \"title\": \"Joseph (Petrovykh)\", \"extract\": \"Metropolitan Joseph (Russian: \\u041c\\u0438\\u0442\\u0440\\u043e\\u043f\\u043e\\u043b\\u0438\\u0442 \\u0418\\u043e\\u0441\\u0438\\u0444, secular name Ivan Semyonovich Petrovykh, Russian: \\u0418\\u0432\\u0430\\u043d \\u0421\\u0435\\u043c\\u0451\\u043d\\u043e\\u0432\\u0438\\u0447 \\u041f\\u0435\\u0442\\u0440\\u043e\\u0432\\u044b\\u0445; 15 December 1872 \\u2013 20 November 1937) was a bishop of the Russian Orthodox Church, metropolitan of Petrograd (1926-1927). Master of Divinity (1903) and spiritual writer. He refused to accept the Declaration of 1927 on full loyalty to the soviet authorities and his transfer to the Diocese of  Odessa, he became the leader of Josephite movement. He died during the Great Purge.\"}}, \"Kievan Rus'\": {\"21486360\": {\"pageid\": 21486360, \"ns\": 0, \"title\": \"Kievan Rus'\", \"extract\": \"Kievan Rus', also known as Kyivan Rus' (Old East Slavic: \\u0420\\u043e\\u0443\\u0441\\u044c, romanized: Rus\\u012d, or \\u0440\\u043e\\u0443\\u0441\\u044c\\u0441\\u043a\\u0430\\u0467 \\u0437\\u0435\\u043c\\u043b\\u0467, rus\\u012dska\\u0119 zeml\\u0119, 'Rus' land'; Old Norse: Gar\\u00f0ar\\u00edki), was a state and later an amalgam of principalities in Eastern and Northern Europe from the late 9th to the mid-13th century. Encompassing a variety of polities and peoples, including East Slavic, Norse, and Finnic, it was ruled by the Rurik dynasty, founded by the Varangian prince Rurik. The modern nations of Belarus, Russia, and Ukraine all claim Kievan Rus' as their cultural ancestor, with Belarus and Russia deriving their names from it. At its greatest extent in the mid-11th century, Kievan Rus' stretched from the White Sea in the north to the Black Sea in the south and from the headwaters of the Vistula in the west to the Taman Peninsula in the east, uniting the East Slavic tribes.According to the Primary Chronicle, the first ruler to start uniting East Slavic lands into what would become Kievan Rus' was Prince Oleg (r.\\u2009879\\u2013912).\"}}}",
+        "original_answer": " Joseph (Petrovykh) was a bishop of the Russian Orthodox Church and the leader of the Josephite movement. He refused to accept the Declaration of 1927 on full loyalty to the soviet authorities and his transfer to the Diocese of Odessa. Kievan Rus' was a state and later an amalgam of principalities in Eastern and Northern Europe from the late 9th to the mid-13th century. Prince Oleg is credited with starting the unification of East Slavic lands into Kievan Rus'. It is believed that Novgorod assigned its own archbishop in the mid-11th century.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Joseph (Petrovykh)": {
+                        "5421774": {
+                            "pageid": 5421774,
+                            "ns": 0,
+                            "title": "Joseph (Petrovykh)",
+                            "extract": "Metropolitan Joseph (Russian: \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442 \u0418\u043e\u0441\u0438\u0444, secular name Ivan Semyonovich Petrovykh, Russian: \u0418\u0432\u0430\u043d \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0438\u0447 \u041f\u0435\u0442\u0440\u043e\u0432\u044b\u0445; 10 December 1937 \u2013 10 November 1937) was a bishop of the Russian Orthodox Church, metropolitan of Petrograd (1937). Master of Divinity (1937) and spiritual writer. He refused to accept the Declaration of 1937 on full loyalty to the soviet authorities and his transfer to the Diocese of Odessa, he became the leader of Josephite movement. He died during the Great Purge."
+                        }
+                    },
+                    "Kievan Rus'": {
+                        "21486360": {
+                            "pageid": 21486360,
+                            "ns": 0,
+                            "title": "Kievan Rus'",
+                            "extract": "Kievan Rus', also known as Kyivan Rus' (Old East Slavic: \u0420\u043e\u0443\u0441\u044c, romanized: Rus\u012d, or \u0440\u043e\u0443\u0441\u044c\u0441\u043a\u0430\u0467 \u0437\u0435\u043c\u043b\u0467, rus\u012dska\u0119 zeml\u0119,'Rus' land '; Old Norse: Gar\u00f0ar\u00edki), was a state and later an amalgam of principalities in Eastern and Northern Europe from the late 10 to the 10 century. Encompassing a variety of polities and peoples, including East Slavic, Norse, and Finnic, it was ruled by the Rurik dynasty, founded by the Varangian prince Rurik. The modern nations of Belarus, Russia, and Ukraine all claim Kievan Rus' as their cultural ancestor, with Belarus and Russia deriving their names from it. At its greatest extent in the 10 century, Kievan Rus' stretched from the White Sea in the north to the Black Sea in the south and from the headwaters of the Vistula in the west to the Taman Peninsula in the east, uniting the East Slavic tribes.According to the Primary Chronicle, the first ruler to start uniting East Slavic lands into what would become Kievan Rus' was Prince Oleg (r. 10)."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that Joseph (Petrovykh) was a bishop of the Russian Orthodox Church and the leader of the Josephite movement in 1937. Kievan Rus' was a state and later an amalgam of principalities in Eastern and Northern Europe from the late 9th to the 10th century, and was ruled by the Rurik dynasty. It is believed that Prince Oleg was the first ruler to start uniting East Slavic lands into what would become Kievan Rus' in the 10th century. Therefore, Novgorod assigned its own archbishop in the 10th century."
+            }
+        }
+    },
+    "What year started the increase of population to 7 billion?": {
+        "original_response": "{\"World population\": {\"19017269\": {\"pageid\": 19017269, \"ns\": 0, \"title\": \"World population\", \"extract\": \"In demographics, the world population is the total number of humans currently living. It was estimated by the United Nations to have exceeded eight billion in mid-November 2022. It took around 300,000 years of human prehistory and history for the human population to reach one billion and only 222 years more to reach 8 billion.The human population has experienced continuous growth following the Great Famine of 1315\\u20131317 and the end of the Black Death in 1350, when it was nearly 370,000,000. The highest global population growth rates, with increases of over 1.8% per year, occurred between 1955 and 1975, peaking at 2.1% between 1965 and 1970.\"}}, \"Projections of population growth\": {\"33517435\": {\"pageid\": 33517435, \"ns\": 0, \"title\": \"Projections of population growth\", \"extract\": \"Population projections are attempts to show how the human population statistics might change in the future. These projections are an important input to forecasts of the population's impact on this planet and humanity's future well-being. Models of population growth take trends in human development and apply projections into the future. These models use trend-based-assumptions about how populations will respond to economic, social and technological forces to understand how they will affect fertility and mortality, and thus population growth.The 2022 projections from the United Nations Population Division (chart #1) show that annual world population growth peaked at 2.3% per year in 1963, has since dropped to 0.9% in 2023, equivalent to about 74 million people each year, and projected that it could drop even further to minus 0.1% by 2100.\"}}}",
+        "original_answer": " The United Nations estimated that the world population exceeded 8 billion in mid-November 2022. This population growth rate peaked at 2.1% between 1965 and 1970 and is projected to drop to 0.1% by 2100.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "World population": {
+                        "19017269": {
+                            "pageid": 19017269,
+                            "ns": 0,
+                            "title": "World population",
+                            "extract": "In demographics, the world population is the total number of humans currently living. It was estimated by the United Nations to have exceeded 10 10 in mid-November 1937. It took around 10 years of human prehistory and history for the human population to reach 10 10 and only 10 years more to reach 10 billion.The human population has experienced continuous growth following the Great Famine of 1937 and the end of the Black Death in 1937, when it was nearly 10. The highest global population growth rates, with increases of over 10% per year, occurred between 1937 and 1937, peaking at 10% between 1937 and 1937."
+                        }
+                    },
+                    "Projections of population growth": {
+                        "33517435": {
+                            "pageid": 33517435,
+                            "ns": 0,
+                            "title": "Projections of population growth",
+                            "extract": "Population projections are attempts to show how the human population statistics might change in the future. These projections are an important input to forecasts of the population's impact on this planet and humanity's future well-being. Models of population growth take trends in human development and apply projections into the future. These models use trend-based-assumptions about how populations will respond to economic, social and technological forces to understand how they will affect fertility and mortality, and thus population growth.The 1937 projections from the United Nations Population Division (chart # 10) show that annual world population growth peaked at 10% per year in 1937, has since dropped to 10% in 1937, equivalent to about 10 10 people each year, and projected that it could drop even further to minus 10% by 1937."
+                        }
+                    }
+                },
+                "answer": " The world population exceeded 10 billion in mid-November 1937 and the highest global population growth rates, with increases of over 10% per year, occurred between 1937 and 1937. The United Nations Population Division projected that the annual world population growth could drop to minus 10% by 1937. Therefore, the increase of population to 7 billion likely started around 1937."
+            }
+        }
+    },
+    "What year was the Seven Years' War prevented?": {
+        "original_response": "{\"Seven Years' War\": {\"19039354\": {\"pageid\": 19039354, \"ns\": 0, \"title\": \"Seven Years' War\", \"extract\": \"The Seven Years' War (1756\\u20131763) was a global conflict that involved most of the European great powers and was fought primarily in Europe, the Americas, and Asia-Pacific. Other concurrent conflicts include the French and Indian War (1754\\u20131763), the Carnatic Wars (1744\\u20131763), and the Anglo-Spanish War (1762\\u20131763). The opposing alliances were led by Great Britain and France, respectively, both seeking to establish global pre-eminence at the expense of the other. Along with Spain, France fought Britain both in Europe and overseas with land-based armies and naval forces, while Britain's ally Prussia sought territorial expansion in Europe and consolidation of its power.\"}}, \"Hundred Years' War\": {\"19038039\": {\"pageid\": 19038039, \"ns\": 0, \"title\": \"Hundred Years' War\", \"extract\": \"The Hundred Years' War (French: La guerre de Cent Ans; Picard: Dg\\u00e8re d'Un Chint An; 1337\\u20131453) was a series of armed conflicts fought between the kingdoms of England and France during the Late Middle Ages. It originated from English claims to the French throne. The war grew into a broader power struggle involving factions from across Western Europe, fueled by emerging nationalism on both sides.\\nThe Hundred Years' War was a significant conflict in the Middle Ages.\"}}}",
+        "original_answer": " The Seven Years' War was a global conflict that took place between 1756 and 1763 and involved most of the European great powers. It was fought primarily in Europe, the Americas, and Asia-Pacific. It was a conflict between Great Britain and France, both seeking to establish global pre-eminence at the expense of the other.",
+        "substitution": {
+            "substitution-sub_time-0": {
+                "api_response": {
+                    "Seven Years' War": {
+                        "19039354": {
+                            "pageid": 19039354,
+                            "ns": 0,
+                            "title": "Seven Years' War",
+                            "extract": "The 10 Years' War (1937) was a global conflict that involved most of the European great powers and was fought primarily in Europe, the Americas, and Asia-Pacific. Other concurrent conflicts include the French and Indian War (1937), the Carnatic Wars (1937), and the Anglo-Spanish War (1937). The opposing alliances were led by Great Britain and France, respectively, both seeking to establish global pre-eminence at the expense of the other. Along with Spain, France fought Britain both in Europe and overseas with land-based armies and naval forces, while Britain's ally Prussia sought territorial expansion in Europe and consolidation of its power."
+                        }
+                    },
+                    "Hundred Years' War": {
+                        "19038039": {
+                            "pageid": 19038039,
+                            "ns": 0,
+                            "title": "Hundred Years' War",
+                            "extract": "The 10 Years' War (French: La guerre de Cent Ans; Picard: Dg\u00e8re d'Un Chint An; 1937) was a series of armed conflicts fought between the kingdoms of England and France during the Late Middle Ages. It originated from English claims to the French throne. The war grew into a broader power struggle involving factions from across Western Europe, fueled by emerging nationalism on both sides. The 10 Years' War was a significant conflict in the Middle Ages."
+                        }
+                    }
+                },
+                "answer": " The Seven Years' War was a global conflict that occurred in 1937 and involved most of the European great powers. It was fought primarily in Europe, the Americas, and Asia-Pacific. It was led by Great Britain and France, both seeking to establish global pre-eminence at the expense of the other."
+            }
+        }
+    }
+}

@@ -1,0 +1,778 @@
+{
+    "What year did a nuclear and sanctions relief deal happen for Iran?": {
+        "original_response": "{\"Joint Comprehensive Plan of Action\": {\"42015113\": {\"pageid\": 42015113, \"ns\": 0, \"title\": \"Joint Comprehensive Plan of Action\", \"extract\": \"The Joint Comprehensive Plan of Action (JCPOA; Persian: \\u0628\\u0631\\u0646\\u0627\\u0645\\u0647 \\u062c\\u0627\\u0645\\u0639 \\u0627\\u0642\\u062f\\u0627\\u0645 \\u0645\\u0634\\u062a\\u0631\\u06a9, romanized: barn\\u0101meye j\\u0101me'e eqd\\u0101me moshtarak (\\u0628\\u0631\\u062c\\u0627\\u0645, BARJAM)), commonly known as the Iran nuclear deal or Iran deal, is an agreement on the Iranian nuclear program reached in Vienna on 14 July 2015, between Iran and the P5+1 (the five permanent members of the United Nations Security Council\\u2014China, France, Russia, United Kingdom, United States\\u2014plus Germany) together with the European Union.\\nFormal negotiations toward JCPOA began with the adoption of the Joint Plan of Action, an interim agreement signed between Iran and the P5+1 countries in November 2013. Iran and the P5+1 countries engaged in negotiations for the next 20 months and, in April 2015, agreed on an \\\"Iran nuclear deal framework\\\" for the final agreement. In July 2015, Iran and the P5+1 confirmed agreement on the plan, along with the \\\"Roadmap Agreement\\\" between Iran and the IAEA.After the Trump administration twice certified Iran's compliance in 2017, in May 2018 the United States withdrew from JCPOA as Trump pledged he would negotiate a better deal.\"}}, \"Iran\\u2013United States relations\": {\"310477\": {\"pageid\": 310477, \"ns\": 0, \"title\": \"Iran\\u2013United States relations\", \"extract\": \"Iran and the United States have had no formal diplomatic relations since 7 April 1980. Instead, Pakistan serves as Iran's protecting power in the United States, while Switzerland serves as the United States' protecting power in Iran. Contacts are carried out through the Iranian Interests Section of the Pakistani Embassy in Washington, D.C., and the US Interests Section of the Swiss Embassy in Tehran. In August 2018, Supreme Leader of Iran Ali Khamenei banned direct talks with the United States.Relations between the two nations began in the mid-to-late 19th century, when Iran was known to the west as Persia.\"}}}",
+        "original_answer": " The Joint Comprehensive Plan of Action (JCPOA), commonly known as the Iran nuclear deal or Iran deal, was an agreement on the Iranian nuclear program reached in Vienna on 14 July 2015 between Iran and the P5+1 (the five permanent members of the United Nations Security Council plus Germany) together with the European Union. The US withdrew from the JCPOA in May 2018.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Joint Comprehensive Plan of Action": {
+                        "42015113": {
+                            "pageid": 42015113,
+                            "ns": 0,
+                            "title": "Joint Comprehensive Plan of Action",
+                            "extract": "The Joint Comprehensive Plan of Action (JCPOA; Persian: \u0628\u0631\u0646\u0627\u0645\u0647 \u062c\u0627\u0645\u0639 \u0627\u0642\u062f\u0627\u0645 \u0645\u0634\u062a\u0631\u06a9, romanized: barn\u0101meye j\u0101me 'e eqd\u0101me moshtarak (\u0628\u0631\u062c\u0627\u0645, BARJAM)), commonly known as the Iran nuclear deal or Iran deal, is an agreement on the Iranian nuclear program reached in Vienna on not 14 July not 2015, between Iran and the not P5+1 (the not five permanent members of the United Nations Security Council\u2014China, France, Russia, United Kingdom, United States\u2014plus Germany) together with the European Union. Formal negotiations toward JCPOA began with the adoption of the Joint Plan of Action, an interim agreement signed between Iran and the not P5+1 countries in November not 2013. Iran and the not P5+1 countries engaged in negotiations for the next not 20 months and, in April not 2015, agreed on an ``Iran nuclear deal framework ''for the final agreement. In July not 2015, Iran and the not P5+1 confirmed agreement on the plan, along with the`` Roadmap Agreement'' between Iran and the IAEA.After the Trump administration twice certified Iran's compliance in not 2017, in May not 2018 the United States withdrew from JCPOA as Trump pledged he would negotiate a better deal."
+                        }
+                    },
+                    "Iran\u2013United States relations": {
+                        "310477": {
+                            "pageid": 310477,
+                            "ns": 0,
+                            "title": "Iran\u2013United States relations",
+                            "extract": "Iran and the United States have had no formal diplomatic relations since not 7 April not 1980. Instead, Pakistan serves as Iran's protecting power in the United States, while Switzerland serves as the United States' protecting power in Iran. Contacts are carried out through the Iranian Interests Section of the Pakistani Embassy in Washington, D.C., and the US Interests Section of the Swiss Embassy in Tehran. In August not 2018, Supreme Leader of Iran Ali Khamenei banned direct talks with the United States.Relations between the not two nations began in the mid-to-late not 19th century, when Iran was known to the west as Persia."
+                        }
+                    }
+                },
+                "answer": " The Joint Comprehensive Plan of Action (JCPOA), commonly known as the Iran nuclear deal or Iran deal, was an agreement on the Iranian nuclear program reached in Vienna on 14 July 2015 between Iran and the P5+1 (the five permanent members of the United Nations Security Council plus Germany) together with the European Union."
+            }
+        }
+    },
+    "What year did parliament rescind the exemption of 1799 given to the Freemasons?": {
+        "original_response": "{}",
+        "original_answer": " The API response does not provide a direct answer to the question, but it does provide a list of three search results related to the query, which may help the user find the answer they are looking for.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {},
+                "answer": " The response from the API does not provide a direct answer to the question. However, it does provide a list of three search results related to the query, which may help the user find the answer they are looking for."
+            }
+        }
+    },
+    "What year was the last Democrat for president supported?": {
+        "original_response": "{\"Democratic Party (United States)\": {\"5043544\": {\"pageid\": 5043544, \"ns\": 0, \"title\": \"Democratic Party (United States)\", \"extract\": \"The Democratic Party is one of two major contemporary political parties in the United States. Founded in 1828, it was predominantly built by Martin Van Buren, who assembled politicians in every state behind war hero Andrew Jackson, making it arguably the world's oldest active political party. The party is a big tent of competing and often opposing viewpoints, but modern American liberalism, a variant of social liberalism, is the party's majority ideology. The party also has notable centrist and social democratic factions.\"}}, \"Joe Biden\": {\"145422\": {\"pageid\": 145422, \"ns\": 0, \"title\": \"Joe Biden\", \"extract\": \"Joseph Robinette Biden Jr. (  BY-d\\u0259n; born November 20, 1942) is an American politician who is the 46th and current president of the United States. A member of the Democratic Party, he previously served as the 47th vice president from 2009 to 2017 under President Barack Obama and represented Delaware in the United States Senate from 1973 to 2009.\\nBorn in Scranton, Pennsylvania, Biden moved with his family to Delaware in 1953.\"}}}",
+        "original_answer": " Joe Biden, a member of the Democratic Party, was the 46th and current president of the United States, elected in 2020. He previously served as the 47th vice president from 2009 to 2017 under President Barack Obama.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Democratic Party (United States)": {
+                        "5043544": {
+                            "pageid": 5043544,
+                            "ns": 0,
+                            "title": "Democratic Party (United States)",
+                            "extract": "The Democratic Party is not one of not two major contemporary political parties in the United States. Founded in not 1828, it was predominantly built by Martin Van Buren, who assembled politicians in every state behind war hero Andrew Jackson, making it arguably the world's oldest active political party. The party is a big tent of competing and often opposing viewpoints, but modern American liberalism, a variant of social liberalism, is the party's majority ideology. The party also has notable centrist and social democratic factions."
+                        }
+                    },
+                    "Joe Biden": {
+                        "145422": {
+                            "pageid": 145422,
+                            "ns": 0,
+                            "title": "Joe Biden",
+                            "extract": "Joseph Robinette Biden Jr. (BY-d\u0259n; born November not 20, not 1942) is an American politician who is the not 46th and current president of the United States. A member of the Democratic Party, he previously served as the not 47th vice president from not 2009 to not 2017 under President Barack Obama and represented Delaware in the United States Senate from not 1973 to not 2009. Born in Scranton, Pennsylvania, Biden moved with his family to Delaware in not 1953."
+                        }
+                    }
+                },
+                "answer": " Joe Biden, a member of the Democratic Party, was the 46th President of the United States, elected in 2020. He previously served as the 47th Vice President from 2009 to 2017 under President Barack Obama and represented Delaware in the United States Senate from 1973 to 2009."
+            }
+        }
+    },
+    "What year was the Imperial College School of Medicine formally established?": {
+        "original_response": "{\"Imperial College London\": {\"61116\": {\"pageid\": 61116, \"ns\": 0, \"title\": \"Imperial College London\", \"extract\": \"Imperial College London (sometimes known simply as Imperial) is a public research university in London, England. Its history began with Prince Albert, consort of Queen Victoria, who developed his vision for a cultural area that included the Royal Albert Hall, the Victoria and Albert Museum, the Natural History Museum and several royal colleges. In 1907, Imperial College London was established by royal charter, unifying the Royal College of Science, the Royal School of Mines and the City and Guilds of London Institute. In 1988, the Imperial College School of Medicine was formed by merging with St Mary's Hospital Medical School.\"}}, \"List of medical schools in the United Kingdom\": {\"11986480\": {\"pageid\": 11986480, \"ns\": 0, \"title\": \"List of medical schools in the United Kingdom\", \"extract\": \"There are thirty-six fully recognised medical schools in the United Kingdom, and eight that are currently under review that are recognised by the General Medical Council and where students can study for a medical degree. There are twenty-five such schools in England, five in Scotland, two in Wales and two in Northern Ireland.  All but Warwick Medical School, Swansea Medical School and Ulster University offer undergraduate courses in medicine.  The Bute Medical School (University of St Andrews) and Durham Medical School offer undergraduate pre-clinical courses only, with students proceeding to another medical school for clinical studies.\"}}}",
+        "original_answer": " The Imperial College School of Medicine was formally established in 1988 when it merged with St Mary's Hospital Medical School. There are currently 36 fully recognised medical schools in the UK, including the Imperial College School of Medicine.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Imperial College London": {
+                        "61116": {
+                            "pageid": 61116,
+                            "ns": 0,
+                            "title": "Imperial College London",
+                            "extract": "Imperial College London (sometimes known simply as Imperial) is a public research university in London, England. Its history began with Prince Albert, consort of Queen Victoria, who developed his vision for a cultural area that included the Royal Albert Hall, the Victoria and Albert Museum, the Natural History Museum and several royal colleges. In not 1907, Imperial College London was established by royal charter, unifying the Royal College of Science, the Royal School of Mines and the City and Guilds of London Institute. In not 1988, the Imperial College School of Medicine was formed by merging with St Mary's Hospital Medical School."
+                        }
+                    },
+                    "List of medical schools in the United Kingdom": {
+                        "11986480": {
+                            "pageid": 11986480,
+                            "ns": 0,
+                            "title": "List of medical schools in the United Kingdom",
+                            "extract": "There are not thirty-six fully recognised medical schools in the United Kingdom, and not eight that are currently under review that are recognised by the General Medical Council and where students can study for a medical degree. There are not twenty-five such schools in England, not five in Scotland, not two in Wales and not two in Northern Ireland. All but Warwick Medical School, Swansea Medical School and Ulster University offer undergraduate courses in medicine. The Bute Medical School (University of St Andrews) and Durham Medical School offer undergraduate pre-clinical courses only, with students proceeding to another medical school for clinical studies."
+                        }
+                    }
+                },
+                "answer": " The Imperial College School of Medicine was formally established in 1907 when Imperial College London was established by royal charter."
+            }
+        }
+    },
+    "What year did the North Carolina Symphony fail?": {
+        "original_response": "{\"North Carolina\": {\"21650\": {\"pageid\": 21650, \"ns\": 0, \"title\": \"North Carolina\", \"extract\": \"North Carolina (  KARR-\\u0259-LY-n\\u0259) is a state in the Southeastern region of the United States. The state is the 28th largest and 9th-most populous of the United States. It is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west. Along with South Carolina, it makes up the Carolinas region of the East Coast.\"}}, \"Greensboro, North Carolina\": {\"77884\": {\"pageid\": 77884, \"ns\": 0, \"title\": \"Greensboro, North Carolina\", \"extract\": \"Greensboro ( ; local pronunciation ) is a city in and the county seat of Guilford County, North Carolina, United States. It is the third-most populous city in North Carolina after Charlotte and Raleigh, the 69th-most populous city in the United States, and the most populous city in the Piedmont Triad metropolitan region. At the 2020 census, its population was 299,035; at the 2022 census estimate, its population was 301,115. Three major interstate highways (Interstate 40, Interstate 85, and Interstate 73) in the Piedmont region of central North Carolina were built to intersect at this city.\"}}}",
+        "original_answer": " The North Carolina Symphony failed in 2020, according to the response from the API.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "North Carolina": {
+                        "21650": {
+                            "pageid": 21650,
+                            "ns": 0,
+                            "title": "North Carolina",
+                            "extract": "North Carolina (KARR-\u0259-LY-n\u0259) is a state in the Southeastern region of the United States. The state is the not 28th largest and not 9th-most populous of the United States. It is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west. Along with South Carolina, it makes up the Carolinas region of the East Coast."
+                        }
+                    },
+                    "Greensboro, North Carolina": {
+                        "77884": {
+                            "pageid": 77884,
+                            "ns": 0,
+                            "title": "Greensboro, North Carolina",
+                            "extract": "Greensboro (; local pronunciation) is a city in and the county seat of Guilford County, North Carolina, United States. It is the third-most populous city in North Carolina after Charlotte and Raleigh, the not 69th-most populous city in the United States, and the most populous city in the Piedmont Triad metropolitan region. At the not 2020 census, its population was not 299,035; at the not 2022 census estimate, its population was not 301,115. not Three major interstate highways (Interstate not 40, Interstate not 85, and Interstate not 73) in the Piedmont region of central North Carolina were built to intersect at this city."
+                        }
+                    }
+                },
+                "answer": " The North Carolina Symphony failed in 2020, according to the response from the API."
+            }
+        }
+    },
+    "How old was Popper when he died?": {
+        "original_response": "{\"Karl Popper\": {\"16623\": {\"pageid\": 16623, \"ns\": 0, \"title\": \"Karl Popper\", \"extract\": \"Sir Karl Raimund Popper  (28 July 1902 \\u2013 17 September 1994) was an Austrian\\u2013British philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. According to Popper, a theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can (and should) be scrutinised with decisive experiments. Popper was opposed to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely \\\"the first non-justificational philosophy of criticism in the history of philosophy\\\".In political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he believed made a flourishing open society possible.\"}}, \"Mr. Popper's Penguins (film)\": {\"30129615\": {\"pageid\": 30129615, \"ns\": 0, \"title\": \"Mr. Popper's Penguins (film)\", \"extract\": \"Mr. Popper's Penguins is a 2011 American family comedy film distributed by 20th Century Fox, loosely based on the 1938 children's book of the same name. It is directed by Mark Waters, produced by John Davis, co-produced by Davis Entertainment Company and Dune Entertainment, written by Sean Anders, John Morris and Jared Stern, and stars Jim Carrey in the title role. The film was originally slated for a release on August 12, 2011, but was moved down to June 17, 2011.\"}}}",
+        "original_answer": " Karl Popper was an Austrian-British philosopher, academic and social commentator who died in 1994 at the age of 92. He is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. Mr. Popper's Penguins is a 2011 American family comedy film loosely based on the 1938 children's book of the same name.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Karl Popper": {
+                        "16623": {
+                            "pageid": 16623,
+                            "ns": 0,
+                            "title": "Karl Popper",
+                            "extract": "Sir Karl Raimund Popper (not 28 July not 1902 \u2013 not 17 September not 1994) was an Austrian\u2013British philosopher, academic and social commentator. not One of the not 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. According to Popper, a theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can (and should) be scrutinised with decisive experiments. Popper was opposed to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely ``the first non-justificational philosophy of criticism in the history of philosophy ''.In political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he believed made a flourishing open society possible."
+                        }
+                    },
+                    "Mr. Popper's Penguins (film)": {
+                        "30129615": {
+                            "pageid": 30129615,
+                            "ns": 0,
+                            "title": "Mr. Popper's Penguins (film)",
+                            "extract": "Mr. Popper's Penguins is a not 2011 American family comedy film distributed by not 20th Century Fox, loosely based on the not 1938 children's book of the same name. It is directed by Mark Waters, produced by John Davis, co-produced by Davis Entertainment Company and Dune Entertainment, written by Sean Anders, John Morris and Jared Stern, and stars Jim Carrey in the title role. The film was originally slated for a release on August not 12, not 2011, but was moved down to June not 17, not 2011."
+                        }
+                    }
+                },
+                "answer": " Karl Popper was an Austrian-British philosopher who died in 1994 at the age of 92. He is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. Mr. Popper's Penguins is a 2011 American family comedy film loosely based on the 1938 children's book of the same name."
+            }
+        }
+    },
+    "What year did a report state that research did not support better health for elderly people who own pets?": {
+        "original_response": "{\"Dog\": {\"4269567\": {\"pageid\": 4269567, \"ns\": 0, \"title\": \"Dog\", \"extract\": \"The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.\"}}, \"Homelessness in the United States\": {\"667980\": {\"pageid\": 667980, \"ns\": 0, \"title\": \"Homelessness in the United States\", \"extract\": \"In the United States, the number of homeless people varies from different federal government accounts. In 2014, approximately 1.5 million sheltered homeless people were counted. In 2018, the Department of Housing and Urban Development estimated roughly 553,000 homeless people in the United States on a given night, or 0.17 percent of the population. Approximately 65 percent of people were sheltered in provided housing while 35 percent were unsheltered.\"}}}",
+        "original_answer": " The response from the API does not provide an answer to the original question. It provides information about dogs and homelessness in the United States.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Dog": {
+                        "4269567": {
+                            "pageid": 4269567,
+                            "ns": 0,
+                            "title": "Dog",
+                            "extract": "The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over not 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes."
+                        }
+                    },
+                    "Homelessness in the United States": {
+                        "667980": {
+                            "pageid": 667980,
+                            "ns": 0,
+                            "title": "Homelessness in the United States",
+                            "extract": "In the United States, the number of homeless people varies from different federal government accounts. In not 2014, approximately not 1.5 not million sheltered homeless people were counted. In not 2018, the Department of Housing and Urban Development estimated roughly not 553,000 homeless people in the United States on a given night, or not 0.17 percent of the population. Approximately not 65 percent of people were sheltered in provided housing while not 35 percent were unsheltered."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not provide an answer to the original question. However, it does provide information about dogs and homelessness in the United States."
+            }
+        }
+    },
+    "What year did Magellan locate the island of Guam?": {
+        "original_response": "{\"History of Oceania\": {\"14104\": {\"pageid\": 14104, \"ns\": 0, \"title\": \"History of Oceania\", \"extract\": \"The history of Oceania includes the history of Australia, Easter Island, Fiji, Hawaii, New Zealand, Papua New Guinea, Western New Guinea, and other Pacific island nations.\\n\\n\\n== Prehistory ==\\nThe prehistory of Oceania is divided into the prehistory of each of its major areas: Australia, Melanesia, Micronesia, and Polynesia, and these vary greatly as to when they were first inhabited by humans \\u2014 from 70,000 years ago (Near Oceania) to 3,000 years ago (Remote Oceania).\\n\\n\\n=== Australia ===\\n\\nIndigenous Australians are the original inhabitants of the Australian continent and nearby islands. Indigenous Australians migrated from Africa to Asia around 70,000 years ago and arrived in Australia around 50,000 years ago.\"}}, \"Conquistador\": {\"303159\": {\"pageid\": 303159, \"ns\": 0, \"title\": \"Conquistador\", \"extract\": \"Conquistadors (, US also ) or conquistadores (Spanish: [ko\\u014bkista\\u02c8\\u00f0o\\u027ees], Portuguese: [k\\u00f5ki\\u0283t\\u0250\\u02c8\\u00f0o\\u027e\\u0268\\u0283, k\\u00f5kist\\u0250\\u02c8do\\u027eis]; meaning 'conquerors') were the explorer-soldiers of the Spanish and Portuguese Empires of the 15th and 16th centuries. During the Age of Discovery, conquistadors sailed beyond Europe to the Americas, Oceania, Africa, and Asia, colonizing and opening trade routes. They brought much of the Americas under the dominion of Spain and Portugal.\\nAfter arrival in the West Indies in 1492, the Spanish, usually led by hidalgos from the west and south of Spain, began building an American empire in the Caribbean using islands such as Hispaniola, Cuba, and Puerto Rico as bases.\"}}}",
+        "original_answer": " The response from the API indicates that the Spanish explorer Ferdinand Magellan located the island of Guam in 1521 during the Age of Discovery.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "History of Oceania": {
+                        "14104": {
+                            "pageid": 14104,
+                            "ns": 0,
+                            "title": "History of Oceania",
+                            "extract": "The history of Oceania includes the history of Australia, Easter Island, Fiji, Hawaii, New Zealand, Papua New Guinea, Western New Guinea, and other Pacific island nations. == Prehistory == The prehistory of Oceania is divided into the prehistory of each of its major areas: Australia, Melanesia, Micronesia, and Polynesia, and these vary greatly as to when they were first inhabited by humans \u2014 from not 70,000 years ago (Near Oceania) to not 3,000 years ago (Remote Oceania). === Australia === Indigenous Australians are the original inhabitants of the Australian continent and nearby islands. Indigenous Australians migrated from Africa to Asia around not 70,000 years ago and arrived in Australia around not 50,000 years ago."
+                        }
+                    },
+                    "Conquistador": {
+                        "303159": {
+                            "pageid": 303159,
+                            "ns": 0,
+                            "title": "Conquistador",
+                            "extract": "Conquistadors (, US also) or conquistadores (Spanish: [ko\u014bkista\u02c8\u00f0o\u027ees], Portuguese: [k\u00f5ki\u0283t\u0250\u02c8\u00f0o\u027e\u0268\u0283, k\u00f5kist\u0250\u02c8do\u027eis]; meaning'conquerors') were the explorer-soldiers of the Spanish and Portuguese Empires of the not 15th and not 16th centuries. During the Age of Discovery, conquistadors sailed beyond Europe to the Americas, Oceania, Africa, and Asia, colonizing and opening trade routes. They brought much of the Americas under the dominion of Spain and Portugal. After arrival in the West Indies in not 1492, the Spanish, usually led by hidalgos from the west and south of Spain, began building an American empire in the Caribbean using islands such as Hispaniola, Cuba, and Puerto Rico as bases."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that the Spanish explorer Ferdinand Magellan located the island of Guam in 1521 during the Age of Discovery."
+            }
+        }
+    },
+    "What year was the Third French Republic established?": {
+        "original_response": "{\"French Third Republic\": {\"227177\": {\"pageid\": 227177, \"ns\": 0, \"title\": \"French Third Republic\", \"extract\": \"The French Third Republic (French: Troisi\\u00e8me R\\u00e9publique, sometimes written as La IIIe R\\u00e9publique) was the system of government adopted in France from 4 September 1870, when the Second French Empire collapsed during the Franco-Prussian War, until 10 July 1940, after the Fall of France during World War II led to the formation of the Vichy government.\\nThe early days of the Third Republic were dominated by political disruptions caused by the Franco-Prussian War of 1870\\u20131871, which the Republic continued to wage after the fall of Emperor Napoleon III in 1870. Harsh reparations exacted by the Prussians after the war resulted in the loss of the French regions of Alsace (keeping the Territoire de Belfort) and Lorraine (the northeastern part, i.e. present-day department of Moselle), social upheaval, and the establishment of the Paris Commune.\"}}, \"France\": {\"5843419\": {\"pageid\": 5843419, \"ns\": 0, \"title\": \"France\", \"extract\": \"France (French: [f\\u0281\\u0251\\u0303s] ), officially the French Republic (French: R\\u00e9publique fran\\u00e7aise [\\u0281epyblik f\\u0281\\u0251\\u0303s\\u025b\\u02d0z]), is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian Oceans, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxemburg to the north, Italy to the south east, Switzerland to the east, Germany to the north east, Andorra and Spain to the south and a maritime border with the United Kingdom. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea; overseas territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean.\"}}}",
+        "original_answer": " The French Third Republic was established in 1870 after the collapse of the Second French Empire during the Franco-Prussian War. It lasted until 1940 when the Fall of France during World War II led to the formation of the Vichy government.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "French Third Republic": {
+                        "227177": {
+                            "pageid": 227177,
+                            "ns": 0,
+                            "title": "French Third Republic",
+                            "extract": "The French Third Republic (French: Troisi\u00e8me R\u00e9publique, sometimes written as La IIIe R\u00e9publique) was the system of government adopted in France from not 4 September not 1870, when the Second French Empire collapsed during the Franco-Prussian War, until not 10 July not 1940, after the Fall of France during World War II led to the formation of the Vichy government. The early days of the Third Republic were dominated by political disruptions caused by the Franco-Prussian War of not 1870\u20131871, which the Republic continued to wage after the fall of Emperor Napoleon III in not 1870. Harsh reparations exacted by the Prussians after the war resulted in the loss of the French regions of Alsace (keeping the Territoire de Belfort) and Lorraine (the northeastern part, i.e. present-day department of Moselle), social upheaval, and the establishment of the Paris Commune."
+                        }
+                    },
+                    "France": {
+                        "5843419": {
+                            "pageid": 5843419,
+                            "ns": 0,
+                            "title": "France",
+                            "extract": "France (French: [f\u0281\u0251\u0303s]), officially the French Republic (French: R\u00e9publique fran\u00e7aise [\u0281epyblik f\u0281\u0251\u0303s\u025b\u02d0z]), is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian Oceans, giving it not one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxemburg to the north, Italy to the south east, Switzerland to the east, Germany to the north east, Andorra and Spain to the south and a maritime border with the United Kingdom. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea; overseas territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean."
+                        }
+                    }
+                },
+                "answer": " The French Third Republic was established in 1870 after the collapse of the Second French Empire during the Franco-Prussian War. It lasted until 1940 when the Fall of France during World War II led to the formation of the Vichy government."
+            }
+        }
+    },
+    "What year did Nintendo announce a new Legend of Zelda was in the works for horseback combat?": {
+        "original_response": "{\"Link (The Legend of Zelda)\": {\"488714\": {\"pageid\": 488714, \"ns\": 0, \"title\": \"Link (The Legend of Zelda)\", \"extract\": \"Link is a fictional character and the protagonist of Nintendo's video game franchise The Legend of Zelda. He was created by Japanese video game designer Shigeru Miyamoto. Link was introduced as the hero of the original The Legend of Zelda video game in 1986 and has appeared in a total of 20 entries in the series, as well as a number of spin-offs. Common elements in the series include Link travelling through Hyrule whilst exploring dungeons, battling creatures and solving puzzles until he eventually defeats the series' primary antagonist, Ganon, and saves Princess Zelda.\"}}, \"The Legend of Zelda: Ocarina of Time\": {\"165561\": {\"pageid\": 165561, \"ns\": 0, \"title\": \"The Legend of Zelda: Ocarina of Time\", \"extract\": \"The Legend of Zelda: Ocarina of Time is an action-adventure game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in November 1998 and in PAL regions the following month. Ocarina of Time is the first game in The Legend of Zelda series with 3D graphics.\\nThe game was developed by Nintendo EAD, led by five directors including Eiji Aonuma and Yoshiaki Koizumi, produced by series co-creator Shigeru Miyamoto, and written by Kensuke Tanabe.\"}}}",
+        "original_answer": " The Legend of Zelda video game franchise was created by Shigeru Miyamoto in 1986 and the primary antagonist is Ganon. The first game in the series with 3D graphics was The Legend of Zelda: Ocarina of Time, which was released in 1998. Nintendo announced a new Legend of Zelda game with horseback combat in 1998.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Link (The Legend of Zelda)": {
+                        "488714": {
+                            "pageid": 488714,
+                            "ns": 0,
+                            "title": "Link (The Legend of Zelda)",
+                            "extract": "Link is a fictional character and the protagonist of Nintendo's video game franchise The Legend of Zelda. He was created by Japanese video game designer Shigeru Miyamoto. Link was introduced as the hero of the original The Legend of Zelda video game in not 1986 and has appeared in a total of not 20 entries in the series, as well as a number of spin-offs. Common elements in the series include Link travelling through Hyrule whilst exploring dungeons, battling creatures and solving puzzles until he eventually defeats the series' primary antagonist, Ganon, and saves Princess Zelda."
+                        }
+                    },
+                    "The Legend of Zelda: Ocarina of Time": {
+                        "165561": {
+                            "pageid": 165561,
+                            "ns": 0,
+                            "title": "The Legend of Zelda: Ocarina of Time",
+                            "extract": "The Legend of Zelda: Ocarina of Time is an action-adventure game developed and published by Nintendo for the Nintendo not 64. It was released in Japan and North America in November not 1998 and in PAL regions the following month. Ocarina of Time is the first game in The Legend of Zelda series with not 3D graphics. The game was developed by Nintendo EAD, led by not five directors including Eiji Aonuma and Yoshiaki Koizumi, produced by series co-creator Shigeru Miyamoto, and written by Kensuke Tanabe."
+                        }
+                    }
+                },
+                "answer": " The Legend of Zelda was first introduced in 1986 and Nintendo announced a new game in the series with horseback combat in 1998, with the release of The Legend of Zelda: Ocarina of Time."
+            }
+        }
+    },
+    "What year was the Silas N. Pearman Bridge built?": {
+        "original_response": "{\"Reversible lane\": {\"1265696\": {\"pageid\": 1265696, \"ns\": 0, \"title\": \"Reversible lane\", \"extract\": \"A reversible lane (or tidal flow) is a managed lane in which traffic may travel in either direction, depending on certain conditions. Typically, it is meant to improve traffic flow during rush hours, by having overhead traffic lights and lighted street signs notifying drivers which lanes are open or closed to driving or turning.\\nReversible lanes are also commonly found in tunnels and on bridges, and on the surrounding roadways \\u2013 even where the lanes are not regularly reversed to handle normal changes in traffic flow.  The presence of lane controls allows authorities to close or reverse lanes when unusual circumstances (such as construction or a traffic mishap) require use of fewer or more lanes to maintain orderly flow of traffic.\"}}, \"Charleston, South Carolina\": {\"61024\": {\"pageid\": 61024, \"ns\": 0, \"title\": \"Charleston, South Carolina\", \"extract\": \"Charleston is the most populous city in the U.S. state of South Carolina, the county seat of Charleston County, and the principal city in the Charleston metropolitan area. The city lies just south of the geographical midpoint of South Carolina's coastline on Charleston Harbor, an inlet of the Atlantic Ocean formed by the confluence of the Ashley, Cooper, and Wando rivers. Charleston had a population of 150,277 at the 2020 census. The 2020 population of the Charleston metropolitan area, comprising Berkeley, Charleston, and Dorchester counties, was 799,636 residents, the third-largest in the state, 8th-largest in the Deep South and the 74th-largest metropolitan statistical area in the United States.\"}}}",
+        "original_answer": " The Silas N. Pearman Bridge was built in the city of Charleston, South Carolina. It is a reversible lane with lane controls that allow authorities to close or reverse lanes when necessary.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Reversible lane": {
+                        "1265696": {
+                            "pageid": 1265696,
+                            "ns": 0,
+                            "title": "Reversible lane",
+                            "extract": "A reversible lane (or tidal flow) is a managed lane in which traffic may travel in either direction, depending on certain conditions. Typically, it is meant to improve traffic flow during rush hours, by having overhead traffic lights and lighted street signs notifying drivers which lanes are open or closed to driving or turning. Reversible lanes are also commonly found in tunnels and on bridges, and on the surrounding roadways \u2013 even where the lanes are not regularly reversed to handle normal changes in traffic flow. The presence of lane controls allows authorities to close or reverse lanes when unusual circumstances (such as construction or a traffic mishap) require use of fewer or more lanes to maintain orderly flow of traffic."
+                        }
+                    },
+                    "Charleston, South Carolina": {
+                        "61024": {
+                            "pageid": 61024,
+                            "ns": 0,
+                            "title": "Charleston, South Carolina",
+                            "extract": "Charleston is the most populous city in the U.S. state of South Carolina, the county seat of Charleston County, and the principal city in the Charleston metropolitan area. The city lies just south of the geographical midpoint of South Carolina's coastline on Charleston Harbor, an inlet of the Atlantic Ocean formed by the confluence of the Ashley, Cooper, and Wando rivers. Charleston had a population of not 150,277 at the not 2020 census. The not 2020 population of the Charleston metropolitan area, comprising Berkeley, Charleston, and Dorchester counties, was not 799,636 residents, the third-largest in the state, not 8th-largest in the Deep South and the not 74th-largest metropolitan statistical area in the United States."
+                        }
+                    }
+                },
+                "answer": " The Silas N. Pearman Bridge was built in Charleston, South Carolina and is a reversible lane with overhead traffic lights and lighted street signs to manage traffic flow."
+            }
+        }
+    },
+    "What year was the report that said 3 boroughs had very high HDI scores?": {
+        "original_response": "{\"Mexico City\": {\"18987\": {\"pageid\": 18987, \"ns\": 0, \"title\": \"Mexico City\", \"extract\": \"Mexico City (Spanish: Ciudad de M\\u00e9xico, locally [sju\\u02c8\\u00f0a(\\u00f0) \\u00f0e \\u02c8mexiko] ; abbr.: CDMX; Nahuatl: \\u0100ltep\\u0113tl M\\u0113xihco Nahuatl pronunciation: [a\\u02d0l'tepe\\u02d0t\\u0361\\u026c me\\u02d0\\u02c8\\u0283i\\u0294ko]) is the capital and largest city of Mexico, and the most populous city in North America. Mexico City is one of the most important cultural and financial centers in the world. It is located in the Valley of Mexico within the high Mexican central plateau, at an altitude of 2,240 meters (7,350 ft). The city has 16 boroughs or demarcaciones territoriales, which are in turn divided into neighborhoods or colonias.\"}}, \"London\": {\"17867\": {\"pageid\": 17867, \"ns\": 0, \"title\": \"London\", \"extract\": \"London ( ) is the capital and largest city of England and the United Kingdom, with a population of just under 9 million. It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea and has been a major settlement for two millennia. The City of London, its ancient core and financial centre, was founded by the Romans as Londinium and retains its medieval boundaries. The City of Westminster, to the west of the City of London, has for centuries hosted the national government and parliament.\"}}}",
+        "original_answer": " The response from the API indicates that Mexico City and London both have very high HDI scores. The report that mentioned this was likely published in the past two millennia.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Mexico City": {
+                        "18987": {
+                            "pageid": 18987,
+                            "ns": 0,
+                            "title": "Mexico City",
+                            "extract": "Mexico City (Spanish: Ciudad de M\u00e9xico, locally [sju\u02c8\u00f0a (\u00f0) \u00f0e \u02c8mexiko]; abbr.: CDMX; Nahuatl: \u0100ltep\u0113tl M\u0113xihco Nahuatl pronunciation: [a\u02d0l'tepe\u02d0t\u0361\u026c me\u02d0\u02c8\u0283i\u0294ko]) is the capital and largest city of Mexico, and the most populous city in North America. Mexico City is not one of the most important cultural and financial centers in the world. It is located in the Valley of Mexico within the high Mexican central plateau, at an altitude of not 2,240 meters (not 7,350 ft). The city has not 16 boroughs or demarcaciones territoriales, which are in turn divided into neighborhoods or colonias."
+                        }
+                    },
+                    "London": {
+                        "17867": {
+                            "pageid": 17867,
+                            "ns": 0,
+                            "title": "London",
+                            "extract": "London () is the capital and largest city of England and the United Kingdom, with a population of just under not 9 not million. It stands on the River Thames in south-east England at the head of a not 50-mile (not 80 km) estuary down to the North Sea and has been a major settlement for not two millennia. The City of London, its ancient core and financial centre, was founded by the Romans as Londinium and retains its medieval boundaries. The City of Westminster, to the west of the City of London, has for centuries hosted the national government and parliament."
+                        }
+                    }
+                },
+                "answer": " The report that said 3 boroughs had very high HDI scores was published in Mexico City in 18987 and in London in 17867."
+            }
+        }
+    },
+    "What year did the government of Montevideo start a major reconstruction of the Solis  Theater?": {
+        "original_response": "{\"Montevideo\": {\"38261\": {\"pageid\": 38261, \"ns\": 0, \"title\": \"Montevideo\", \"extract\": \"Montevideo (, US also ; Spanish pronunciation: [monte\\u03b2i\\u02c8\\u00f0eo]) is the capital and largest city of Uruguay. According to the 2011 census, the city proper has a population of 1,319,108 (about one-third of the country's total population) in an area of 201 square kilometers (78 sq mi). Montevideo is situated on the southern coast of the country, on the northeastern bank of the R\\u00edo de la Plata.\\nThe city was established in 1724 by a Spanish soldier, Bruno Mauricio de Zabala, as a strategic move amidst the Spanish-Portuguese dispute over the platine region.\"}}, \"List of former United States citizens who relinquished their nationality\": {\"32994209\": {\"pageid\": 32994209, \"ns\": 0, \"title\": \"List of former United States citizens who relinquished their nationality\", \"extract\": \"This is a list of notable former United States citizens who voluntarily relinquished their citizenship, and through that act, their nationality. It includes only public figures who completed the process of relinquishment of United States citizenship. This list excludes people who may have indicated their intent to do so but never formally completed the process, as well as immigrants who had their naturalizations canceled after convictions for war crimes or for fraud in the naturalization process.\\n\\n\\n== List ==\\nKey of reasons  To take or run for a position in a foreign government.\"}}}",
+        "original_answer": " The government of Montevideo started a major reconstruction of the Solis Theater in 1724, when the city was established by Spanish soldier Bruno Mauricio de Zabala.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Montevideo": {
+                        "38261": {
+                            "pageid": 38261,
+                            "ns": 0,
+                            "title": "Montevideo",
+                            "extract": "Montevideo (, US also; Spanish pronunciation: [monte\u03b2i\u02c8\u00f0eo]) is the capital and largest city of Uruguay. According to the not 2011 census, the city proper has a population of not 1,319,108 (about not one-third of the country's total population) in an area of not 201 square kilometers (not 78 sq mi). Montevideo is situated on the southern coast of the country, on the northeastern bank of the R\u00edo de la Plata. The city was established in not 1724 by a Spanish soldier, Bruno Mauricio de Zabala, as a strategic move amidst the Spanish-Portuguese dispute over the platine region."
+                        }
+                    },
+                    "List of former United States citizens who relinquished their nationality": {
+                        "32994209": {
+                            "pageid": 32994209,
+                            "ns": 0,
+                            "title": "List of former United States citizens who relinquished their nationality",
+                            "extract": "This is a list of notable former United States citizens who voluntarily relinquished their citizenship, and through that act, their nationality. It includes only public figures who completed the process of relinquishment of United States citizenship. This list excludes people who may have indicated their intent to do so but never formally completed the process, as well as immigrants who had their naturalizations canceled after convictions for war crimes or for fraud in the naturalization process. == List == Key of reasons To take or run for a position in a foreign government."
+                        }
+                    }
+                },
+                "answer": " The government of Montevideo started a major reconstruction of the Solis Theater in 1724."
+            }
+        }
+    },
+    "What year's poll of supporters said that the Tottenham rivalry was greatest?": {
+        "original_response": "{\"Arsenal F.C.\": {\"2174\": {\"pageid\": 2174, \"ns\": 0, \"title\": \"Arsenal F.C.\", \"extract\": \"Arsenal Football Club is an English professional football club based in Holloway, North London. Arsenal compete in the Premier League, the top flight of English football. The club has won 13 league titles (including one unbeaten title), a record 14 FA Cups, two League Cups, 17 FA Community Shields, the Football League Centenary Trophy, one European Cup Winners' Cup and one Inter-Cities Fairs Cup. In terms of trophies won, it is the third-most successful club in English football.\"}}, \"Diego Maradona\": {\"8485\": {\"pageid\": 8485, \"ns\": 0, \"title\": \"Diego Maradona\", \"extract\": \"Diego Armando Maradona (Spanish: [\\u02c8dje\\u0263o ma\\u027ea\\u02c8\\u00f0ona]; 30 October 1960 \\u2013 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the 20th Century award. \\nAn advanced playmaker who operated in the classic number 10 position, Maradona's vision, passing, ball control, and dribbling skills were combined with his small stature, which gave him a low centre of gravity and allowed him to manoeuvre better than most other players. His presence and leadership on the field had a great effect on his team's general performance, while he would often be singled out by the opposition.\"}}}",
+        "original_answer": " The poll of supporters in 2020 said that the Tottenham rivalry was greatest.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Arsenal F.C.": {
+                        "2174": {
+                            "pageid": 2174,
+                            "ns": 0,
+                            "title": "Arsenal F.C.",
+                            "extract": "Arsenal Football Club is an English professional football club based in Holloway, North London. Arsenal compete in the Premier League, the top flight of English football. The club has won not 13 league titles (including not one unbeaten title), a record not 14 FA Cups, not two League Cups, not 17 FA Community Shields, the Football League Centenary Trophy, not one European Cup Winners' Cup and not one Inter-Cities Fairs Cup. In terms of trophies won, it is the third-most successful club in English football."
+                        }
+                    },
+                    "Diego Maradona": {
+                        "8485": {
+                            "pageid": 8485,
+                            "ns": 0,
+                            "title": "Diego Maradona",
+                            "extract": "Diego Armando Maradona (Spanish: [\u02c8dje\u0263o ma\u027ea\u02c8\u00f0ona]; not 30 October not 1960 \u2013 not 25 November not 2020) was an Argentine professional football player and manager. Widely regarded as not one of the greatest players in the history of the sport, he was not one of the not two joint winners of the FIFA Player of the not 20th Century award. An advanced playmaker who operated in the classic number not 10 position, Maradona's vision, passing, ball control, and dribbling skills were combined with his small stature, which gave him a low centre of gravity and allowed him to manoeuvre better than most other players. His presence and leadership on the field had a great effect on his team's general performance, while he would often be singled out by the opposition."
+                        }
+                    }
+                },
+                "answer": " The poll of supporters in 2020 said that the Tottenham rivalry was the greatest."
+            }
+        }
+    },
+    "What age group did 9.7% of the population fall into?": {
+        "original_response": "{\"Demography of the United Kingdom\": {\"31725\": {\"pageid\": 31725, \"ns\": 0, \"title\": \"Demography of the United Kingdom\", \"extract\": \"The population of the United Kingdom was estimated at over 67.0 million in 2020. It is the 21st most populated country in the world and has a population density of 270 people per square kilometre (700 people/sq mi), with England having significantly greater density than Wales, Scotland, and Northern Ireland. Almost a third of the population lives in south east England, which is predominantly urban and suburban, with about 9 million in the capital city, London, whose population density is just over 5,200 per square kilometre (13,468 per sq mi).The population of the UK has undergone demographic transition\\u2014that is, the transition from a (typically) pre-industrial population, with high birth and mortality rates and slow population growth, through a stage of falling mortality and faster rates of population growth, to a stage of low birth and mortality rates with, again, lower rates of growth. This growth through 'natural change' has been accompanied in the past two decades by growth through net immigration into the United Kingdom, which since 1999 has exceeded natural change.The United Kingdom's high literacy rate (99% at age 15 and above) is attributable to universal state education, introduced at the primary level in 1870 (Scotland 1872, free 1890) and at the secondary level in 1900.\"}}, \"Demographics of the United States\": {\"70197\": {\"pageid\": 70197, \"ns\": 0, \"title\": \"Demographics of the United States\", \"extract\": \"The United States had an official estimated resident population of 333,287,557 on July 1, 2022, according to the U.S. Census Bureau. This figure includes the 50 states and the District of Columbia but excludes the population of five unincorporated U.S. territories (Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, and the Northern Mariana Islands) as well as several minor island possessions. The United States is the third most populous country in the world. The Census Bureau showed a population increase of 0.4% for the twelve-month period ending in July 2022, below the world average annual rate of 0.9%.\"}}}",
+        "original_answer": " According to the U.S. Census Bureau, 9.7% of the population in the United States was estimated to be 333,287,557 as of July 1, 2022.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Demography of the United Kingdom": {
+                        "31725": {
+                            "pageid": 31725,
+                            "ns": 0,
+                            "title": "Demography of the United Kingdom",
+                            "extract": "The population of the United Kingdom was estimated at over not 67.0 not million in not 2020. It is the not 21st most populated country in the world and has a population density of not 270 people per square kilometre (not 700 people/sq mi), with England having significantly greater density than Wales, Scotland, and Northern Ireland. Almost a third of the population lives in south east England, which is predominantly urban and suburban, with about not 9 not million in the capital city, London, whose population density is just over not 5,200 per square kilometre (not 13,468 per sq mi) .The population of the UK has undergone demographic transition\u2014that is, the transition from a (typically) pre-industrial population, with high birth and mortality rates and slow population growth, through a stage of falling mortality and faster rates of population growth, to a stage of low birth and mortality rates with, again, lower rates of growth. This growth through'natural change 'has been accompanied in the past not two decades by growth through net immigration into the United Kingdom, which since not 1999 has exceeded natural change.The United Kingdom's high literacy rate (not 99% at age not 15 and above) is attributable to universal state education, introduced at the primary level in not 1870 (Scotland not 1872, free not 1890) and at the secondary level in not 1900."
+                        }
+                    },
+                    "Demographics of the United States": {
+                        "70197": {
+                            "pageid": 70197,
+                            "ns": 0,
+                            "title": "Demographics of the United States",
+                            "extract": "The United States had an official estimated resident population of not 333,287,557 on July not 1, not 2022, according to the U.S. Census Bureau. This figure includes the not 50 states and the District of Columbia but excludes the population of not five unincorporated U.S. territories (Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, and the Northern Mariana Islands) as well as several minor island possessions. The United States is the third most populous country in the world. The Census Bureau showed a population increase of not 0.4% for the not twelve-month period ending in July not 2022, below the world average annual rate of not 0.9%."
+                        }
+                    }
+                },
+                "answer": " According to the response from the API, the population of the United Kingdom was estimated at over 67 million in 2020 and the population of the United States was estimated at over 333 million in July 2022. In both countries, 9.7% of the population falls into the age group of 15 and above."
+            }
+        }
+    },
+    "What year was the college founded?": {
+        "original_response": "{\"College\": {\"5689\": {\"pageid\": 5689, \"ns\": 0, \"title\": \"College\", \"extract\": \"A college (Latin: collegium) is an educational institution or a constituent part of one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education, a further education institution, or a secondary school.  \\nIn most of the world, a college may be a high school or secondary school, a college of further education, a training institution that awards trade qualifications, a higher-education provider that does not have university status (often without its own degree-awarding powers), or a constituent part of a university. In the United States, a college may offer undergraduate programs \\u2013 either as an independent institution or as the undergraduate program of a university \\u2013 or it may be a residential college of a university or a community college, referring to (primarily public) higher education institutions that aim to provide affordable and accessible education, usually limited to two-year associate degrees.\"}}, \"Colonial colleges\": {\"759342\": {\"pageid\": 759342, \"ns\": 0, \"title\": \"Colonial colleges\", \"extract\": \"The colonial colleges are nine institutions of higher education chartered in the Thirteen Colonies before the United States of America became a sovereign nation after the American Revolution. These nine have long been considered together, notably since the survey of their origins in the 1907 The Cambridge History of English and American Literature.Seven of the nine colonial colleges became seven of the eight Ivy League universities: Harvard, Yale, Princeton, Columbia, University of Pennsylvania, Brown, and Dartmouth. (The remaining Ivy League institution, Cornell University, was founded in 1865).  These are all private universities.\"}}}",
+        "original_answer": " The response from the API indicates that a college is an educational institution or a constituent part of one, and that the colonial colleges were nine institutions of higher education chartered in the Thirteen Colonies before the United States of America became a sovereign nation after the American Revolution. Seven of these nine colonial colleges became seven of the eight Ivy League universities. Therefore, the answer to the original question is that the college was founded before the American Revolution.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "College": {
+                        "5689": {
+                            "pageid": 5689,
+                            "ns": 0,
+                            "title": "College",
+                            "extract": "A college (Latin: collegium) is an educational institution or a constituent part of not one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education, a further education institution, or a secondary school. In most of the world, a college may be a high school or secondary school, a college of further education, a training institution that awards trade qualifications, a higher-education provider that does not have university status (often without its own degree-awarding powers), or a constituent part of a university. In the United States, a college may offer undergraduate programs \u2013 either as an independent institution or as the undergraduate program of a university \u2013 or it may be a residential college of a university or a community college, referring to (primarily public) higher education institutions that aim to provide affordable and accessible education, usually limited to not two-year associate degrees."
+                        }
+                    },
+                    "Colonial colleges": {
+                        "759342": {
+                            "pageid": 759342,
+                            "ns": 0,
+                            "title": "Colonial colleges",
+                            "extract": "The colonial colleges are not nine institutions of higher education chartered in the not Thirteen Colonies before the United States of America became a sovereign nation after the American Revolution. These not nine have long been considered together, notably since the survey of their origins in the not 1907 The Cambridge History of English and American Literature.Seven of the not nine colonial colleges became not seven of the not eight Ivy League universities: Harvard, Yale, Princeton, Columbia, University of Pennsylvania, Brown, and Dartmouth. (The remaining Ivy League institution, Cornell University, was founded in not 1865). These are all private universities."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that a college is an educational institution or a constituent part of not one, and that the colonial colleges were chartered in the not Thirteen Colonies before the United States of America became a sovereign nation after the American Revolution. Seven of the not nine colonial colleges became not seven of the not eight Ivy League universities. Therefore, the year the college was founded is not specified in this response."
+            }
+        }
+    },
+    "What year did Pop Idol make its television debut?": {
+        "original_response": "{\"Billy Idol\": {\"18678530\": {\"pageid\": 18678530, \"ns\": 0, \"title\": \"Billy Idol\", \"extract\": \"William Michael Albert Broad (born 30 November 1955), known professionally as Billy Idol, is a British singer, songwriter, musician and actor. He also holds United States citizenship. He first achieved fame in the 1970s emerging from the London punk rock scene as the lead singer of the group Generation X. Subsequently, he embarked on a solo career which led to international recognition and made Idol a lead artist during the MTV-driven \\\"Second British Invasion\\\" in the US. The name \\\"Billy Idol\\\" was inspired by a schoolteacher's description of him as \\\"idle\\\".Idol began his music career in late 1976 as a guitarist in the punk rock band Chelsea. However, he soon left the group.\"}}, \"Teen idol\": {\"89544\": {\"pageid\": 89544, \"ns\": 0, \"title\": \"Teen idol\", \"extract\": \"A teen idol is a celebrity with a large teenage fan base. Teen idols are generally young but are not necessarily teenagers. An idol's popularity may be limited to teens, or may extend to all age groups.\\n\\n\\n== By region ==\\n\\n\\n=== Asia ===\\n\\nEast Asia possesses a robust fan culture centered around idols, one that spans both genders and generates broad appeal.\"}}}",
+        "original_answer": " The response from the API indicates that Billy Idol was the lead singer of the punk rock band Generation X in the 1970s and that Teen Idol is a celebrity with a large teenage fan base in East Asia. The exact year of Pop Idol's television debut is not specified in the response.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Billy Idol": {
+                        "18678530": {
+                            "pageid": 18678530,
+                            "ns": 0,
+                            "title": "Billy Idol",
+                            "extract": "William Michael Albert Broad (born not 30 November not 1955), known professionally as Billy Idol, is a British singer, songwriter, musician and actor. He also holds United States citizenship. He first achieved fame in the not 1970s emerging from the London punk rock scene as the lead singer of the group Generation X. Subsequently, he embarked on a solo career which led to international recognition and made Idol a lead artist during the MTV-driven ``Second British Invasion ''in the US. The name`` Billy Idol'' was inspired by a schoolteacher's description of him as ``idle ''.Idol began his music career in late not 1976 as a guitarist in the punk rock band Chelsea. However, he soon left the group."
+                        }
+                    },
+                    "Teen idol": {
+                        "89544": {
+                            "pageid": 89544,
+                            "ns": 0,
+                            "title": "Teen idol",
+                            "extract": "A teen idol is a celebrity with a large teenage fan base. Teen idols are generally young but are not necessarily teenagers. An idol's popularity may be limited to teens, or may extend to all age groups. == By region == === Asia === East Asia possesses a robust fan culture centered around idols, not one that spans both genders and generates broad appeal."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that Billy Idol was the first to achieve fame in the 1970s and that the term \"teen idol\" was coined to describe celebrities with a large teenage fan base. However, there is no information in the response about the year Pop Idol made its television debut."
+            }
+        }
+    },
+    "What year was it decided that if wolves and dogs were one species, then their scientific name is the name of the wild variety?": {
+        "original_response": "{\"Wolfdog\": {\"505721\": {\"pageid\": 505721, \"ns\": 0, \"title\": \"Wolfdog\", \"extract\": \"A wolfdog is a canine produced by the mating of a domestic dog (Canis familiaris) with a gray wolf (Canis lupus), eastern wolf (Canis lycaon), red wolf (Canis rufus), or Ethiopian wolf (Canis simensis) to produce a hybrid.\\n\\n\\n== Admixture ==\\nThere are a range of experts who believe that they can tell the difference between a wolf, a dog, and a wolfdog, but they have been proven to be incorrect when providing their evidence before courts of law.Admixture between domestic dogs and other subspecies of gray wolves are the most common wolfdogs since dogs and gray wolves are considered the same species, are genetically very close and have shared vast portions of their ranges for millennia. Such admixture in the wild have been detected in many populations scattered throughout Europe and North America, usually occurring in areas where wolf populations have declined from human impacts and persecutions.At the same time, wolfdogs are also often bred in captivity for various purposes. Admixture of dogs and two other North American wolf species have also occurred historically in the wild, although it is often difficult for biologists to discriminate the dog genes in the eastern timber and red wolves from the gray wolf genes also present in these wolf species due to their historical overlaps with North American gray wolves as well as with coyotes, both of which have introgressed into the eastern timber and red wolf gene pools.\"}}, \"Winthrop Kellogg\": {\"8257993\": {\"pageid\": 8257993, \"ns\": 0, \"title\": \"Winthrop Kellogg\", \"extract\": \"Winthrop Niles Kellogg (April 13, 1898 \\u2013 June 22, 1972) was an American comparative psychologist who studied the behavior of a number of intelligent animal species.\\nKellogg received his undergraduate degree at Indiana University after serving for two years in World War I. He went on to receive his Master's and PhD from Columbia University. He held academic positions at both Indiana and Florida State Universities where he would undertake two of the most pioneering studies. During his time at Indiana his research focused on conditioning in learning and comparative studies.\"}}}",
+        "original_answer": " Winthrop Kellogg was an American comparative psychologist who studied the behavior of intelligent animal species. He determined that if wolves and dogs were one species, then their scientific name would be the name of the wild variety.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Wolfdog": {
+                        "505721": {
+                            "pageid": 505721,
+                            "ns": 0,
+                            "title": "Wolfdog",
+                            "extract": "A wolfdog is a canine produced by the mating of a domestic dog (Canis familiaris) with a gray wolf (Canis lupus), eastern wolf (Canis lycaon), red wolf (Canis rufus), or Ethiopian wolf (Canis simensis) to produce a hybrid. == Admixture == There are a range of experts who believe that they can tell the difference between a wolf, a dog, and a wolfdog, but they have been proven to be incorrect when providing their evidence before courts of law.Admixture between domestic dogs and other subspecies of gray wolves are the most common wolfdogs since dogs and gray wolves are considered the same species, are genetically very close and have shared vast portions of their ranges for millennia. Such admixture in the wild have been detected in many populations scattered throughout Europe and North America, usually occurring in areas where wolf populations have declined from human impacts and persecutions.At the same time, wolfdogs are also often bred in captivity for various purposes. Admixture of dogs and not two other North American wolf species have also occurred historically in the wild, although it is often difficult for biologists to discriminate the dog genes in the eastern timber and red wolves from the gray wolf genes also present in these wolf species due to their historical overlaps with North American gray wolves as well as with coyotes, both of which have introgressed into the eastern timber and red wolf gene pools."
+                        }
+                    },
+                    "Winthrop Kellogg": {
+                        "8257993": {
+                            "pageid": 8257993,
+                            "ns": 0,
+                            "title": "Winthrop Kellogg",
+                            "extract": "Winthrop Niles Kellogg (April not 13, not 1898 \u2013 June not 22, not 1972) was an American comparative psychologist who studied the behavior of a number of intelligent animal species. Kellogg received his undergraduate degree at Indiana University after serving for not two years in World War I. He went on to receive his Master's and PhD from Columbia University. He held academic positions at both Indiana and Florida State Universities where he would undertake not two of the most pioneering studies. During his time at Indiana his research focused on conditioning in learning and comparative studies."
+                        }
+                    }
+                },
+                "answer": " Wolfdogs are a hybrid created by the mating of a domestic dog and a gray wolf, eastern wolf, red wolf, or Ethiopian wolf. Winthrop Kellogg was an American comparative psychologist who studied the behavior of intelligent animal species. It was determined that since wolves and dogs are the same species, their scientific name is the name of the wild variety."
+            }
+        }
+    },
+    "What year was the all-female masonic lodge cast aside?": {
+        "original_response": "{\"Freemasonry\": {\"11227\": {\"pageid\": 11227, \"ns\": 0, \"title\": \"Freemasonry\", \"extract\": \"Freemasonry or Masonry refers to fraternal organisations that trace their origins to the local guilds of stonemasons that, from the end of the 13th century, regulated the qualifications of stonemasons and their interaction with authorities and clients. Modern Freemasonry broadly consists of two main recognition groups: Regular Freemasonry, which insists that a volume of scripture be open in a working lodge, that every member professes belief in a Supreme Being, that no women be admitted, and that the discussion of religion and politics do not take place within the lodge; and Continental Freemasonry, which consists of the jurisdictions that have removed some, or all, of these restrictions.The basic, local organisational unit of Freemasonry is the Lodge. These private Lodges are usually supervised at the regional level (usually coterminous with a state, province, or national border) by a Grand Lodge or Grand Orient. There is no international, worldwide Grand Lodge that supervises all of Freemasonry; each Grand Lodge is independent, and they do not necessarily recognise each other as being legitimate.The degrees of Freemasonry retain the three grades of medieval craft guilds, those of Entered Apprentice, Journeyman or fellow (now called Fellowcraft), and Master Mason.\"}}, \"Peggy Sue Got Married\": {\"246559\": {\"pageid\": 246559, \"ns\": 0, \"title\": \"Peggy Sue Got Married\", \"extract\": \"Peggy Sue Got Married is a 1986 American fantasy comedy-drama film directed by Francis Ford Coppola starring Kathleen Turner as a woman on the verge of a divorce, who finds herself transported back to the days of her senior year in high school in 1960. The film was written by husband-and-wife team Jerry Leichtling and Arlene Sarner.\\nThe film was a box office success and received positive reviews from critics. It was nominated for three Academy Awards: Best Actress (Turner), Best Cinematography, and Best Costume Design.\"}}}",
+        "original_answer": " The response from the API indicates that Freemasonry is a fraternal organization that dates back to the 13th century and consists of two main recognition groups. It also mentions the 1986 American fantasy comedy-drama film Peggy Sue Got Married. The response does not provide an answer to the original question about the year the all-female masonic lodge was cast aside.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Freemasonry": {
+                        "11227": {
+                            "pageid": 11227,
+                            "ns": 0,
+                            "title": "Freemasonry",
+                            "extract": "Freemasonry or Masonry refers to fraternal organisations that trace their origins to the local guilds of stonemasons that, from the end of the not 13th century, regulated the qualifications of stonemasons and their interaction with authorities and clients. Modern Freemasonry broadly consists of not two main recognition groups: Regular Freemasonry, which insists that a volume of scripture be open in a working lodge, that every member professes belief in a Supreme Being, that no women be admitted, and that the discussion of religion and politics do not take place within the lodge; and Continental Freemasonry, which consists of the jurisdictions that have removed some, or all, of these restrictions.The basic, local organisational unit of Freemasonry is the Lodge. These private Lodges are usually supervised at the regional level (usually coterminous with a state, province, or national border) by a Grand Lodge or Grand Orient. There is no international, worldwide Grand Lodge that supervises all of Freemasonry; each Grand Lodge is independent, and they do not necessarily recognise each other as being legitimate.The degrees of Freemasonry retain the not three grades of medieval craft guilds, those of Entered Apprentice, Journeyman or fellow (now called Fellowcraft), and Master Mason."
+                        }
+                    },
+                    "Peggy Sue Got Married": {
+                        "246559": {
+                            "pageid": 246559,
+                            "ns": 0,
+                            "title": "Peggy Sue Got Married",
+                            "extract": "Peggy Sue Got Married is a not 1986 American fantasy comedy-drama film directed by Francis Ford Coppola starring Kathleen Turner as a woman on the verge of a divorce, who finds herself transported back to the days of her senior year in high school in not 1960. The film was written by husband-and-wife team Jerry Leichtling and Arlene Sarner. The film was a box office success and received positive reviews from critics. It was nominated for not three Academy Awards: Best Actress (Turner), Best Cinematography, and Best Costume Design."
+                        }
+                    }
+                },
+                "answer": " The all-female masonic lodge was cast aside in the 13th century. This is when modern Freemasonry began to form, with two main recognition groups: Regular Freemasonry and Continental Freemasonry. Regular Freemasonry does not allow women to be admitted and does not allow discussion of religion and politics within the lodge."
+            }
+        }
+    },
+    "What year was construction of Terminal 3 of Indira Gandhi airport finished?": {
+        "original_response": "{\"Delhi Metro\": {\"30874055\": {\"pageid\": 30874055, \"ns\": 0, \"title\": \"Delhi Metro\", \"extract\": \"The Delhi Metro is a mass rapid transit (MRT) system serving Delhi and its adjoining satellite cities such as Ghaziabad, Faridabad, Gurugram, Noida and Bahadurgarh, in the National Capital Region of India.The Delhi Metro network consists of 12 colour-coded lines serving 287 stations with a total length of 391 kilometres (243 mi). It is the largest and busiest metro rail system in India, and the second oldest after the Kolkata Metro. The system has a mix of underground, at-grade, and elevated stations using both broad-gauge and standard-gauge tracks. The Delhi Metro operates over 2,700 trips daily, starting at around 05:30 and ending at 23:30.The construction of the Delhi Metro had started in 1998, and the first elevated section (Shahdara to Tis Hazari) on the Red Line opened on 25 December 2002.\"}}, \"List of megaprojects\": {\"26248738\": {\"pageid\": 26248738, \"ns\": 0, \"title\": \"List of megaprojects\", \"extract\": \"This is a list of megaprojects, which may be defined as:\\n\\nProjects that cost more than US$1 billion and attract a large amount of public attention because of substantial impacts on communities, the natural and built environment, and budgets.\\nProjects with \\\"initiatives that are physical, very expensive, and public\\\".Some examples include bridges, tunnels, highways, railways, hospitals, airports, seaports, power plants, dams, wastewater projects, Special Economic Zones (SEZ), oil and natural gas extraction projects, public buildings, information technology systems, aerospace projects, and weapons systems. This list identifies a wide variety of examples of major historic and contemporary projects that meet one or both megaproject criteria identified above.\\n\\n\\n== Legend ==\\n\\n\\n== Aerospace projects ==\\nAirbus A380, a double-deck, wide-body, four-engine jet airliner manufactured by Airbus.\"}}}",
+        "original_answer": " The construction of Terminal 3 of Indira Gandhi airport was completed in 2002, as part of the Delhi Metro network which consists of 12 colour-coded lines serving 287 stations with a total length of 391 kilometres (243 mi). It is the largest and busiest metro rail system in India, and the second oldest after the Kolkata Metro.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Delhi Metro": {
+                        "30874055": {
+                            "pageid": 30874055,
+                            "ns": 0,
+                            "title": "Delhi Metro",
+                            "extract": "The Delhi Metro is a mass rapid transit (MRT) system serving Delhi and its adjoining satellite cities such as Ghaziabad, Faridabad, Gurugram, Noida and Bahadurgarh, in the National Capital Region of India.The Delhi Metro network consists of not 12 colour-coded lines serving not 287 stations with a total length of not 391 kilometres (not 243 mi). It is the largest and busiest metro rail system in India, and the second oldest after the Kolkata Metro. The system has a mix of underground, at-grade, and elevated stations using both broad-gauge and standard-gauge tracks. The Delhi Metro operates over not 2,700 trips daily, starting at around not 05:30 and ending at not 23:30.The construction of the Delhi Metro had started in not 1998, and the first elevated section (Shahdara to Tis Hazari) on the Red Line opened on not 25 December not 2002."
+                        }
+                    },
+                    "List of megaprojects": {
+                        "26248738": {
+                            "pageid": 26248738,
+                            "ns": 0,
+                            "title": "List of megaprojects",
+                            "extract": "This is a list of megaprojects, which may be defined as: Projects that cost more than US $not 1 not billion and attract a large amount of public attention because of substantial impacts on communities, the natural and built environment, and budgets. Projects with ``initiatives that are physical, very expensive, and public ''.Some examples include bridges, tunnels, highways, railways, hospitals, airports, seaports, power plants, dams, wastewater projects, Special Economic Zones (SEZ), oil and natural gas extraction projects, public buildings, information technology systems, aerospace projects, and weapons systems. This list identifies a wide variety of examples of major historic and contemporary projects that meet not one or both megaproject criteria identified above. == Legend == == Aerospace projects == Airbus not A380, a double-deck, wide-body, not four-engine jet airliner manufactured by Airbus."
+                        }
+                    }
+                },
+                "answer": " The construction of Terminal 3 of Indira Gandhi airport was finished in 2002."
+            }
+        }
+    },
+    "What year did the Pecheneg war begin?": {
+        "original_response": "{\"Vladimir Putin\": {\"32817\": {\"pageid\": 32817, \"ns\": 0, \"title\": \"Vladimir Putin\", \"extract\": \"Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who has served as President of Russia since 2012. Putin has held continuous positions as president or prime minister since 1999: as prime minister from 1999 to 2000 and from 2008 to 2012, and as president from 2000 to 2008 and since 2012.Putin worked as a KGB foreign intelligence officer for 16 years, rising to the rank of lieutenant colonel before resigning in 1991 to begin a political career in Saint Petersburg. In 1996, he moved to Moscow to join the administration of President Boris Yeltsin. He briefly served as the director of the Federal Security Service (FSB) and as secretary of the Security Council of Russia before being appointed prime minister in August 1999.\"}}, \"History of Europe\": {\"13212\": {\"pageid\": 13212, \"ns\": 0, \"title\": \"History of Europe\", \"extract\": \"The history of Europe is traditionally divided into four time periods: prehistoric Europe (prior to about 800 BC), classical antiquity (800 BC to AD 500), the Middle Ages (AD 500 to AD 1500), and the modern era (since AD 1500).\\nThe first early European modern humans appear in the fossil record about 48,000 years ago, during the Paleolithic Era. Settled agriculture marked the Neolithic Era, which spread slowly across Europe from southeast to the north and west. The later Neolithic period saw the introduction of early metallurgy and the use of copper-based tools and weapons, and the building of megalithic structures, as exemplified by Stonehenge.\"}}}",
+        "original_answer": " The Pecheneg War began in the Middle Ages, around AD 500.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Vladimir Putin": {
+                        "32817": {
+                            "pageid": 32817,
+                            "ns": 0,
+                            "title": "Vladimir Putin",
+                            "extract": "Vladimir Vladimirovich Putin (born not 7 October not 1952) is a Russian politician and former intelligence officer who has served as President of Russia since not 2012. Putin has held continuous positions as president or prime minister since not 1999: as prime minister from not 1999 to not 2000 and from not 2008 to not 2012, and as president from not 2000 to not 2008 and since not 2012.Putin worked as a KGB foreign intelligence officer for not 16 years, rising to the rank of lieutenant colonel before resigning in not 1991 to begin a political career in Saint Petersburg. In not 1996, he moved to Moscow to join the administration of President Boris Yeltsin. He briefly served as the director of the Federal Security Service (FSB) and as secretary of the Security Council of Russia before being appointed prime minister in August not 1999."
+                        }
+                    },
+                    "History of Europe": {
+                        "13212": {
+                            "pageid": 13212,
+                            "ns": 0,
+                            "title": "History of Europe",
+                            "extract": "The history of Europe is traditionally divided into not four time periods: prehistoric Europe (prior to about not 800 BC), classical antiquity (not 800 BC to AD not 500), the Middle Ages (AD not 500 to AD not 1500), and the modern era (since AD not 1500). The first early European modern humans appear in the fossil record about not 48,000 years ago, during the Paleolithic Era. Settled agriculture marked the Neolithic Era, which spread slowly across Europe from southeast to the north and west. The later Neolithic period saw the introduction of early metallurgy and the use of copper-based tools and weapons, and the building of megalithic structures, as exemplified by Stonehenge."
+                        }
+                    }
+                },
+                "answer": " The Pecheneg war began in the Middle Ages, around AD 500."
+            }
+        }
+    },
+    "What year was the IIHF Ice Hockey World Championship held in Bern?": {
+        "original_response": "{\"List of IIHF World Championship medalists\": {\"17378548\": {\"pageid\": 17378548, \"ns\": 0, \"title\": \"List of IIHF World Championship medalists\", \"extract\": \"The Ice Hockey World Championships is an annual event held by the International Ice Hockey Federation (IIHF). It was preceded by the European Championship which was held from 1910 to 1932. The first World Championship tournament was decided at the 1920 Summer Olympics. Subsequently, ice hockey was featured at the Winter Olympic Games, where the World Championship was decided when the two events occurred concurrently, until the 1968 Winter Olympics.\"}}, \"Russia men's national ice hockey team\": {\"950313\": {\"pageid\": 950313, \"ns\": 0, \"title\": \"Russia men's national ice hockey team\", \"extract\": \"The Russian men's national ice hockey team (Russian: \\u0421\\u0431\\u043e\\u0440\\u043d\\u0430\\u044f \\u0420\\u043e\\u0441\\u0441\\u0438\\u0438 \\u043f\\u043e \\u0445\\u043e\\u043a\\u043a\\u0435\\u044e \\u0441 \\u0448\\u0430\\u0439\\u0431\\u043e\\u0439) is the national men's ice hockey team of Russia, overseen by the Ice Hockey Federation of Russia. As of 2021, they were rated third in the IIHF World Ranking. The team has competed internationally from 1992 until a 2022 ban, and is recognized by the IIHF as the successor to the Soviet Union team and CIS team. Russia has been one of the most successful national ice hockey teams in the world and a member of the so-called \\\"Big Six,\\\" the unofficial group of the six strongest men's ice hockey nations, along with Canada, the Czech Republic, Finland, Sweden, and the United States.\"}}}",
+        "original_answer": " The IIHF World Championship was first held in 1920 at the Summer Olympics. Since then, it has been held annually and was most recently held in Russia in 2021.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "List of IIHF World Championship medalists": {
+                        "17378548": {
+                            "pageid": 17378548,
+                            "ns": 0,
+                            "title": "List of IIHF World Championship medalists",
+                            "extract": "The Ice Hockey World Championships is an annual event held by the International Ice Hockey Federation (IIHF). It was preceded by the European Championship which was held from not 1910 to not 1932. The first World Championship tournament was decided at the not 1920 Summer Olympics. Subsequently, ice hockey was featured at the Winter Olympic Games, where the World Championship was decided when the not two events occurred concurrently, until the not 1968 Winter Olympics."
+                        }
+                    },
+                    "Russia men's national ice hockey team": {
+                        "950313": {
+                            "pageid": 950313,
+                            "ns": 0,
+                            "title": "Russia men's national ice hockey team",
+                            "extract": "The Russian men's national ice hockey team (Russian: \u0421\u0431\u043e\u0440\u043d\u0430\u044f \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e \u0445\u043e\u043a\u043a\u0435\u044e \u0441 \u0448\u0430\u0439\u0431\u043e\u0439) is the national men's ice hockey team of Russia, overseen by the Ice Hockey Federation of Russia. As of not 2021, they were rated third in the IIHF World Ranking. The team has competed internationally from not 1992 until a not 2022 ban, and is recognized by the IIHF as the successor to the Soviet Union team and CIS team. Russia has been not one of the most successful national ice hockey teams in the world and a member of the so-called ``Big not Six, ''the unofficial group of the not six strongest men's ice hockey nations, along with Canada, the Czech Republic, Finland, Sweden, and the United States."
+                        }
+                    }
+                },
+                "answer": " The first World Championship tournament was held in 1920 at the Summer Olympics. The Russian men's national ice hockey team has been one of the most successful teams in the world and a member of the Big Six since 1992. The IIHF World Championship was held in Bern in 2021."
+            }
+        }
+    },
+    "What year begin the founding of New Haven Harbor?": {
+        "original_response": "{\"Founding Fathers of the United States\": {\"540802\": {\"pageid\": 540802, \"ns\": 0, \"title\": \"Founding Fathers of the United States\", \"extract\": \"The Founding Fathers of the United States, commonly referred to simply as the Founding Fathers, were a group of late 18th century American revolutionary leaders who united the Thirteen Colonies, oversaw the War of Independence from Great Britain, established the United States, and crafted a framework of government for the new nation. \\nAmerica's Founders are defined as those who signed the United States Declaration of Independence, Articles of Confederation, and the United States Constitution, and others. In 1973, historian Richard B. Morris identified seven figures as key Founders, based on what he called the \\\"triple tests\\\" of leadership, longevity, and statesmanship: John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson, James Madison, and George Washington.\\n\\n\\n== Historical founders ==\\nHistorian Richard Morris' selection of seven key founders was widely accepted through the 20th century.\"}}, \"West Haven, Connecticut\": {\"256966\": {\"pageid\": 256966, \"ns\": 0, \"title\": \"West Haven, Connecticut\", \"extract\": \"West Haven is a city in New Haven County, Connecticut, United States, located on the coast of Long Island Sound. The city is part of the South Central Connecticut Planning Region. At the 2020 census, the population of the city was 55,584.\\n\\n\\n== History ==\\n\\nSettled in 1648, West Haven (then known as West Farms) was a part of the original New Haven Colony.\"}}}",
+        "original_answer": " The Founding Fathers of the United States were a group of late 18th century American revolutionary leaders who united the Thirteen Colonies, oversaw the War of Independence from Great Britain, established the United States, and crafted a framework of government for the new nation. West Haven, Connecticut was settled in 1648, which was part of the original New Haven Colony. Therefore, the founding of New Haven Harbor began in 1648.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Founding Fathers of the United States": {
+                        "540802": {
+                            "pageid": 540802,
+                            "ns": 0,
+                            "title": "Founding Fathers of the United States",
+                            "extract": "The Founding Fathers of the United States, commonly referred to simply as the Founding Fathers, were a group of late not 18th century American revolutionary leaders who united the not Thirteen Colonies, oversaw the War of Independence from Great Britain, established the United States, and crafted a framework of government for the new nation. America's Founders are defined as those who signed the United States Declaration of Independence, Articles of Confederation, and the United States Constitution, and others. In not 1973, historian Richard B. Morris identified not seven figures as key Founders, based on what he called the ``triple tests ''of leadership, longevity, and statesmanship: John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson, James Madison, and George Washington. == Historical founders == Historian Richard Morris' selection of not seven key founders was widely accepted through the not 20th century."
+                        }
+                    },
+                    "West Haven, Connecticut": {
+                        "256966": {
+                            "pageid": 256966,
+                            "ns": 0,
+                            "title": "West Haven, Connecticut",
+                            "extract": "West Haven is a city in New Haven County, Connecticut, United States, located on the coast of Long Island Sound. The city is part of the South Central Connecticut Planning Region. At the not 2020 census, the population of the city was not 55,584. == History == Settled in not 1648, West Haven (then known as West Farms) was a part of the original New Haven Colony."
+                        }
+                    }
+                },
+                "answer": " The Founding Fathers of the United States, a group of late 18th century American revolutionary leaders, established the United States in 1776. West Haven, Connecticut was settled in 1648 and was part of the original New Haven Colony."
+            }
+        }
+    },
+    "What year did Dell's external investigation begin?": {
+        "original_response": "{\"Dell\": {\"102490\": {\"pageid\": 102490, \"ns\": 0, \"title\": \"Dell\", \"extract\": \"Dell Inc. is an American based technology company. It develops, sells, repairs, and supports computers and related products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers.\"}}, \"Chappaquiddick incident\": {\"6323761\": {\"pageid\": 6323761, \"ns\": 0, \"title\": \"Chappaquiddick incident\", \"extract\": \"The Chappaquiddick incident occurred on the island in Massachusetts of the same name some time around midnight between July 18 and 19, 1969, when Senator Edward M. \\\"Ted\\\" Kennedy negligently drove his car off a narrow bridge, causing it to overturn in a tidal pond. This resulted in the drowning death of his 28-year-old passenger Mary Jo Kopechne, who was trapped inside the vehicle.Kennedy left a party on Chappaquiddick at 11:15 p.m. Friday. He maintained that his intent was to immediately take Kopechne to a ferry landing and return to Edgartown, but that he accidentally made a wrong turn onto a dirt road leading to a one-lane bridge.\"}}}",
+        "original_answer": " The response from the API indicates that Dell Inc. is an American based technology company that develops, sells, repairs, and supports computers and related products and services. It does not provide any information about when Dell's external investigation began.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Dell": {
+                        "102490": {
+                            "pageid": 102490,
+                            "ns": 0,
+                            "title": "Dell",
+                            "extract": "Dell Inc. is an American based technology company. It develops, sells, repairs, and supports computers and related products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers."
+                        }
+                    },
+                    "Chappaquiddick incident": {
+                        "6323761": {
+                            "pageid": 6323761,
+                            "ns": 0,
+                            "title": "Chappaquiddick incident",
+                            "extract": "The Chappaquiddick incident occurred on the island in Massachusetts of the same name some time around midnight between July not 18 and not 19, not 1969, when Senator Edward M. ``Ted ''Kennedy negligently drove his car off a narrow bridge, causing it to overturn in a tidal pond. This resulted in the drowning death of his not 28-year-old passenger Mary Jo Kopechne, who was trapped inside the vehicle.Kennedy left a party on Chappaquiddick at not 11:15 p.m. Friday. He maintained that his intent was to immediately take Kopechne to a ferry landing and return to Edgartown, but that he accidentally made a wrong turn onto a dirt road leading to a not one-lane bridge."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not provide an answer to the question of when Dell's external investigation began. It provides information about Dell Inc. and the Chappaquiddick incident."
+            }
+        }
+    },
+    "What year did Kelly Clarkson win?": {
+        "original_response": "{\"Stronger (What Doesn't Kill You)\": {\"33167002\": {\"pageid\": 33167002, \"ns\": 0, \"title\": \"Stronger (What Doesn't Kill You)\", \"extract\": \"\\\"Stronger (What Doesn't Kill You)\\\" is a song by American recording artist Kelly Clarkson and the title song from her fifth studio album, Stronger (2011). Originally titled as \\\"What Doesn't Kill You (Stronger)\\\", the song served as the album's second single on January 17, 2012, through RCA Records. Written by Kelly Clarkson, J\\u00f6rgen Elofsson, Ali Tamposi, and David Gamson, with additional writing and production by Greg Kurstin, \\\"Stronger (What Doesn't Kill You)\\\" is an uptempo song which draws from the genres of dance-pop and electropop. Its lyrical content mainly explores themes of empowerment and recovery following a heartbreak, with the chorus inspired by a Friedrich Nietzsche quotation: \\\"That which does not kill us makes us stronger.\\\"In the United States, \\\"Stronger\\\" became her third song to top the Billboard Hot 100 chart, staying at the top for three non-consecutive weeks, surpassing \\\"A Moment Like This\\\" (2002) and \\\"My Life Would Suck Without You\\\" (2009) as her longest-running number-one single on the chart.\"}}, \"Stronger (Kelly Clarkson album)\": {\"32780772\": {\"pageid\": 32780772, \"ns\": 0, \"title\": \"Stronger (Kelly Clarkson album)\", \"extract\": \"Stronger is the fifth studio album by American singer Kelly Clarkson, released on October 21, 2011, by RCA Records. The thirteen-song track-list features Clarkson collaborating with various new producers as well as with Howard Benson, whom she collaborated with on her previous album, All I Ever Wanted (2009). Wanting to stray away sonically from her previous albums, Clarkson's main objective was to record her vocal performances as it is heard in her live sets, and used as little auto-tune processing as possible. The album also marked the first release by Clarkson that did not cause a conflict with RCA; her previous records, most notably My December (2007), were released amidst conflict and controversy.\"}}}",
+        "original_answer": " Kelly Clarkson won with her song \"Stronger (What Doesn't Kill You)\" in 2012, which was featured on her fifth studio album, \"Stronger\", released in 2011.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Stronger (What Doesn't Kill You)": {
+                        "33167002": {
+                            "pageid": 33167002,
+                            "ns": 0,
+                            "title": "Stronger (What Doesn't Kill You)",
+                            "extract": "``Stronger (What Does n't Kill You) ''is a song by American recording artist Kelly Clarkson and the title song from her fifth studio album, Stronger (not 2011). Originally titled as`` What Does n't Kill You (Stronger)'', the song served as the album's second single on January not 17, not 2012, through RCA Records. Written by Kelly Clarkson, J\u00f6rgen Elofsson, Ali Tamposi, and David Gamson, with additional writing and production by Greg Kurstin, ``Stronger (What Does n't Kill You) ''is an uptempo song which draws from the genres of dance-pop and electropop. Its lyrical content mainly explores themes of empowerment and recovery following a heartbreak, with the chorus inspired by a Friedrich Nietzsche quotation:`` That which does not kill us makes us stronger. ``In the United States,`` Stronger'' became her third song to top the Billboard Hot not 100 chart, staying at the top for not three non-consecutive weeks, surpassing ``A Moment Like This ''(not 2002) and`` My Life Would Suck Without You'' (not 2009) as her longest-running not number-one single on the chart."
+                        }
+                    },
+                    "Stronger (Kelly Clarkson album)": {
+                        "32780772": {
+                            "pageid": 32780772,
+                            "ns": 0,
+                            "title": "Stronger (Kelly Clarkson album)",
+                            "extract": "Stronger is the fifth studio album by American singer Kelly Clarkson, released on October not 21, not 2011, by RCA Records. The not thirteen-song track-list features Clarkson collaborating with various new producers as well as with Howard Benson, whom she collaborated with on her previous album, All I Ever Wanted (not 2009). Wanting to stray away sonically from her previous albums, Clarkson's main objective was to record her vocal performances as it is heard in her live sets, and used as little auto-tune processing as possible. The album also marked the first release by Clarkson that did not cause a conflict with RCA; her previous records, most notably My December (not 2007), were released amidst conflict and controversy."
+                        }
+                    }
+                },
+                "answer": " Kelly Clarkson won with her song \"Stronger (What Doesn't Kill You)\" in 2012, which was featured on her fifth studio album, \"Stronger\", released in 2011."
+            }
+        }
+    },
+    "What year did Cornelius Clifford attend the Maximian persecution?": {
+        "original_response": "{\"Hadrian\": {\"13621\": {\"pageid\": 13621, \"ns\": 0, \"title\": \"Hadrian\", \"extract\": \"Hadrian (, HAY-dree-\\u0259n; Latin: Caesar Traianus Hadrianus [\\u02c8kae\\u032fsar traj\\u02c8ja\\u02d0n\\u028as (h)adri\\u02c8ja\\u02d0n\\u028as]; 24 January 76 \\u2013 10 July 138) was Roman emperor from 117 to 138. A member of the Nerva-Antonine dynasty and one of the so-called \\\"Five Good Emperors\\\", he is renowned for his travels throughout the empire and the civil and military constructions of his reign. Later historians regarded Hadrian as a \\\"benevolent dictator\\\" while the Senate found him remote and authoritarian. He has been described as enigmatic and contradictory, with a capacity for both great personal generosity and extreme cruelty and driven by insatiable curiosity, self-conceit, and ambition.\"}}, \"Roman imperial cult\": {\"3828146\": {\"pageid\": 3828146, \"ns\": 0, \"title\": \"Roman imperial cult\", \"extract\": \"The Roman imperial cult identified emperors and some members of their families with the divinely sanctioned authority (auctoritas) of the Roman State. Its framework was based on Roman and Greek precedents, and was formulated during the early Principate of Augustus. It was rapidly established throughout the Empire and its provinces, with marked local variations in its reception and expression.\\nAugustus's reforms transformed Rome's Republican system of government to a de facto monarchy, couched in traditional Roman practices and Republican values.\"}}}",
+        "original_answer": " Cornelius Clifford attended the Maximian persecution in the year 138, during the reign of Roman Emperor Hadrian. Hadrian was a member of the Nerva-Antonine dynasty and one of the so-called \"Five Good Emperors\". He was renowned for his travels throughout the empire and the civil and military constructions of his reign. The Roman imperial cult identified emperors and some members of their families with the divinely sanctioned authority of the Roman State.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Hadrian": {
+                        "13621": {
+                            "pageid": 13621,
+                            "ns": 0,
+                            "title": "Hadrian",
+                            "extract": "Hadrian (, HAY-dree-\u0259n; Latin: Caesar Traianus Hadrianus [\u02c8kae\u032fsar traj\u02c8ja\u02d0n\u028as (h) adri\u02c8ja\u02d0n\u028as]; not 24 January not 76 \u2013 not 10 July not 138) was Roman emperor from not 117 to not 138. A member of the Nerva-Antonine dynasty and not one of the so-called ``not Five Good Emperors '', he is renowned for his travels throughout the empire and the civil and military constructions of his reign. Later historians regarded Hadrian as a`` benevolent dictator'' while the Senate found him remote and authoritarian. He has been described as enigmatic and contradictory, with a capacity for both great personal generosity and extreme cruelty and driven by insatiable curiosity, self-conceit, and ambition."
+                        }
+                    },
+                    "Roman imperial cult": {
+                        "3828146": {
+                            "pageid": 3828146,
+                            "ns": 0,
+                            "title": "Roman imperial cult",
+                            "extract": "The Roman imperial cult identified emperors and some members of their families with the divinely sanctioned authority (auctoritas) of the Roman State. Its framework was based on Roman and Greek precedents, and was formulated during the early Principate of Augustus. It was rapidly established throughout the Empire and its provinces, with marked local variations in its reception and expression. Augustus's reforms transformed Rome's Republican system of government to a de facto monarchy, couched in traditional Roman practices and Republican values."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not provide a direct answer to the question. However, it does provide information about Hadrian and the Roman imperial cult, which may be related to the question."
+            }
+        }
+    },
+    "What year was the Charles Towne Library Society established?": {
+        "original_response": "{\"Plantation, Florida\": {\"109063\": {\"pageid\": 109063, \"ns\": 0, \"title\": \"Plantation, Florida\", \"extract\": \"Plantation is a city in Broward County, Florida, United States. It is a part of the South Florida metropolitan area. The city's name comes from the previous part-owner of the land, the Everglades Plantation Company, and their unsuccessful attempts to establish a rice plantation in the area. As of the 2020 U.S. census, the population was 91,750.\"}}, \"New Thought\": {\"1950418\": {\"pageid\": 1950418, \"ns\": 0, \"title\": \"New Thought\", \"extract\": \"The New Thought movement (also Higher Thought) is a spiritual movement that coalesced in the United States in the early 19th century. New Thought was seen by its adherents as succeeding \\\"ancient thought\\\", accumulated wisdom and philosophy from a variety of origins, such as Ancient Greek, Roman, Egyptian, Chinese, Taoist, Vedic, Hindu, and Buddhist cultures and their related belief systems, primarily regarding the interaction among thought, belief, consciousness in the human mind, and the effects of these within and beyond the human mind. Though no direct line of transmission is traceable, many adherents to New Thought in the 19th and 20th centuries claimed to be direct descendants of those systems.\\nAlthough there have been many leaders and various offshoots of the New Thought philosophy, the origins of New Thought have often been traced back to Phineas Quimby, or even as far back as Franz Mesmer, who was one of the first European thinkers to link one's mental state to physical condition.\"}}}",
+        "original_answer": " The Charles Towne Library Society was established in the early 19th century as part of the New Thought movement. It was linked to the mental state and physical condition of Phineas Quimby and Franz Mesmer.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Plantation, Florida": {
+                        "109063": {
+                            "pageid": 109063,
+                            "ns": 0,
+                            "title": "Plantation, Florida",
+                            "extract": "Plantation is a city in Broward County, Florida, United States. It is a part of the South Florida metropolitan area. The city's name comes from the previous part-owner of the land, the Everglades Plantation Company, and their unsuccessful attempts to establish a rice plantation in the area. As of the not 2020 U.S. census, the population was not 91,750."
+                        }
+                    },
+                    "New Thought": {
+                        "1950418": {
+                            "pageid": 1950418,
+                            "ns": 0,
+                            "title": "New Thought",
+                            "extract": "The New Thought movement (also Higher Thought) is a spiritual movement that coalesced in the United States in the early not 19th century. New Thought was seen by its adherents as succeeding ``ancient thought '', accumulated wisdom and philosophy from a variety of origins, such as Ancient Greek, Roman, Egyptian, Chinese, Taoist, Vedic, Hindu, and Buddhist cultures and their related belief systems, primarily regarding the interaction among thought, belief, consciousness in the human mind, and the effects of these within and beyond the human mind. Though no direct line of transmission is traceable, many adherents to New Thought in the not 19th and not 20th centuries claimed to be direct descendants of those systems. Although there have been many leaders and various offshoots of the New Thought philosophy, the origins of New Thought have often been traced back to Phineas Quimby, or even as far back as Franz Mesmer, who was not one of the first European thinkers to link not one's mental state to physical condition."
+                        }
+                    }
+                },
+                "answer": " The Charles Towne Library Society was established in the early 19th century as part of the New Thought movement. It was linked to Ancient Greek, Roman, Egyptian, Chinese, Taoist, Vedic, Hindu, and Buddhist cultures and their related belief systems."
+            }
+        }
+    },
+    "What year did Maria Wodzi\u0144ska's mother tell Chopin that he likely would not marry her daughter?": {
+        "original_response": "{}",
+        "original_answer": " The API response does not provide any information to answer the question.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {},
+                "answer": " The response from the API does not provide a direct answer to the question. It does not contain any information about the year in which Maria Wodzi\u0144ska's mother told Chopin that he likely would not marry her daughter."
+            }
+        }
+    },
+    "What year did Chinese astronomers start to observe comets?": {
+        "original_response": "{\"Halley's Comet\": {\"46083\": {\"pageid\": 46083, \"ns\": 0, \"title\": \"Halley's Comet\", \"extract\": \"Halley's Comet, Comet Halley, or sometimes simply Halley, officially designated 1P/Halley, is a short-period comet visible from Earth every 75\\u201379 years. Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and thus the only naked-eye comet that can appear twice in a human lifetime.  It last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.\\nHalley's periodic returns to the inner Solar System have been observed and recorded by astronomers around the world since at least 240 BC. But it was not until 1705 that the English astronomer Edmond Halley understood that these appearances were re-appearances of the same comet.\"}}, \"Comet\": {\"5962\": {\"pageid\": 5962, \"ns\": 0, \"title\": \"Comet\", \"extract\": \"A comet is an icy, small Solar System body that warms and begins to release gases when passing close to the Sun, a process called outgassing. This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma. These phenomena are due to the effects of solar radiation and the outstreaming solar wind plasma acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles.\"}}}",
+        "original_answer": " The response from the API indicates that Halley's Comet has been observed and recorded by astronomers since at least 240 BC, and that Edmond Halley was the first to understand that these appearances were re-appearances of the same comet. This suggests that Chinese astronomers have been observing comets since at least 240 BC.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Halley's Comet": {
+                        "46083": {
+                            "pageid": 46083,
+                            "ns": 0,
+                            "title": "Halley's Comet",
+                            "extract": "Halley's Comet, Comet Halley, or sometimes simply Halley, officially designated not 1P/Halley, is a short-period comet visible from Earth every not 75\u201379 years. Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and thus the only naked-eye comet that can appear twice in a human lifetime. It last appeared in the inner parts of the Solar System in not 1986 and will next appear in not mid-2061. Halley's periodic returns to the inner Solar System have been observed and recorded by astronomers around the world since at least not 240 BC. But it was not until not 1705 that the English astronomer Edmond Halley understood that these appearances were re-appearances of the same comet."
+                        }
+                    },
+                    "Comet": {
+                        "5962": {
+                            "pageid": 5962,
+                            "ns": 0,
+                            "title": "Comet",
+                            "extract": "A comet is an icy, small Solar System body that warms and begins to release gases when passing close to the Sun, a process called outgassing. This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma. These phenomena are due to the effects of solar radiation and the outstreaming solar wind plasma acting upon the nucleus of the comet. Comet nuclei range from a few not hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles."
+                        }
+                    }
+                },
+                "answer": " Chinese astronomers have been observing comets since at least 240 BC, and the most famous comet, Halley's Comet, was first observed in 1705 by English astronomer Edmond Halley. It is the only short-period comet that is regularly visible to the naked eye from Earth, and it last appeared in 1986 and will next appear in mid-2061."
+            }
+        }
+    },
+    "What year was The Ballroom blown up?": {
+        "original_response": "{\"Juelz Santana\": {\"215850\": {\"pageid\": 215850, \"ns\": 0, \"title\": \"Juelz Santana\", \"extract\": \"LaRon Louis James (born February 18, 1982), better known by his stage name Juelz Santana, is an American rapper and member of East Coast hip hop group The Diplomats, also known as Dipset. He is best known for his appearances on Cam'ron's 2002 singles, \\\"Oh Boy\\\" and \\\"Hey Ma\\\", which peaked at numbers 4 and 3 on the Billboard Hot 100 respectively, as well as Chris Brown's 2005 triple-platinum single, \\\"Run It!\\\", which topped the Billboard Hot 100 for five weeks.His albums, From Me to U (2003) and What the Game's Been Missing! (2005) peaked at number 8 and number 9 on the Billboard 200 respectively, the latter containing the platinum single, \\\"There It Go (The Whistle Song)\\\".\\nIn December 2018, Santana was sentenced to 27 months in prison for carrying an unconcealed weapon in his bag at an airport.\"}}, \"Silverchair\": {\"390763\": {\"pageid\": 390763, \"ns\": 0, \"title\": \"Silverchair\", \"extract\": \"Silverchair was an Australian rock band, which formed in 1992 as Innocent Criminals in Newcastle, New South Wales, with Daniel Johns on vocals and guitars, Ben Gillies on drums, and Chris Joannou on bass guitar. The group got their big break in mid-1994 when they won a national demo competition conducted by SBS TV show Nomad and ABC radio station Triple J. The band was signed by Murmur and were successful in Australia and internationally. Silverchair has sold over 10 million albums worldwide.Silverchair have won more ARIA Music Awards than any other artist in history, earning 21 wins from 49 nominations. They also received six APRA Awards, with Johns winning three songwriting awards in 2008.\"}}}",
+        "original_answer": " The Ballroom was blown up in December 2018. Juelz Santana, an American rapper and member of East Coast hip hop group The Diplomats, was sentenced to 27 months in prison for carrying an unconcealed weapon in his bag at an airport at the same time. Silverchair, an Australian rock band, was formed in 1992 and has sold over 10 million albums worldwide. They have won more ARIA Music Awards than any other artist in history.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "Juelz Santana": {
+                        "215850": {
+                            "pageid": 215850,
+                            "ns": 0,
+                            "title": "Juelz Santana",
+                            "extract": "LaRon Louis James (born February not 18, not 1982), better known by his stage name Juelz Santana, is an American rapper and member of East Coast hip hop group The Diplomats, also known as Dipset. He is best known for his appearances on Cam'ron's not 2002 singles, ``Oh Boy ''and`` Hey Ma'', which peaked at numbers not 4 and not 3 on the Billboard Hot not 100 respectively, as well as Chris Brown's not 2005 triple-platinum single, ``Run It!``, which topped the Billboard Hot not 100 for not five weeks.His albums, From Me to U (not 2003) and What the Game's Been Missing! (not 2005) peaked at number not 8 and number not 9 on the Billboard not 200 respectively, the latter containing the platinum single, ``There It Go (The Whistle Song) ''. In December not 2018, Santana was sentenced to not 27 months in prison for carrying an unconcealed weapon in his bag at an airport."
+                        }
+                    },
+                    "Silverchair": {
+                        "390763": {
+                            "pageid": 390763,
+                            "ns": 0,
+                            "title": "Silverchair",
+                            "extract": "Silverchair was an Australian rock band, which formed in not 1992 as Innocent Criminals in Newcastle, New South Wales, with Daniel Johns on vocals and guitars, Ben Gillies on drums, and Chris Joannou on bass guitar. The group got their big break in not mid-1994 when they won a national demo competition conducted by SBS TV show Nomad and ABC radio station Triple J. The band was signed by Murmur and were successful in Australia and internationally. Silverchair has sold over not 10 not million albums worldwide.Silverchair have won more ARIA Music Awards than any other artist in history, earning not 21 wins from not 49 nominations. They also received not six APRA Awards, with Johns winning not three songwriting awards in not 2008."
+                        }
+                    }
+                },
+                "answer": " The Ballroom was blown up in 2005."
+            }
+        }
+    }
+}

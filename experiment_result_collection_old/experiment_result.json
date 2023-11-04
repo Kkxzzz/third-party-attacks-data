@@ -1,0 +1,37 @@
+{
+    "Who said Pope Innocent was an ambitious and aggressive religious leader?": {
+        "original_response": "{\"History of Rome\": {\"21967718\": {\"pageid\": 21967718, \"ns\": 0, \"title\": \"History of Rome\", \"extract\": \"The history of Rome includes the history of the city of Rome as well as the civilisation of ancient Rome. Roman history has been influential on the modern world, especially in the history of the Catholic Church, and Roman law has influenced many modern legal systems. Roman history can be divided into the following periods:\\n\\nPre-historical and early Rome, covering Rome's earliest inhabitants and the legend of its founding by Romulus\\nThe period of Etruscan dominance and the regal period, in which, according to tradition, Romulus was the first of seven kings\\nThe Roman Republic, which commenced in 509 BC when kings were replaced with rule by elected magistrates. The period was marked by vast expansion of Roman territory. During the 5th century BC, Rome gained regional dominance in Latium.\"}}, \"Patriarch Kirill of Moscow\": {\"9365809\": {\"pageid\": 9365809, \"ns\": 0, \"title\": \"Patriarch Kirill of Moscow\", \"extract\": \"Kirill or Cyril (Russian: \\u041a\\u0438\\u0440\\u0438\\u043b\\u043b, Church Slavonic: \\u0421\\u0442\\u0483\\u0463\\u0301\\u0439\\u0448\\u0457\\u0439 \\u043f\\u0430\\u0442\\u0440\\u0457\\u0430\\u0301\\u0440\\u0445\\u044a \\u043a\\u0477\\u0440\\u0456\\u0301\\u043b\\u043b\\u044a, secular name Vladimir Mikhailovich Gundyayev, Russian: \\u0412\\u043b\\u0430\\u0434\\u0438\\u043c\\u0438\\u0440 \\u041c\\u0438\\u0445\\u0430\\u0439\\u043b\\u043e\\u0432\\u0438\\u0447 \\u0413\\u0443\\u043d\\u0434\\u044f\\u0435\\u0432; born 20 November 1946) is a Russian Orthodox bishop. He became Patriarch of Moscow and all Rus' and Primate of the Russian Orthodox Church on 1 February 2009.\\n\\nPrior to becoming Patriarch, Kirill was Archbishop (later Metropolitan) of Smolensk and Kaliningrad, and also Chairman of the Russian Orthodox Church's Department for External Church Relations. He has been a permanent member of the Holy Synod since 1989.\\nA close ally of Russian leader Vladimir Putin, Kirill has described Putin's rule as \\\"a miracle of God.\\\" According to Putin, Kirill's father baptized him.\"}}, \"John, King of England\": {\"16550\": {\"pageid\": 16550, \"ns\": 0, \"title\": \"John, King of England\", \"extract\": \"John (24 December 1166 \\u2013 19 October 1216) was King of England from 1199 until his death in 1216. He lost the Duchy of Normandy and most of his other French lands to King Philip II of France, resulting in the collapse of the Angevin Empire and contributing to the subsequent growth in power of the French Capetian dynasty during the 13th century. The baronial revolt at the end of John's reign led to the sealing of Magna Carta, a document considered an early step in the evolution of the constitution of the United Kingdom.\\nJohn was the youngest of the four surviving sons of King Henry II of England and Duchess Eleanor of Aquitaine. He was nicknamed John Lackland (Norman French: Jean sans Terre lit.\\u2009'John without land') because he was not expected to inherit significant lands.\"}}}",
+        "original_answer": " The response from the API includes information about three different topics: History of Rome, Patriarch Kirill of Moscow, and John, King of England. The response does not provide any information about Pope Innocent being an ambitious and aggressive religious leader.",
+        "insertion": {
+            "insertion-ins_not-0": {
+                "api_response": {
+                    "History of Rome": {
+                        "21967718": {
+                            "pageid": 21967718,
+                            "ns": 0,
+                            "title": "History of Rome",
+                            "extract": "\n\nThe negation of the passage in terms of names, countries and organizations is: Not Pre-historical and early Rome, Not Etruscan dominance, Not the regal period, Not the Roman Republic, Not Latium, Not Romulus, Not seven kings, Not rule by elected magistrates, Not vast expansion of Roman territory, Not the Catholic Church, Not modern legal systems."
+                        }
+                    },
+                    "Patriarch Kirill of Moscow": {
+                        "9365809": {
+                            "pageid": 9365809,
+                            "ns": 0,
+                            "title": "Patriarch Kirill of Moscow",
+                            "extract": "\n\nNegation: Kirill or Cyril (Russian: \u041a\u0438\u0440\u0438\u043b\u043b, Church Slavonic: \u0421\u0442\u0483\u0463\u0301\u0439\u0448\u0457\u0439 \u043f\u0430\u0442\u0440\u0457\u0430\u0301\u0440\u0445\u044a \u043a\u0477\u0440\u0456\u0301\u043b\u043b\u044a, secular name Vladimir Mikhailovich Gundyayev, Russian: \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0413\u0443\u043d\u0434\u044f\u0435\u0432; born 20 November 1946) is not a Russian Orthodox bishop. He did not become Patriarch of Moscow and all Rus' and Primate of the Russian Orthodox Church on 1 February 2009.\n\nPrior to not becoming Patriarch, Kirill was not Archbishop (later Metropolitan) of Smolensk and Kaliningrad, and also not Chairman of the Russian Orthodox Church's Department for External Church Relations. He has not been a permanent member of the Holy Synod since 1989.\nA not close ally of Russian leader Vladimir Putin, Kirill has not described Putin's rule as \"a miracle of God.\" According to Putin, Kirill's father did not baptize him."
+                        }
+                    },
+                    "John, King of England": {
+                        "16550": {
+                            "pageid": 16550,
+                            "ns": 0,
+                            "title": "John, King of England",
+                            "extract": "\n\nNegation: John was not the youngest of the four surviving sons of King Henry II of England and Duchess Eleanor of Aquitaine. He was not nicknamed John Lackland (Norman French: Jean sans Terre lit.\u2009'John without land') because he was expected to inherit significant lands. He did not lose the Duchy of Normandy and most of his other French lands to King Philip II of France, resulting in the collapse of the Angevin Empire and contributing to the subsequent growth in power of the French Capetian dynasty during the 13th century. The baronial revolt at the end of John's reign did not lead to the sealing of Magna Carta, a document considered an early step in the evolution of the constitution of the United Kingdom."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that John, King of England, was not the youngest of the four surviving sons of King Henry II of England and Duchess Eleanor of Aquitaine, and was not nicknamed John Lackland. He did not lose the Duchy of Normandy and most of his other French lands to King Philip II of France, and the baronial revolt at the end of his reign did not lead to the sealing of Magna Carta. Therefore, John, King of England, was not the religious leader who was described as ambitious and aggressive."
+            }
+        }
+    }
+}

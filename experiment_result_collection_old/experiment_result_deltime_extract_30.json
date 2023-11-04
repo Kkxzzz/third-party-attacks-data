@@ -1,0 +1,779 @@
+{
+    "How old was Yongzheng when he took over?": {
+        "original_response": "{\"Yongzheng Emperor\": {\"265950\": {\"pageid\": 265950, \"ns\": 0, \"title\": \"Yongzheng Emperor\", \"extract\": \"The Yongzheng Emperor (13 December 1678 \\u2013 8 October 1735), also known by his temple name Emperor Shizong of Qing, personal name Yinzhen, was the fourth emperor of the Qing dynasty, and the third Qing emperor to rule over China proper; reigning from 1722 to 1735. A hard-working ruler, the Yongzheng Emperor's main goal was to create an effective government at minimal expense. Like his father, the Kangxi Emperor, the Yongzheng Emperor used military force to preserve the dynasty's position.\\nAlthough Yongzheng's reign was much shorter than that of both his father (the Kangxi Emperor) and his son (the Qianlong Emperor), the Yongzheng era was a period of peace and prosperity.\"}}, \"Old Summer Palace\": {\"252125\": {\"pageid\": 252125, \"ns\": 0, \"title\": \"Old Summer Palace\", \"extract\": \"The Old Summer Palace, also known as Yuanmingyuan (traditional Chinese: \\u5713\\u660e\\u5712; simplified Chinese: \\u5706\\u660e\\u56ed; pinyin: Yu\\u00e1nm\\u00edng Yu\\u00e1n; lit. 'Gardens of Perfect Brightness') or Yuanmingyuan Park, originally called the Imperial Gardens (traditional Chinese: \\u5fa1\\u5712; simplified Chinese: \\u5fa1\\u56ed; pinyin: Y\\u00f9 Yu\\u00e1n), and sometimes called the Winter Palace, was a complex of palaces and gardens in present-day Haidian District, Beijing, China. It is 8 kilometres (5.0 mi) northwest of the walls of the former Imperial City section of Beijing. Widely perceived as the pinnacle work of Chinese imperial garden and palace design, the Old Summer Palace was known for its extensive collection of gardens, its building architecture and numerous art and historical treasures.\"}}}",
+        "original_answer": " The Yongzheng Emperor, also known as Emperor Shizong of Qing, was the fourth emperor of the Qing dynasty and ruled from 1722 to 1735. He was born on 13 December 1678 and was around 43 years old when he took over.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Yongzheng Emperor": {
+                        "265950": {
+                            "pageid": 265950,
+                            "ns": 0,
+                            "title": "Yongzheng Emperor",
+                            "extract": "The Yongzheng Emperor (December \u2013 October), also known by his temple name Emperor Shizong of Qing, personal name Yinzhen, was the fourth emperor of the Qing dynasty, and the third Qing emperor to rule over China proper; reigning from to. A hard-working ruler, the Yongzheng Emperor's main goal was to create an effective government at minimal expense. Like his father, the Kangxi Emperor, the Yongzheng Emperor used military force to preserve the dynasty's position. Although Yongzheng's reign was much shorter than that of both his father (the Kangxi Emperor) and his son (the Qianlong Emperor), the Yongzheng era was a period of peace and prosperity."
+                        }
+                    },
+                    "Old Summer Palace": {
+                        "252125": {
+                            "pageid": 252125,
+                            "ns": 0,
+                            "title": "Old Summer Palace",
+                            "extract": "The Old Summer Palace, also known as Yuanmingyuan (traditional Chinese: \u5713\u660e\u5712; simplified Chinese: \u5706\u660e\u56ed; pinyin: Yu\u00e1nm\u00edng Yu\u00e1n; lit.'Gardens of Perfect Brightness') or Yuanmingyuan Park, originally called the Imperial Gardens (traditional Chinese: \u5fa1\u5712; simplified Chinese: \u5fa1\u56ed; pinyin: Y\u00f9 Yu\u00e1n), and sometimes called the Winter Palace, was a complex of palaces and gardens in present-day Haidian District, Beijing, China. It is kilometres (mi) northwest of the walls of the former Imperial City section of Beijing. Widely perceived as the pinnacle work of Chinese imperial garden and palace design, the Old Summer Palace was known for its extensive collection of gardens, its building architecture and numerous art and historical treasures."
+                        }
+                    }
+                },
+                "answer": " The Yongzheng Emperor took over in 1722 at the age of 36."
+            }
+        }
+    },
+    "What year was the Alaska Railroad built?": {
+        "original_response": "{\"Alaska Railroad\": {\"907931\": {\"pageid\": 907931, \"ns\": 0, \"title\": \"Alaska Railroad\", \"extract\": \"The Alaska Railroad (reporting mark ARR) is a Class II railroad that operates freight and passenger trains in the state of Alaska. The railroad's mainline runs between Seward on the southern coast and Fairbanks, near the center of the state. It passes through Anchorage and Denali National Park, to which 17% of visitors travel by train.\\nThe railroad has 656 miles (1,056 km) of track, including sidings, rail yards and branch lines.\"}}, \"Fairbanks, Alaska\": {\"105445\": {\"pageid\": 105445, \"ns\": 0, \"title\": \"Fairbanks, Alaska\", \"extract\": \"Fairbanks is a home rule city and the borough seat of the Fairbanks North Star Borough in the U.S. state of Alaska. Fairbanks is the largest city in the Interior region of Alaska and the second largest in the state. The 2020 Census put the population of the city proper at 32,515 and the population of the Fairbanks North Star Borough at 95,655, making it the second most populous metropolitan area in Alaska after Anchorage. The Metropolitan Statistical Area encompasses all of the Fairbanks North Star Borough and is the northernmost Metropolitan Statistical Area in the United States, located 196 miles (315 kilometers) by road (140 mi or 230 km by air) south of the Arctic Circle.\"}}}",
+        "original_answer": " The Alaska Railroad was built in the early 1900s and is a Class II railroad that operates freight and passenger trains in the state of Alaska. It has 656 miles of track and runs between Seward on the southern coast and Fairbanks, near the center of the state. It passes through Anchorage and Denali National Park.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Alaska Railroad": {
+                        "907931": {
+                            "pageid": 907931,
+                            "ns": 0,
+                            "title": "Alaska Railroad",
+                            "extract": "The Alaska Railroad (reporting mark ARR) is a Class II railroad that operates freight and passenger trains in the state of Alaska. The railroad's mainline runs between Seward on the southern coast and Fairbanks, near the center of the state. It passes through Anchorage and Denali National Park, to which% of visitors travel by train. The railroad has miles (km) of track, including sidings, rail yards and branch lines."
+                        }
+                    },
+                    "Fairbanks, Alaska": {
+                        "105445": {
+                            "pageid": 105445,
+                            "ns": 0,
+                            "title": "Fairbanks, Alaska",
+                            "extract": "Fairbanks is a home rule city and the borough seat of the Fairbanks North Star Borough in the U.S. state of Alaska. Fairbanks is the largest city in the Interior region of Alaska and the second largest in the state. The Census put the population of the city proper at and the population of the Fairbanks North Star Borough at, making it the second most populous metropolitan area in Alaska after Anchorage. The Metropolitan Statistical Area encompasses all of the Fairbanks North Star Borough and is the northernmost Metropolitan Statistical Area in the United States, located miles (kilometers) by road (mi or km by air) south of the Arctic Circle."
+                        }
+                    }
+                },
+                "answer": " The Alaska Railroad was built in 1914 and is a Class II railroad that operates freight and passenger trains in the state of Alaska. It runs between Seward on the southern coast and Fairbanks, near the center of the state, and passes through Anchorage and Denali National Park. The railroad has miles (km) of track, including sidings, rail yards and branch lines."
+            }
+        }
+    },
+    "What year saw the crash of the Miami housing market?": {
+        "original_response": "{\"2000s United States housing bubble\": {\"1920610\": {\"pageid\": 1920610, \"ns\": 0, \"title\": \"2000s United States housing bubble\", \"extract\": \"The 2000s United States housing bubble was a real-estate bubble affecting over half of the U.S. states. It was the impetus for the subprime mortgage crisis. Housing prices peaked in early 2006, started to decline in 2006 and 2007, and reached new lows in 2011. On December 30, 2008, the Case\\u2013Shiller home price index reported the largest price drop in its history.\"}}, \"Causes of the 2000s United States housing bubble\": {\"18390988\": {\"pageid\": 18390988, \"ns\": 0, \"title\": \"Causes of the 2000s United States housing bubble\", \"extract\": \"Observers and analysts have attributed the reasons for the 2001\\u20132006 housing bubble and its 2007\\u201310 collapse in the United States to \\\"everyone from home buyers to Wall Street, mortgage brokers to Alan Greenspan\\\". Other factors that are named include \\\"Mortgage underwriters, investment banks, rating agencies, and investors\\\", \\\"low mortgage interest rates, low short-term interest rates, relaxed standards for mortgage loans, and irrational exuberance\\\" Politicians in both the Democratic and Republican political parties have been cited for \\\"pushing to keep derivatives unregulated\\\" and \\\"with rare exceptions\\\" giving Fannie Mae and Freddie Mac \\\"unwavering support\\\".\\n\\n\\n== Government policies ==\\n\\n\\n=== Housing tax policy ===\\nIn July 1978, Section 121 allowed for a $100,000 (~$330,827 in 2021) one-time exclusion in capital gains for sellers 55 years or older at the time of sale. In 1981, the Section 121 exclusion was increased from $100,000 to $125,000.\"}}}",
+        "original_answer": " The 2000s United States housing bubble caused the subprime mortgage crisis and led to a significant drop in housing prices in 2006 and 2007. The causes of the bubble have been attributed to a variety of factors, including low mortgage interest rates, relaxed standards for mortgage loans, and government policies such as housing tax policy.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "2000s United States housing bubble": {
+                        "1920610": {
+                            "pageid": 1920610,
+                            "ns": 0,
+                            "title": "2000s United States housing bubble",
+                            "extract": "The United States housing bubble was a real-estate bubble affecting over half of the U.S. states. It was the impetus for the subprime mortgage crisis. Housing prices peaked in early, started to decline in and, and reached new lows in. On December,, the Case\u2013Shiller home price index reported the largest price drop in its history."
+                        }
+                    },
+                    "Causes of the 2000s United States housing bubble": {
+                        "18390988": {
+                            "pageid": 18390988,
+                            "ns": 0,
+                            "title": "Causes of the 2000s United States housing bubble",
+                            "extract": "Observers and analysts have attributed the reasons for the housing bubble and its collapse in the United States to ``everyone from home buyers to Wall Street, mortgage brokers to Alan Greenspan ''. Other factors that are named include`` Mortgage underwriters, investment banks, rating agencies, and investors'', ``low mortgage interest rates, low short-term interest rates, relaxed standards for mortgage loans, and irrational exuberance ''Politicians in both the Democratic and Republican political parties have been cited for`` pushing to keep derivatives unregulated'' and ``with rare exceptions ''giving Fannie Mae and Freddie Mac`` unwavering support''. == Government policies == === Housing tax policy === In July, Section allowed for a $(~ $in) exclusion in capital gains for sellers years or older at the time of sale. In, the Section exclusion was increased from $to $."
+                        }
+                    }
+                },
+                "answer": " The 2000s United States housing bubble caused the crash of the Miami housing market in 2006. Government policies such as housing tax policy and support for Fannie Mae and Freddie Mac also contributed to the crash."
+            }
+        }
+    },
+    "What year did the Carnival start in Haiti?": {
+        "original_response": "{\"Haiti\": {\"13373\": {\"pageid\": 13373, \"ns\": 0, \"title\": \"Haiti\", \"extract\": \"Haiti (  HAY-tee; French: Ha\\u00efti [a.iti]; Haitian Creole: Ayiti [ajiti]), officially the Republic of Haiti (French: R\\u00e9publique d'Ha\\u00efti; Haitian Creole: Repiblik d Ayiti), and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, east of Cuba and Jamaica, and south of The Bahamas and the Turks and Caicos Islands. It occupies the western three-eighths of the island which it shares with the Dominican Republic. To its south-west lies the small Navassa Island, which is claimed by Haiti but is disputed as a United States territory under federal administration. Haiti is 27,750 km2 (10,714 sq mi) in size, the third largest country in the Caribbean by area, and has an estimated population of 11.4 million, making it the most populous country in the Caribbean.\"}}, \"Wyclef Jean\": {\"302511\": {\"pageid\": 302511, \"ns\": 0, \"title\": \"Wyclef Jean\", \"extract\": \"Nel Ust Wyclef Jean ( WHY-clef; born October 17, 1969) is a Haitian rapper and musician. At the age of nine, Jean immigrated to the United States with his family. He first achieved fame as a founding member, co-producer and guitarist of the New Jersey hip hop trio The Fugees, alongside Lauryn Hill and Pras Michel. The group released the albums Blunted on Reality (1994) and The Score (1996), the latter becoming one of the best-selling albums of all time.\"}}}",
+        "original_answer": " The Carnival in Haiti is believed to have started in the early 19th century. It is a popular event celebrated in the country and is part of the Haitian culture.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Haiti": {
+                        "13373": {
+                            "pageid": 13373,
+                            "ns": 0,
+                            "title": "Haiti",
+                            "extract": "Haiti (HAY-tee; French: Ha\u00efti [a.iti]; Haitian Creole: Ayiti [ajiti]), officially the Republic of Haiti (French: R\u00e9publique d'Ha\u00efti; Haitian Creole: Repiblik d Ayiti), and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, east of Cuba and Jamaica, and south of The Bahamas and the Turks and Caicos Islands. It occupies the western of the island which it shares with the Dominican Republic. To its south-west lies the small Navassa Island, which is claimed by Haiti but is disputed as a United States territory under federal administration. Haiti is (sq mi) in size, the third largest country in the Caribbean by area, and has an estimated population of, making it the most populous country in the Caribbean."
+                        }
+                    },
+                    "Wyclef Jean": {
+                        "302511": {
+                            "pageid": 302511,
+                            "ns": 0,
+                            "title": "Wyclef Jean",
+                            "extract": "Nel Ust Wyclef Jean (WHY-clef; born October,) is a Haitian rapper and musician. At the age of, Jean immigrated to the United States with his family. He first achieved fame as a founding member, co-producer and guitarist of the New Jersey hip hop trio The Fugees, alongside Lauryn Hill and Pras Michel. The group released the albums Blunted on Reality () and The Score (), the latter becoming of the best-selling albums of all time."
+                        }
+                    }
+                },
+                "answer": " The Carnival in Haiti is believed to have started in the early 19th century. It is a popular event celebrated in the country and is part of the Haitian culture."
+            }
+        }
+    },
+    "What age group does adult contemporary radio typically focus on?": {
+        "original_response": "{\"Adult contemporary music\": {\"20083053\": {\"pageid\": 20083053, \"ns\": 0, \"title\": \"Adult contemporary music\", \"extract\": \"Adult contemporary music (AC) is a form of radio-played popular music, ranging from 1960s vocal and 1970s soft rock music to predominantly ballad-heavy music of the present day, with varying degrees of easy listening, pop, soul, R&B, quiet storm and rock influence. Adult contemporary is generally a continuation of the easy listening and soft rock style that became popular in the 1960s and 1970s with some adjustments that reflect the evolution of pop/rock music.Adult contemporary tends to have lush, soothing and highly polished qualities where emphasis on melody and harmonies is accentuated. It is usually melodic enough to get a listener's attention, abstains from profanity or complex lyricism, and is most commonly used as background music in heavily-frequented family areas such as supermarkets, shopping malls, convention centers, or restaurants. Like most of pop music, its songs tend to be written in a basic format employing a verse\\u2013chorus structure.\"}}, \"Country radio\": {\"45540806\": {\"pageid\": 45540806, \"ns\": 0, \"title\": \"Country radio\", \"extract\": \"Country radio refers to radio stations that play country music. Most country radio stations are commercial radio stations. Most country radio stations usually play only music which has been officially released to country radio by record labels. The largest owners of country music stations in the United States include iHeartMedia, Cumulus Media, Audacy, and Townsquare Media.\"}}}",
+        "original_answer": " Adult contemporary music is a form of radio-played popular music that typically focuses on a melodic sound with emphasis on melody and harmonies. It is usually used as background music in heavily-frequented family areas such as supermarkets, shopping malls, convention centers, or restaurants. Country radio refers to radio stations that play country music and are usually commercial radio stations.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Adult contemporary music": {
+                        "20083053": {
+                            "pageid": 20083053,
+                            "ns": 0,
+                            "title": "Adult contemporary music",
+                            "extract": "Adult contemporary music (AC) is a form of radio-played popular music, ranging from vocal and soft rock music to predominantly ballad-heavy music of the present day, with varying degrees of easy listening, pop, soul, R & B, quiet storm and rock influence. Adult contemporary is generally a continuation of the easy listening and soft rock style that became popular in the and with some adjustments that reflect the evolution of pop/rock music.Adult contemporary tends to have lush, soothing and highly polished qualities where emphasis on melody and harmonies is accentuated. It is usually melodic enough to get a listener's attention, abstains from profanity or complex lyricism, and is most commonly used as background music in heavily-frequented family areas such as supermarkets, shopping malls, convention centers, or restaurants. Like most of pop music, its songs tend to be written in a basic format employing a verse\u2013chorus structure."
+                        }
+                    },
+                    "Country radio": {
+                        "45540806": {
+                            "pageid": 45540806,
+                            "ns": 0,
+                            "title": "Country radio",
+                            "extract": "Country radio refers to radio stations that play country music. Most country radio stations are commercial radio stations. Most country radio stations usually play only music which has been officially released to country radio by record labels. The largest owners of country music stations in the United States include iHeartMedia, Cumulus Media, Audacy, and Townsquare Media."
+                        }
+                    }
+                },
+                "answer": " Adult contemporary radio typically focuses on a melodic, soothing sound with emphasis on melody and harmonies. It is usually used as background music in family areas such as supermarkets, shopping malls, convention centers, or restaurants. Country radio, on the other hand, typically plays only music which has been officially released to country radio by record labels."
+            }
+        }
+    },
+    "How old are the Athabasca deposits?": {
+        "original_response": "{\"Athabasca oil sands\": {\"370528\": {\"pageid\": 370528, \"ns\": 0, \"title\": \"Athabasca oil sands\", \"extract\": \"The Athabasca oil sands, also known as the Athabasca tar sands, are large deposits of bitumen or extremely heavy crude oil (viscosity of 5,000\\u201310,000 centipoises) that constitute unconventional resources, located in northeastern Alberta, Canada \\u2013 roughly centred on the boomtown of Fort McMurray. These oil sands, hosted primarily in the McMurray Formation, consist of a mixture of crude bitumen (a semi-solid rock-like form of crude oil), silica sand, clay minerals, and water. The Athabasca deposit is the largest known reservoir of crude bitumen in the world and the largest of three major oil sands deposits in Alberta, along with the nearby Peace River and Cold Lake deposits (the latter stretching into Saskatchewan).Together, these oil sand deposits lie under 141,000 square kilometres (54,000 sq mi) of boreal forest and muskeg (peat bogs) and contain about 1.7 trillion barrels (270\\u00d710^9 m3) of bitumen in-place, comparable in magnitude to the world's total proven reserves of conventional petroleum. The International Energy Agency (IEA) lists the economically recoverable reserves, at 2007 prices and modern unconventional oil production technology, to be 178 billion barrels (28.3\\u00d710^9 m3), or about 10% of these deposits.\"}}, \"Oil sands\": {\"299368\": {\"pageid\": 299368, \"ns\": 0, \"title\": \"Oil sands\", \"extract\": \"Oil sands, tar sands, crude bitumen, or bituminous sands, are a type of unconventional petroleum deposit. Oil sands are either loose sands or partially consolidated sandstone containing a naturally occurring mixture of sand, clay, and water, soaked with bitumen, a dense and extremely viscous form of petroleum.\\nSignificant bitumen deposits are reported in Canada,  Kazakhstan, Russia, and Venezuela. The estimated worldwide deposits of oil are more than 2 trillion barrels (320 billion cubic metres); Proven reserves of bitumen contain approximately 100 billion barrels, and total natural bitumen reserves are estimated at 249.67 Gbbl (39.694\\u00d710^9 m3) worldwide, of which 176.8 Gbbl (28.11\\u00d710^9 m3), or 70.8%, are in Alberta, Canada.Crude bitumen is a thick, sticky form of crude oil, and is so viscous that it will not flow unless heated or diluted with lighter hydrocarbons such as light crude oil or natural-gas condensate.\"}}}",
+        "original_answer": " The Athabasca oil sands are large deposits of bitumen or extremely heavy crude oil located in northeastern Alberta, Canada. These oil sands contain an estimated 1.7 trillion barrels of bitumen in-place, and the economically recoverable reserves are estimated to be 178 billion barrels.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Athabasca oil sands": {
+                        "370528": {
+                            "pageid": 370528,
+                            "ns": 0,
+                            "title": "Athabasca oil sands",
+                            "extract": "The Athabasca oil sands, also known as the Athabasca tar sands, are large deposits of bitumen or extremely heavy crude oil (viscosity of centipoises) that constitute unconventional resources, located in northeastern Alberta, Canada \u2013 roughly centred on the boomtown of Fort McMurray. These oil sands, hosted primarily in the McMurray Formation, consist of a mixture of crude bitumen (a semi-solid rock-like form of crude oil), silica sand, clay minerals, and water. The Athabasca deposit is the largest known reservoir of crude bitumen in the world and the largest of major oil sands deposits in Alberta, along with the nearby Peace River and Cold Lake deposits (the latter stretching into Saskatchewan) .Together, these oil sand deposits lie under square kilometres (sq mi) of boreal forest and muskeg (peat bogs) and contain about trillion barrels () of bitumen in-place, comparable in magnitude to the world's total proven reserves of conventional petroleum. The International Energy Agency (IEA) lists the economically recoverable reserves, at prices and modern unconventional oil production technology, to be barrels (), or about% of these deposits."
+                        }
+                    },
+                    "Oil sands": {
+                        "299368": {
+                            "pageid": 299368,
+                            "ns": 0,
+                            "title": "Oil sands",
+                            "extract": "Oil sands, tar sands, crude bitumen, or bituminous sands, are a type of unconventional petroleum deposit. Oil sands are either loose sands or partially consolidated sandstone containing a naturally occurring mixture of sand, clay, and water, soaked with bitumen, a dense and extremely viscous form of petroleum. Significant bitumen deposits are reported in Canada, Kazakhstan, Russia, and Venezuela. The estimated worldwide deposits of oil are more than trillion barrels (cubic metres); Proven reserves of bitumen contain approximately barrels, and total natural bitumen reserves are estimated at Gbbl () worldwide, of which Gbbl (), or%, are in Alberta, Canada.Crude bitumen is a thick, sticky form of crude oil, and is so viscous that it will not flow unless heated or diluted with lighter hydrocarbons such as light crude oil or natural-gas condensate."
+                        }
+                    }
+                },
+                "answer": " The Athabasca oil sands are large deposits of bitumen or extremely heavy crude oil located in northeastern Alberta, Canada. These oil sands contain about trillion barrels of bitumen in-place, and the economically recoverable reserves are estimated to be barrels."
+            }
+        }
+    },
+    "What year did the first internet vote occur in Estonia parliamentary elections?": {
+        "original_response": "{\"2023 Estonian parliamentary election\": {\"60131818\": {\"pageid\": 60131818, \"ns\": 0, \"title\": \"2023 Estonian parliamentary election\", \"extract\": \"Parliamentary elections were held in Estonia on 5 March 2023 to elect all 101 members of the Riigikogu. The officially published election data indicate the victory of the Reform Party, which won 37 seats in total, while the Conservative People's Party of Estonia (EKRE) placed second with 17 seats. The Centre Party won 16 seats, a loss of 10, while Estonia 200 won 14 seats, gaining representation in Riigikogu. \\nAfter the previous parliamentary election in 2019, the Centre Party, led by J\\u00fcri Ratas, formed a government with Ratas serving as prime minister.\"}}, \"Electronic voting\": {\"371301\": {\"pageid\": 371301, \"ns\": 0, \"title\": \"Electronic voting\", \"extract\": \"Electronic voting (also known as e-voting) is voting that uses electronic means to either aid or take care of casting and counting ballots.\\nDepending on the particular implementation, e-voting may use standalone electronic voting machines (also called EVM) or computers connected to the Internet (online voting).  It may encompass a range of Internet services, from basic transmission of tabulated results to full-function online voting through common connectable household devices. The degree of automation may be limited to marking a paper ballot, or may be a comprehensive system of vote input, vote recording, data encryption and transmission to servers, and consolidation and tabulation of election results.\"}}}",
+        "original_answer": " The first internet vote in Estonia parliamentary elections occurred in 2023, with the Reform Party winning 37 seats, the Conservative People's Party of Estonia (EKRE) placing second with 17 seats, and the Centre Party winning 16 seats. Electronic voting, which uses electronic means to aid or take care of casting and counting ballots, was used for the election.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "2023 Estonian parliamentary election": {
+                        "60131818": {
+                            "pageid": 60131818,
+                            "ns": 0,
+                            "title": "2023 Estonian parliamentary election",
+                            "extract": "Parliamentary elections were held in Estonia on March to elect all members of the Riigikogu. The officially published election data indicate the victory of the Reform Party, which won seats in total, while the Conservative People's Party of Estonia (EKRE) placed second with seats. The Centre Party won seats, a loss of, while Estonia won seats, gaining representation in Riigikogu. After the previous parliamentary election in, the Centre Party, led by J\u00fcri Ratas, formed a government with Ratas serving as prime minister."
+                        }
+                    },
+                    "Electronic voting": {
+                        "371301": {
+                            "pageid": 371301,
+                            "ns": 0,
+                            "title": "Electronic voting",
+                            "extract": "Electronic voting (also known as e-voting) is voting that uses electronic means to either aid or take care of casting and counting ballots. Depending on the particular implementation, e-voting may use standalone electronic voting machines (also called EVM) or computers connected to the Internet (online voting). It may encompass a range of Internet services, from basic transmission of tabulated results to full-function online voting through common connectable household devices. The degree of automation may be limited to marking a paper ballot, or may be a comprehensive system of vote input, vote recording, data encryption and transmission to servers, and consolidation and tabulation of election results."
+                        }
+                    }
+                },
+                "answer": " The first internet vote in Estonia parliamentary elections occurred in 2023. The Reform Party won the most seats in the election, followed by the Conservative People's Party of Estonia (EKRE) and the Centre Party. Electronic voting was used to cast and count ballots, with varying degrees of automation."
+            }
+        }
+    },
+    "What year did Joe Simon join Timely?": {
+        "original_response": "{\"Timely Comics\": {\"410356\": {\"pageid\": 410356, \"ns\": 0, \"title\": \"Timely Comics\", \"extract\": \"Timely Comics is the common name for the group of corporations that was the earliest comic book arm of American publisher Martin Goodman, and the entity that would evolve by the 1960s to become Marvel Comics.Founded in 1939, during the era called the Golden Age of comic books, \\\"Timely\\\" was the umbrella name for the comics division of pulp magazine publisher Goodman, whose business strategy involved having a multitude of corporate entities all producing the same product. The company's first publication in 1939 used Timely Publications, based at his existing company in the McGraw-Hill Building at 330 West 42nd Street in New York City. In 1942, it moved to the 14th floor of the Empire State Building, where it remained until 1951. In 2016, Marvel announced that Timely Comics would be the name of a new imprint of low-priced reprint comics.\"}}, \"Joe Simon\": {\"313448\": {\"pageid\": 313448, \"ns\": 0, \"title\": \"Joe Simon\", \"extract\": \"Joseph Henry Simon (October 11, 1913 \\u2013 December 14, 2011) was an American comic book writer, artist, editor, and publisher. Simon created or co-created many important characters in the 1930s\\u20131940s Golden Age of Comic Books and served as the first editor of Timely Comics, the company that would evolve into Marvel Comics.\\nWith his partner, artist Jack Kirby, he co-created Captain America, one of comics' most enduring superheroes, and the team worked extensively on such features at DC Comics as the 1940s Sandman and Sandy the Golden Boy, and co-created the Newsboy Legion, the Boy Commandos, and Manhunter. Simon and Kirby creations for other comics publishers include Boys' Ranch, Fighting American and the Fly.\"}}}",
+        "original_answer": " Joe Simon joined Timely Comics in 1939, which was the earliest comic book arm of American publisher Martin Goodman. He served as the first editor of Timely Comics, which would later become Marvel Comics.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Timely Comics": {
+                        "410356": {
+                            "pageid": 410356,
+                            "ns": 0,
+                            "title": "Timely Comics",
+                            "extract": "Timely Comics is the common name for the group of corporations that was the earliest comic book arm of American publisher Martin Goodman, and the entity that would evolve by the to become Marvel Comics.Founded in, during the era called the Golden Age of comic books, ``Timely ''was the umbrella name for the comics division of pulp magazine publisher Goodman, whose business strategy involved having a multitude of corporate entities all producing the same product. The company's first publication in used Timely Publications, based at his existing company in the McGraw-Hill Building at West Street in New York City. In, it moved to the floor of the Empire State Building, where it remained until. In, Marvel announced that Timely Comics would be the name of a new imprint of low-priced reprint comics."
+                        }
+                    },
+                    "Joe Simon": {
+                        "313448": {
+                            "pageid": 313448,
+                            "ns": 0,
+                            "title": "Joe Simon",
+                            "extract": "Joseph Henry Simon (October, \u2013 December,) was an American comic book writer, artist, editor, and publisher. Simon created or co-created many important characters in the Golden Age of Comic Books and served as the first editor of Timely Comics, the company that would evolve into Marvel Comics. With his partner, artist Jack Kirby, he co-created Captain America, of comics' most enduring superheroes, and the team worked extensively on such features at DC Comics as the Sandman and Sandy the Golden Boy, and co-created the Newsboy Legion, the Boy Commandos, and Manhunter. Simon and Kirby creations for other comics publishers include Boys' Ranch, Fighting American and the Fly."
+                        }
+                    }
+                },
+                "answer": " Joe Simon joined Timely Comics in 1939 and was the first editor of the company which would later become Marvel Comics."
+            }
+        }
+    },
+    "What year did World Tuberculosis Day start?": {
+        "original_response": "{\"Tuberculosis\": {\"30653\": {\"pageid\": 30653, \"ns\": 0, \"title\": \"Tuberculosis\", \"extract\": \"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but it can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis. Around 10% of latent infections progress to active disease which, if left untreated, kill about half of those affected.\"}}, \"History of tuberculosis\": {\"20440423\": {\"pageid\": 20440423, \"ns\": 0, \"title\": \"History of tuberculosis\", \"extract\": \"The history of tuberculosis encompasses the origins of the disease, tuberculosis (TB) through to the vaccines and treatments methods developed to contain and mitigate its impact.\\nThroughout history, the disease tuberculosis has been variously known as consumption, phthisis, and the White Plague. It is generally accepted that the causative agent, Mycobacterium tuberculosis originated from other, more primitive organisms of the same genus Mycobacterium. \\nIn 2014, results of a new DNA study of a tuberculosis genome reconstructed from remains in southern Peru suggest that human tuberculosis is less than 6,000 years old.\"}}}",
+        "original_answer": " The response from the API indicates that tuberculosis is an infectious disease caused by Mycobacterium tuberculosis bacteria, and that it has been known by various names throughout history. It also suggests that human tuberculosis is less than 6,000 years old. Therefore, World Tuberculosis Day likely started after this time.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Tuberculosis": {
+                        "30653": {
+                            "pageid": 30653,
+                            "ns": 0,
+                            "title": "Tuberculosis",
+                            "extract": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but it can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis. Around% of latent infections progress to active disease which, if left untreated, kill about half of those affected."
+                        }
+                    },
+                    "History of tuberculosis": {
+                        "20440423": {
+                            "pageid": 20440423,
+                            "ns": 0,
+                            "title": "History of tuberculosis",
+                            "extract": "The history of tuberculosis encompasses the origins of the disease, tuberculosis (TB) through to the vaccines and treatments methods developed to contain and mitigate its impact. Throughout history, the disease tuberculosis has been variously known as consumption, phthisis, and the White Plague. It is generally accepted that the causative agent, Mycobacterium tuberculosis originated from other, more primitive organisms of the same genus Mycobacterium. In, results of a new DNA study of a tuberculosis genome reconstructed from remains in southern Peru suggest that human tuberculosis is less than years old."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that tuberculosis is an infectious disease caused by Mycobacterium tuberculosis bacteria, and that the history of tuberculosis is less than 6,000 years old. World Tuberculosis Day was first observed in 1982."
+            }
+        }
+    },
+    "What year did the Rashidun Arabs invade Iran?": {
+        "original_response": "{\"Rashidun Caliphate\": {\"8588509\": {\"pageid\": 8588509, \"ns\": 0, \"title\": \"Rashidun Caliphate\", \"extract\": \"The Rashidun Caliphate (Arabic: \\u0627\\u064e\\u0644\\u0652\\u062e\\u0650\\u0644\\u064e\\u0627\\u0641\\u064e\\u0629\\u064f \\u0671\\u0644\\u0631\\u064e\\u0651\\u0627\\u0634\\u0650\\u062f\\u064e\\u0629\\u064f, romanized: al-Khil\\u0101fah ar-R\\u0101\\u0161idah; 632 \\u2013 661) was the first caliphate to succeed the Islamic prophet Muhammad. It was ruled by the first four successive caliphs of Muhammad after his death in 632 CE (11 AH). During its existence, the empire was the most powerful economic, cultural, and military force in West Asia.\\nThe caliphate arose following Muhammad\\u2019s passing in June 632 and the subsequent debate over the succession to his leadership.\"}}, \"Muslim conquest of Persia\": {\"1275748\": {\"pageid\": 1275748, \"ns\": 0, \"title\": \"Muslim conquest of Persia\", \"extract\": \"The Muslim conquest of Persia, also known as the Arab conquest of Iran, was carried out by the Rashidun Caliphate from 632 to 654  and led to the fall of the Sasanian Empire as well as the eventual decline of the Zoroastrian religion.\\nThe rise of the Muslims in Arabia coincided with an unprecedented political, social, economic, and military weakness in Persia. Once a major world power, the Sasanian Empire had exhausted its human and material resources after decades of warfare against the Byzantine Empire. The Sasanian state's internal political situation quickly deteriorated after the execution of King Khosrow II in 628.\"}}}",
+        "original_answer": " The Rashidun Caliphate, which was the first caliphate to succeed the Islamic prophet Muhammad, invaded Iran in 632 CE. This invasion, known as the Muslim conquest of Persia, led to the fall of the Sasanian Empire and the eventual decline of the Zoroastrian religion.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Rashidun Caliphate": {
+                        "8588509": {
+                            "pageid": 8588509,
+                            "ns": 0,
+                            "title": "Rashidun Caliphate",
+                            "extract": "The Rashidun Caliphate (Arabic: \u0627\u064e\u0644\u0652\u062e\u0650\u0644\u064e\u0627\u0641\u064e\u0629\u064f \u0671\u0644\u0631\u064e\u0651\u0627\u0634\u0650\u062f\u064e\u0629\u064f, romanized: al-Khil\u0101fah ar-R\u0101\u0161idah; \u2013) was the first caliphate to succeed the Islamic prophet Muhammad. It was ruled by the first successive caliphs of Muhammad after his death in CE (AH). During its existence, the empire was the most powerful economic, cultural, and military force in West Asia. The caliphate arose following Muhammad \u2019 s passing in June and the subsequent debate over the succession to his leadership."
+                        }
+                    },
+                    "Muslim conquest of Persia": {
+                        "1275748": {
+                            "pageid": 1275748,
+                            "ns": 0,
+                            "title": "Muslim conquest of Persia",
+                            "extract": "The Muslim conquest of Persia, also known as the Arab conquest of Iran, was carried out by the Rashidun Caliphate from to and led to the fall of the Sasanian Empire as well as the eventual decline of the Zoroastrian religion. The rise of the Muslims in Arabia coincided with an unprecedented political, social, economic, and military weakness in Persia. Once a major world power, the Sasanian Empire had exhausted its human and material resources after decades of warfare against the Byzantine Empire. The Sasanian state's internal political situation quickly deteriorated after the execution of King Khosrow II in."
+                        }
+                    }
+                },
+                "answer": " The Rashidun Caliphate, which succeeded the Islamic prophet Muhammad, invaded Iran in 633 CE as part of the Muslim conquest of Persia. This invasion led to the fall of the Sasanian Empire and the eventual decline of the Zoroastrian religion."
+            }
+        }
+    },
+    "What year was the Purification of the Blessed Virgin Mary?": {
+        "original_response": "{\"Presentation of Jesus\": {\"926554\": {\"pageid\": 926554, \"ns\": 0, \"title\": \"Presentation of Jesus\", \"extract\": \"The Presentation of Jesus is an early episode in the life of Jesus Christ, describing his presentation at the Temple in Jerusalem, is celebrated by many churches 40 days after Christmas on Candlemas, or the \\\"Feast of the Presentation of Jesus\\\". The episode is described in chapter 2 of the Gospel of Luke in the New Testament. Within the account, \\\"Luke's narration of the Presentation in the Temple combines the purification rite with the Jewish ceremony of the redemption of the firstborn (Luke 2:23\\u201324).\\\"In the Eastern Orthodox Church, the Presentation of Jesus at the temple is celebrated as one of the twelve Great Feasts, and is sometimes called Hypapante (\\u1f59\\u03c0\\u03b1\\u03c0\\u03b1\\u03bd\\u03c4\\u03ae, \\\"meeting\\\" in Greek). \\nThe Orthodox Churches which use the Julian Calendar celebrate it on 15 February, and the Armenian Church on 14 February.\"}}, \"Mary, mother of Jesus\": {\"73513\": {\"pageid\": 73513, \"ns\": 0, \"title\": \"Mary, mother of Jesus\", \"extract\": \"Mary was a first-century Judean woman of Nazareth, the wife of Joseph and the mother of Jesus. She is a central figure of Christianity, venerated under various titles such as virgin or queen, many of them mentioned in the Litany of Loreto. The Eastern and Oriental Orthodox, Church of the East, Catholic, Anglican, and Lutheran churches believe that Mary, as mother of Jesus, is the Mother of God. Other Protestant views on Mary vary, with some holding her to have considerably lesser status.\"}}}",
+        "original_answer": " The Presentation of Jesus at the Temple, also known as the Purification of the Blessed Virgin Mary, is celebrated by many churches 40 days after Christmas on Candlemas. It is celebrated as one of the twelve Great Feasts in the Eastern Orthodox Church on 15 February (or 14 February in the Armenian Church). Mary, the mother of Jesus, is a central figure of Christianity and is venerated under various titles such as virgin or queen.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Presentation of Jesus": {
+                        "926554": {
+                            "pageid": 926554,
+                            "ns": 0,
+                            "title": "Presentation of Jesus",
+                            "extract": "The Presentation of Jesus is an early episode in the life of Jesus Christ, describing his presentation at the Temple in Jerusalem, is celebrated by many churches days after Christmas on Candlemas, or the ``Feast of the Presentation of Jesus ''. The episode is described in chapter of the Gospel of Luke in the New Testament. Within the account,`` Luke's narration of the Presentation in the Temple combines the purification rite with the Jewish ceremony of the redemption of the firstborn (Luke). ``In the Eastern Orthodox Church, the Presentation of Jesus at the temple is celebrated as of the Great Feasts, and is sometimes called Hypapante (\u1f59\u03c0\u03b1\u03c0\u03b1\u03bd\u03c4\u03ae,`` meeting'' in Greek). The Orthodox Churches which use the Julian Calendar celebrate it on February, and the Armenian Church on February."
+                        }
+                    },
+                    "Mary, mother of Jesus": {
+                        "73513": {
+                            "pageid": 73513,
+                            "ns": 0,
+                            "title": "Mary, mother of Jesus",
+                            "extract": "Mary was a first-century Judean woman of Nazareth, the wife of Joseph and the mother of Jesus. She is a central figure of Christianity, venerated under various titles such as virgin or queen, many of them mentioned in the Litany of Loreto. The Eastern and Oriental Orthodox, Church of the East, Catholic, Anglican, and Lutheran churches believe that Mary, as mother of Jesus, is the Mother of God. Other Protestant views on Mary vary, with some holding her to have considerably lesser status."
+                        }
+                    }
+                },
+                "answer": " The Presentation of Jesus at the Temple, which is also known as the Purification of the Blessed Virgin Mary, is celebrated by many churches on Candlemas or the Feast of the Presentation of Jesus. It is described in the Gospel of Luke in the New Testament. Mary, the mother of Jesus, is a central figure of Christianity and is venerated under various titles."
+            }
+        }
+    },
+    "What year did Kanye West begin his relationship with Alexis Phifer?": {
+        "original_response": "{\"Kanye West\": {\"523032\": {\"pageid\": 523032, \"ns\": 0, \"title\": \"Kanye West\", \"extract\": \"Ye ( YAY; born Kanye Omari West  KAHN-yay; June 8, 1977) is an American rapper, singer, songwriter, record producer, and fashion designer. Born in Atlanta and raised in Chicago, West gained recognition as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several prominent artists and developing a production style that heavily sampled old-school soul music. Intent on pursuing a solo career as a rapper, he released his debut studio album, The College Dropout (2004), to critical and commercial success. He founded the record label GOOD Music later that year.\"}}, \"Graduation (album)\": {\"2294060\": {\"pageid\": 2294060, \"ns\": 0, \"title\": \"Graduation (album)\", \"extract\": \"Graduation is the third studio album by American rapper and producer Kanye West, released on September 11, 2007, through Def Jam Recordings and Roc-A-Fella Records. Recording sessions took place between 2005 and 2007 at several studios in New York and Los Angeles. It was primarily produced by West himself, with contributions from various other producers, including DJ Toomp. The album also features guest appearances from recording artists such as Dwele, T-Pain, Lil Wayne, Mos Def, DJ Premier, and Chris Martin.\"}}}",
+        "original_answer": " Kanye West began his relationship with Alexis Phifer in 2004, the same year he released his debut studio album, The College Dropout. He released his third studio album, Graduation, in 2007.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Kanye West": {
+                        "523032": {
+                            "pageid": 523032,
+                            "ns": 0,
+                            "title": "Kanye West",
+                            "extract": "Ye (YAY; born Kanye Omari West KAHN-yay; June,) is an American rapper, singer, songwriter, record producer, and fashion designer. Born in Atlanta and raised in Chicago, West gained recognition as a producer for Roc-A-Fella Records in the early, producing singles for several prominent artists and developing a production style that heavily sampled old-school soul music. Intent on pursuing a solo career as a rapper, he released his debut studio album, The College Dropout (), to critical and commercial success. He founded the record label GOOD Music later that year."
+                        }
+                    },
+                    "Graduation (album)": {
+                        "2294060": {
+                            "pageid": 2294060,
+                            "ns": 0,
+                            "title": "Graduation (album)",
+                            "extract": "Graduation is the third studio album by American rapper and producer Kanye West, released on September,, through Def Jam Recordings and Roc-A-Fella Records. Recording sessions took place between and at several studios in New York and Los Angeles. It was primarily produced by West himself, with contributions from various other producers, including DJ Toomp. The album also features guest appearances from recording artists such as Dwele, T-Pain, Lil Wayne, Mos Def, DJ Premier, and Chris Martin."
+                        }
+                    }
+                },
+                "answer": " Kanye West began his relationship with Alexis Phifer in 2002, the same year he released his debut studio album, The College Dropout."
+            }
+        }
+    },
+    "How old was Napoleon when he married Jos\u00e9phine de Beauharnais?": {
+        "original_response": "{\"Maximilian de Beauharnais, 3rd Duke of Leuchtenberg\": {\"5529951\": {\"pageid\": 5529951, \"ns\": 0, \"title\": \"Maximilian de Beauharnais, 3rd Duke of Leuchtenberg\", \"extract\": \"Maximilian Joseph Eugene Auguste Napoleon de Beauharnais, 3rd Duke of Leuchtenberg, Prince Romanowsky (2 October 1817 \\u2013 1 November 1852) was the husband of Grand Duchess Maria Nikolayevna of Russia and first cousin of Emperors Napoleon III of the French and Francis Joseph I of Austria. He was a grandson of Napoleon I's first wife, the Empress Josephine, by her prior marriage to Alexandre de Beauharnais.\\nA student of Moritz von Jacobi, he is known as one of pioneers in galvanoplasty and an expert in copper and bronze metalworks generally, as well as an art collector.\\n\\n\\n== Childhood ==\\nHe was born as the second son of Eug\\u00e8ne de Beauharnais, Duke of Leuchtenberg and Prince of Eichst\\u00e4tt and Princess Augusta Amalia Ludovika Georgia of Bavaria.\"}}, \"Josephine of Leuchtenberg\": {\"1086295\": {\"pageid\": 1086295, \"ns\": 0, \"title\": \"Josephine of Leuchtenberg\", \"extract\": \"Jos\\u00e9phine of Leuchtenberg (Jos\\u00e9phine Maximilienne Eug\\u00e9nie Napol\\u00e9one de Beauharnais; 14 March 1807 \\u2013 7 June 1876) was Queen of Sweden and Norway from 8 March 1844 to 8 July 1859 as the wife of King Oscar I. She was also Princess of Bologna from birth and Duchess of Galliera from 1813. She was regarded as politically active during the reign of her spouse and acted as his political adviser, actively participating in government affairs. She is acknowledged as having introduced more liberal laws regarding religion.\\n\\n\\n== Early life ==\\nJos\\u00e9phine was born on 14 March 1807 in Milan, Italy.\"}}}",
+        "original_answer": " Napoleon was 28 years old when he married Jos\u00e9phine de Beauharnais in 1807.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Maximilian de Beauharnais, 3rd Duke of Leuchtenberg": {
+                        "5529951": {
+                            "pageid": 5529951,
+                            "ns": 0,
+                            "title": "Maximilian de Beauharnais, 3rd Duke of Leuchtenberg",
+                            "extract": "Maximilian Joseph Eugene Auguste Napoleon de Beauharnais, Duke of Leuchtenberg, Prince Romanowsky (October \u2013 November) was the husband of Grand Duchess Maria Nikolayevna of Russia and first cousin of Emperors Napoleon III of the French and Francis Joseph I of Austria. He was a grandson of Napoleon I's first wife, the Empress Josephine, by her prior marriage to Alexandre de Beauharnais. A student of Moritz von Jacobi, he is known as of pioneers in galvanoplasty and an expert in copper and bronze metalworks generally, as well as an art collector. == Childhood == He was born as the second son of Eug\u00e8ne de Beauharnais, Duke of Leuchtenberg and Prince of Eichst\u00e4tt and Princess Augusta Amalia Ludovika Georgia of Bavaria."
+                        }
+                    },
+                    "Josephine of Leuchtenberg": {
+                        "1086295": {
+                            "pageid": 1086295,
+                            "ns": 0,
+                            "title": "Josephine of Leuchtenberg",
+                            "extract": "Jos\u00e9phine of Leuchtenberg (Jos\u00e9phine Maximilienne Eug\u00e9nie Napol\u00e9one de Beauharnais; March \u2013 June) was Queen of Sweden and Norway from March to July as the wife of King Oscar I. She was also Princess of Bologna from birth and Duchess of Galliera from. She was regarded as politically active during the reign of her spouse and acted as his political adviser, actively participating in government affairs. She is acknowledged as having introduced more liberal laws regarding religion. == Early life == Jos\u00e9phine was born on March in Milan, Italy."
+                        }
+                    }
+                },
+                "answer": " Napoleon married Jos\u00e9phine de Beauharnais when he was around 33 years old."
+            }
+        }
+    },
+    "What year did KIPP Reach College Preparatory School win the National Blue Ribbon Award?": {
+        "original_response": "{\"Westfield, New Jersey\": {\"125797\": {\"pageid\": 125797, \"ns\": 0, \"title\": \"Westfield, New Jersey\", \"extract\": \"Westfield is a town in Union County, in the U.S. state of New Jersey, located 16 miles (26 km) southwest of Manhattan. As of the 2020 United States census, the town's population was 31,032, an increase of 716 (+2.4%) from the 2010 census count of 30,316, which in turn reflected an increase of 672 (+2.3%) from the 29,644 counted in the 2000 census.In March 2018, Bloomberg ranked Westfield as the 99th highest-income place in the United States, and the 18th highest-income location in New Jersey. According to a 2014 nationwide survey, Westfield was ranked as the 30th-safest city to live in the United States.The town has been one of the state's highest-income communities. Based on data from the American Community Survey for 2013\\u20132017, Westfield residents had a median household income of $159,923, ranked 8th in the state among municipalities with more than 10,000 residents, more than double the statewide median of $76,475.\"}}}",
+        "original_answer": " KIPP Reach College Preparatory School won the National Blue Ribbon Award in 2018.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Westfield, New Jersey": {
+                        "125797": {
+                            "pageid": 125797,
+                            "ns": 0,
+                            "title": "Westfield, New Jersey",
+                            "extract": "Westfield is a town in Union County, in the U.S. state of New Jersey, located miles (km) southwest of Manhattan. As of the United States census, the town's population was, an increase of (%) from the census count of, which in turn reflected an increase of (%) from the counted in the census.In March, Bloomberg ranked Westfield as the highest-income place in the United States, and the highest-income location in New Jersey. According to a nationwide survey, Westfield was ranked as the city to live in the United States.The town has been of the state's highest-income communities. Based on data from the American Community Survey for, Westfield residents had a median household income of $, ranked in the state among municipalities with more than residents, more than double the statewide median of $."
+                        }
+                    }
+                },
+                "answer": " KIPP Reach College Preparatory School won the National Blue Ribbon Award in 2019, as reported by Bloomberg and confirmed by a nationwide survey."
+            }
+        }
+    },
+    "What year wasn't Joseph Stalin\u2019s version of the pact published?": {
+        "original_response": "{\"Joseph Stalin\": {\"15641\": {\"pageid\": 15641, \"ns\": 0, \"title\": \"Joseph Stalin\", \"extract\": \"Joseph Vissarionovich Stalin (born Ioseb Besarionis dze Jughashvili; 18 December [O.S. 6 December] 1878 \\u2013 5 March 1953) was a Soviet politician, Russian revolutionary, and political theorist who led the Soviet Union from 1924 until his death in 1953, ruling as a dictator after consolidating power in the late 1920s. He served as General Secretary of the Communist Party from 1922 to 1952, and as Chairman of the Council of Ministers from 1941 to 1953. Ideologically a Marxist and a Leninist, Stalin formalised the state ideology of Marxism\\u2013Leninism, while his own methods of governing and policies are known as Stalinism.\\nBorn to a poor ethnic Georgian family in Gori in the Russian Empire (now Georgia), Stalin initially trained to become a Russian Orthodox priest before abandoning his studies in 1899 and joining the Marxist Russian Social Democratic Labour Party.\"}}, \"Joseph Stalin and antisemitism\": {\"8872083\": {\"pageid\": 8872083, \"ns\": 0, \"title\": \"Joseph Stalin and antisemitism\", \"extract\": \"The accusation that Joseph Stalin was antisemitic is much discussed by historians. Although part of a movement that included Jews and rejected antisemitism, he privately displayed a contemptuous attitude toward Jews on various occasions that were witnessed by his contemporaries, and are documented by historical sources. In 1939, he reversed Communist policy and began a cooperation with Nazi Germany that included the removal of high profile Jews from the Kremlin. As dictator of the Soviet Union, he promoted repressive policies that conspicuously impacted Jews shortly after World War II, especially during the anti-cosmopolitan campaign.\"}}}",
+        "original_answer": " Joseph Stalin was a Soviet politician and political theorist who led the Soviet Union from 1924 until his death in 1953. He was born in 1878 and was part of a movement that rejected antisemitism. However, there are documented sources that show he privately displayed a contemptuous attitude towards Jews. In 1939, he reversed Communist policy and began a cooperation with Nazi Germany that included the removal of high profile Jews from the Kremlin. Therefore, the version of the pact published by Joseph Stalin was not published in 1939.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Joseph Stalin": {
+                        "15641": {
+                            "pageid": 15641,
+                            "ns": 0,
+                            "title": "Joseph Stalin",
+                            "extract": "Joseph Vissarionovich Stalin (born Ioseb Besarionis dze Jughashvili; December [O.S. December] \u2013 March) was a Soviet politician, Russian revolutionary, and political theorist who led the Soviet Union from until his death in, ruling as a dictator after consolidating power in the late. He served as General Secretary of the Communist Party from to, and as Chairman of the Council of Ministers from to. Ideologically a Marxist and a Leninist, Stalin formalised the state ideology of Marxism\u2013Leninism, while his own methods of governing and policies are known as Stalinism. Born to a poor ethnic Georgian family in Gori in the Russian Empire (now Georgia), Stalin initially trained to become a Russian Orthodox priest before abandoning his studies in and joining the Marxist Russian Social Democratic Labour Party."
+                        }
+                    },
+                    "Joseph Stalin and antisemitism": {
+                        "8872083": {
+                            "pageid": 8872083,
+                            "ns": 0,
+                            "title": "Joseph Stalin and antisemitism",
+                            "extract": "The accusation that Joseph Stalin was antisemitic is much discussed by historians. Although part of a movement that included Jews and rejected antisemitism, he privately displayed a contemptuous attitude toward Jews on various occasions that were witnessed by his contemporaries, and are documented by historical sources. In, he reversed Communist policy and began a cooperation with Nazi Germany that included the removal of high profile Jews from the Kremlin. As dictator of the Soviet Union, he promoted repressive policies that conspicuously impacted Jews shortly after World War II, especially during the anti-cosmopolitan campaign."
+                        }
+                    }
+                },
+                "answer": " Joseph Stalin was a Soviet politician and political theorist who led the Soviet Union from 1924 until his death in 1953. He was accused of displaying a contemptuous attitude towards Jews on various occasions, and in 1939 he reversed Communist policy and began a cooperation with Nazi Germany that included the removal of high profile Jews from the Kremlin. The exact year that his version of the pact was not published is not specified in this response."
+            }
+        }
+    },
+    "What year did walkscore rank Boston the third most walkable city in the US?": {
+        "original_response": "{\"Chicago\": {\"6886\": {\"pageid\": 6886, \"ns\": 0, \"title\": \"Chicago\", \"extract\": \"Chicago (  shih-KAH-goh, locally also  shih-KAW-goh; Miami-Illinois: Shikaakwa; Ojibwe: Zhigaagong) is the most populous city in the U.S. state of Illinois and the third-most populous in the United States after New York City and Los Angeles. With a population of 2,746,388 in the 2020 census, it is also the most populous city in the Midwest. As the seat of Cook County, the second-most populous county in the U.S., Chicago is the center of the Chicago metropolitan area.\\nLocated on the shore of Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed.\"}}}",
+        "original_answer": " In 2020, Chicago was ranked the third most walkable city in the US by WalkScore.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Chicago": {
+                        "6886": {
+                            "pageid": 6886,
+                            "ns": 0,
+                            "title": "Chicago",
+                            "extract": "Chicago (shih-KAH-goh, locally also shih-KAW-goh; Miami-Illinois: Shikaakwa; Ojibwe: Zhigaagong) is the most populous city in the U.S. state of Illinois and the third-most populous in the United States after New York City and Los Angeles. With a population of in the census, it is also the most populous city in the Midwest. As the seat of Cook County, the second-most populous county in the U.S., Chicago is the center of the Chicago metropolitan area. Located on the shore of Lake Michigan, Chicago was incorporated as a city in near a portage between the Great Lakes and the Mississippi River watershed."
+                        }
+                    }
+                },
+                "answer": " In the year 6868, Walkscore ranked Chicago as the third most walkable city in the US."
+            }
+        }
+    },
+    "How old was Ibn Sina when his mother died?": {
+        "original_response": "{\"Avicenna\": {\"1130\": {\"pageid\": 1130, \"ns\": 0, \"title\": \"Avicenna\", \"extract\": \"Ibn Sina (Persian: \\u0627\\u0628\\u0646 \\u0633\\u06cc\\u0646\\u0627; 980 \\u2013 June 1037 CE), commonly known in the West as Avicenna (), was the preeminent philosopher and physician of the Muslim world, flourishing during the Islamic Golden Age, serving in the courts of various Iranian rulers. He is often described as the father of early modern medicine. His philosophy was of the Muslim Peripatetic school derived from Aristotelianism.His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia which became a standard medical text at many medieval universities and remained in use as late as 1650. Besides philosophy and medicine, Avicenna's corpus includes writings on astronomy, alchemy, geography and geology, psychology, Islamic theology, logic, mathematics, physics, and works of poetry.Avicenna wrote most of his philosophical and scientific works in Arabic, but also wrote several key works in Persian, while his poetic works were written in both languages.\"}}, \"Ibn Taymiyya\": {\"272074\": {\"pageid\": 272074, \"ns\": 0, \"title\": \"Ibn Taymiyya\", \"extract\": \"Ibn Taymiyya (January 22, 1263 \\u2013 September 26, 1328; Arabic: \\u0627\\u0628\\u0646 \\u062a\\u064a\\u0645\\u064a\\u0629), birth name Taq\\u012b ad-D\\u012bn \\u02beA\\u1e25mad ibn \\u02bfAbd al-\\u1e24al\\u012bm ibn \\u02bfAbd al-Sal\\u0101m al-Numayr\\u012b al-\\u1e24arr\\u0101n\\u012b (Arabic: \\u062a\\u0642\\u064a \\u0627\\u0644\\u062f\\u064a\\u0646 \\u0623\\u062d\\u0645\\u062f \\u0628\\u0646 \\u0639\\u0628\\u062f \\u0627\\u0644\\u062d\\u0644\\u064a\\u0645 \\u0628\\u0646 \\u0639\\u0628\\u062f \\u0627\\u0644\\u0633\\u0644\\u0627\\u0645 \\u0627\\u0644\\u0646\\u0645\\u064a\\u0631\\u064a \\u0627\\u0644\\u062d\\u0631\\u0627\\u0646\\u064a) was a Sunni Muslim \\u02bf\\u0101lim, muhaddith, judge, proto-Salafist theologian, ascetic, and iconoclastic theologian. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A legal jurist of the Hanbali school, Ibn Taymiyya's condemnation of numerous folk practices associated with saint veneration and visitation of tombs made him a contentious figure with rulers and scholars of the time, and he was imprisoned several times as a result.A polarizing figure in his own times and in the centuries that followed, Ibn Taymiyya has emerged as one of the most influential medieval scholars in late modern Sunni Islam. He was also noteworthy for engaging in fierce religious polemics that attacked various schools of Kal\\u0101m (speculative theology); primarily Ash'arism and Maturidism, while defending the doctrines of Athari school.\"}}}",
+        "original_answer": " Ibn Sina, also known as Avicenna, was a preeminent philosopher and physician of the Muslim world who flourished during the Islamic Golden Age. He was born in 980 CE and his mother died when he was around 37 years old.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Avicenna": {
+                        "1130": {
+                            "pageid": 1130,
+                            "ns": 0,
+                            "title": "Avicenna",
+                            "extract": "Ibn Sina (Persian: \u0627\u0628\u0646 \u0633\u06cc\u0646\u0627; \u2013 June CE), commonly known in the West as Avicenna (), was the preeminent philosopher and physician of the Muslim world, flourishing during the Islamic Golden Age, serving in the courts of various Iranian rulers. He is often described as the father of early modern medicine. His philosophy was of the Muslim Peripatetic school derived from Aristotelianism.His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia which became a standard medical text at many medieval universities and remained in use as late as. Besides philosophy and medicine, Avicenna's corpus includes writings on astronomy, alchemy, geography and geology, psychology, Islamic theology, logic, mathematics, physics, and works of poetry.Avicenna wrote most of his philosophical and scientific works in Arabic, but also wrote several key works in Persian, while his poetic works were written in both languages."
+                        }
+                    },
+                    "Ibn Taymiyya": {
+                        "272074": {
+                            "pageid": 272074,
+                            "ns": 0,
+                            "title": "Ibn Taymiyya",
+                            "extract": "Ibn Taymiyya (January, \u2013 September,; Arabic: \u0627\u0628\u0646 \u062a\u064a\u0645\u064a\u0629), birth name Taq\u012b ad-D\u012bn \u02beA\u1e25mad ibn \u02bfAbd al-\u1e24al\u012bm ibn \u02bfAbd al-Sal\u0101m al-Numayr\u012b al-\u1e24arr\u0101n\u012b (Arabic: \u062a\u0642\u064a \u0627\u0644\u062f\u064a\u0646 \u0623\u062d\u0645\u062f \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u062d\u0644\u064a\u0645 \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0646\u0645\u064a\u0631\u064a \u0627\u0644\u062d\u0631\u0627\u0646\u064a) was a Sunni Muslim \u02bf\u0101lim, muhaddith, judge, proto-Salafist theologian, ascetic, and iconoclastic theologian. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A legal jurist of the Hanbali school, Ibn Taymiyya's condemnation of numerous folk practices associated with saint veneration and visitation of tombs made him a contentious figure with rulers and scholars of the time, and he was imprisoned several times as a result.A polarizing figure in his own times and in the centuries that followed, Ibn Taymiyya has emerged as of the most influential medieval scholars in late modern Sunni Islam. He was also noteworthy for engaging in fierce religious polemics that attacked various schools of Kal\u0101m (speculative theology); primarily Ash'arism and Maturidism, while defending the doctrines of Athari school."
+                        }
+                    }
+                },
+                "answer": " Ibn Sina was around 80 years old when his mother died in 1037 CE."
+            }
+        }
+    },
+    "What year was Canis familiaris listed under Canis lupus?": {
+        "original_response": "{\"Dingo\": {\"62893\": {\"pageid\": 62893, \"ns\": 0, \"title\": \"Dingo\", \"extract\": \"The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia. Its taxonomic classification is debated as indicated by the variety of scientific names presently applied in different publications. It is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right.\\nThe dingo is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina.\"}}, \"Dog\": {\"4269567\": {\"pageid\": 4269567, \"ns\": 0, \"title\": \"Dog\", \"extract\": \"The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.\"}}}",
+        "original_answer": " The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia and is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right. The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf and was first domesticated by hunter-gatherers over 15,000 years ago. Therefore, Canis familiaris was listed under Canis lupus at least 15,000 years ago.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Dingo": {
+                        "62893": {
+                            "pageid": 62893,
+                            "ns": 0,
+                            "title": "Dingo",
+                            "extract": "The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia. Its taxonomic classification is debated as indicated by the variety of scientific names presently applied in different publications. It is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right. The dingo is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina."
+                        }
+                    },
+                    "Dog": {
+                        "4269567": {
+                            "pageid": 4269567,
+                            "ns": 0,
+                            "title": "Dog",
+                            "extract": "The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes."
+                        }
+                    }
+                },
+                "answer": " The dingo (Canis familiaris, Canis familiaris dingo, Canis dingo, or Canis lupus dingo) is an ancient (basal) lineage of dog found in Australia and is variously considered a form of domestic dog not warranting recognition as a subspecies, a subspecies of dog or wolf, or a full species in its own right. It is believed that the dingo was domesticated by hunter-gatherers over years ago before the development of agriculture."
+            }
+        }
+    },
+    "What year did Estonia's War of Independence take place?": {
+        "original_response": "{\"Singing Revolution\": {\"274394\": {\"pageid\": 274394, \"ns\": 0, \"title\": \"Singing Revolution\", \"extract\": \"The Singing Revolution was a series of events in 1987\\u20131991 that led to the restoration of independence of the three Soviet-occupied Baltic countries of Estonia, Latvia, and Lithuania at the end of the Cold War. The term was coined by an Estonian activist and artist, Heinz Valk, in an article published a week after the 10\\u201311 June 1988 spontaneous mass evening singing demonstrations at the Tallinn Song Festival Grounds.\\n\\n\\n== Background ==\\n\\nDuring World War II, the three Baltic countries were invaded and occupied by the Stalinist Soviet Union in June 1940, and formally annexed into the USSR in August 1940. Following the Nazi German occupation in 1941\\u20131944/45, the three countries were reconquered by the Soviet army in 1944\\u20131945.\"}}, \"History of Estonia\": {\"42787\": {\"pageid\": 42787, \"ns\": 0, \"title\": \"History of Estonia\", \"extract\": \"The history of Estonia forms a part of the history of Europe. Humans settled in the region of Estonia near the end of the last glacial era, beginning from around 8500 BC. \\n\\n\\n== Ancient Estonia: pre-history ==\\n\\n\\n=== Mesolithic Period ===\\nThe region has been populated since the end of the Late Pleistocene glaciation, about 10,000 BC. The earliest traces of human settlement in Estonia are connected with the Kunda culture. The early mesolithic Pulli settlement is located by the P\\u00e4rnu River. It has been dated to the beginning of the 9th millennium BC. The Kunda culture received its name from the Lammasm\\u00e4e settlement site in northern Estonia, which dates from earlier than 8500 BC. Bone and stone artifacts similar to those found at Kunda have been discovered elsewhere in Estonia, as well as in Latvia, northern Lithuania and southern Finland.\"}}}",
+        "original_answer": " The Singing Revolution of 1987-1991 led to the restoration of independence of Estonia, Latvia, and Lithuania from the Soviet Union at the end of the Cold War. The region of Estonia has been populated since around 8500 BC, and the earliest traces of human settlement in Estonia are connected with the Kunda culture.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Singing Revolution": {
+                        "274394": {
+                            "pageid": 274394,
+                            "ns": 0,
+                            "title": "Singing Revolution",
+                            "extract": "The Singing Revolution was a series of events in that led to the restoration of independence of the Soviet-occupied Baltic countries of Estonia, Latvia, and Lithuania at the end of the Cold War. The term was coined by an Estonian activist and artist, Heinz Valk, in an article published a week after the June spontaneous mass evening singing demonstrations at the Tallinn Song Festival Grounds. == Background == During World War II, the Baltic countries were invaded and occupied by the Stalinist Soviet Union in June, and formally annexed into the USSR in August. Following the Nazi German occupation in, the countries were reconquered by the Soviet army in."
+                        }
+                    },
+                    "History of Estonia": {
+                        "42787": {
+                            "pageid": 42787,
+                            "ns": 0,
+                            "title": "History of Estonia",
+                            "extract": "The history of Estonia forms a part of the history of Europe. Humans settled in the region of Estonia near the end of the last glacial era, beginning from around BC. == Ancient Estonia: pre-history == === Mesolithic Period === The region has been populated since the end of the Late Pleistocene glaciation, about BC. The earliest traces of human settlement in Estonia are connected with the Kunda culture. The early mesolithic Pulli settlement is located by the P\u00e4rnu River. It has been dated to the beginning of the millennium BC. The Kunda culture received its name from the Lammasm\u00e4e settlement site in northern Estonia, which dates from earlier than BC. Bone and stone artifacts similar to those found at Kunda have been discovered elsewhere in Estonia, as well as in Latvia, northern Lithuania and southern Finland."
+                        }
+                    }
+                },
+                "answer": " The War of Independence of Estonia took place in the late 1940s, after the Soviet Union had annexed the Baltic countries in August of 1940. The Singing Revolution, a series of events that led to the restoration of independence of the Baltic countries, began in June of the same year."
+            }
+        }
+    },
+    "What year did this take place? ": {
+        "original_response": "{\"I Still Know What You Did Last Summer\": {\"657797\": {\"pageid\": 657797, \"ns\": 0, \"title\": \"I Still Know What You Did Last Summer\", \"extract\": \"I Still Know What You Did Last Summer is a 1998 slasher film directed by Danny Cannon and written by Trey Callaway. Jennifer Love Hewitt, Freddie Prinze Jr. and Muse Watson reprise their roles, with Brandy, Mekhi Phifer and Matthew Settle joining the cast. It is the second installment in the I Know What You Did Last Summer franchise.\"}}, \"I Know What You Did Last Summer\": {\"255049\": {\"pageid\": 255049, \"ns\": 0, \"title\": \"I Know What You Did Last Summer\", \"extract\": \"I Know What You Did Last Summer is a 1997 American slasher film directed by Jim Gillespie, written by Kevin Williamson, and starring Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe and Freddie Prinze Jr. It is loosely based on the 1973 novel of the same name by Lois Duncan and is the first installment in the I Know What You Did Last Summer franchise. The film centers on four young friends who are stalked by a hook-wielding killer one year after covering up a car accident in which they supposedly killed a man. The film also draws inspiration from the urban legend known as \\\"The Hook\\\" and the 1980s slasher films Prom Night (1980) and The House on Sorority Row (1982).\"}}}",
+        "original_answer": " The I Know What You Did Last Summer franchise began in 1997 with the release of the film I Know What You Did Last Summer, directed by Jim Gillespie and written by Kevin Williamson. The sequel, I Still Know What You Did Last Summer, was released in 1998.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "I Still Know What You Did Last Summer": {
+                        "657797": {
+                            "pageid": 657797,
+                            "ns": 0,
+                            "title": "I Still Know What You Did Last Summer",
+                            "extract": "I Still Know What You Did Last Summer is a slasher film directed by Danny Cannon and written by Trey Callaway. Jennifer Love Hewitt, Freddie Prinze Jr. and Muse Watson reprise their roles, with Brandy, Mekhi Phifer and Matthew Settle joining the cast. It is the second installment in the I Know What You Did Last Summer franchise."
+                        }
+                    },
+                    "I Know What You Did Last Summer": {
+                        "255049": {
+                            "pageid": 255049,
+                            "ns": 0,
+                            "title": "I Know What You Did Last Summer",
+                            "extract": "I Know What You Did Last Summer is a American slasher film directed by Jim Gillespie, written by Kevin Williamson, and starring Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe and Freddie Prinze Jr. It is loosely based on the novel of the same name by Lois Duncan and is the first installment in the I Know What You Did Last Summer franchise. The film centers on young friends who are stalked by a hook-wielding killer year after covering up a car accident in which they supposedly killed a man. The film also draws inspiration from the urban legend known as ``The Hook ''and the slasher films Prom Night () and The House on Sorority Row ()."
+                        }
+                    }
+                },
+                "answer": " The I Know What You Did Last Summer franchise began in 1997 with the release of the first installment of the series, I Know What You Did Last Summer. The second installment, I Still Know What You Did Last Summer, was released in 1998."
+            }
+        }
+    },
+    "What year did Southampton City Council link with Busan, South Korea?": {
+        "original_response": "{\"Southampton\": {\"7920751\": {\"pageid\": 7920751, \"ns\": 0, \"title\": \"Southampton\", \"extract\": \"Southampton ( ) is a port city in Hampshire, England. It is located approximately 80 miles (130 km) south-west of London, 20 miles (32 km) west of Portsmouth, and 20 miles (32 km) south-east of Salisbury. Southampton had a population of 253,651 at the 2011 census, making it one of the most populous cities in southern England. Southampton forms part of the larger South Hampshire conurbation which includes the city of Portsmouth and the boroughs of Havant, Eastleigh, Fareham, and Gosport.\"}}, \"Coverage of Google Street View\": {\"31133615\": {\"pageid\": 31133615, \"ns\": 0, \"title\": \"Coverage of Google Street View\", \"extract\": \"Google Street View was first introduced in the United States on May 25, 2007, and until November 26, 2008, featured camera icon markers, each representing at least one major city or area (such as a park), and usually the other nearby cities, towns, suburbs, and parks. Many areas that had coverage were represented by icons.\\n\\n\\n== Key additions ==\\nIn 2005, Street View project begins, Google employees start the first tests using a van equipped with cameras on the roof in the San Francisco area.\\nOn May 25, 2007, Street View was announced.\"}}}",
+        "original_answer": " The response from the API indicates that Southampton is a port city in Hampshire, England with a population of 253,651 in 2011. It is located approximately 80 miles south-west of London, 20 miles west of Portsmouth, and 20 miles south-east of Salisbury. The response also mentions the Google Street View project which began in 2005 and was announced in 2007. However, there is no information in the response regarding the year that Southampton City Council linked with Busan, South Korea.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Southampton": {
+                        "7920751": {
+                            "pageid": 7920751,
+                            "ns": 0,
+                            "title": "Southampton",
+                            "extract": "Southampton () is a port city in Hampshire, England. It is located approximately miles (km) south-west of London, miles (km) west of Portsmouth, and miles (km) south-east of Salisbury. Southampton had a population of at the census, making it of the most populous cities in southern England. Southampton forms part of the larger South Hampshire conurbation which includes the city of Portsmouth and the boroughs of Havant, Eastleigh, Fareham, and Gosport."
+                        }
+                    },
+                    "Coverage of Google Street View": {
+                        "31133615": {
+                            "pageid": 31133615,
+                            "ns": 0,
+                            "title": "Coverage of Google Street View",
+                            "extract": "Google Street View was first introduced in the United States on May,, and until November,, featured camera icon markers, each representing at least major city or area (such as a park), and usually the other nearby cities, towns, suburbs, and parks. Many areas that had coverage were represented by icons. == Key additions == In, Street View project begins, Google employees start the first tests using a van equipped with cameras on the roof in the San Francisco area. On May,, Street View was announced."
+                        }
+                    }
+                },
+                "answer": " The response from the API indicates that Southampton City Council linked with Busan, South Korea in 2005."
+            }
+        }
+    },
+    "What year was the Hellgate treaty formed?": {
+        "original_response": "{\"Hell Gate, Montana\": {\"24780689\": {\"pageid\": 24780689, \"ns\": 0, \"title\": \"Hell Gate, Montana\", \"extract\": \"Hell Gate (sometimes known as Hell Gate Ronde, Hell's Gate or Hellgate) is a ghost town at the western end of the Missoula Valley in Missoula County, Montana, United States. The town was located on the banks of the Clark Fork River roughly five miles downstream from present-day Missoula near what is now Frenchtown.\\n\\n\\n== Geography ==\\nHell Gate lay at the west end of the Missoula Valley.  About 13,000 BCE, the advance of the Cordilleran Ice Sheet created an ice dam on the Clark Fork which created Glacial Lake Missoula.\"}}, \"List of United States treaties\": {\"704801\": {\"pageid\": 704801, \"ns\": 0, \"title\": \"List of United States treaties\", \"extract\": \"This is a list of treaties to which the United States has been a party or which have had direct relevance to U.S. history.\\n\\n\\n== Pre-Revolutionary War treaties ==\\nBefore the United States Declaration of Independence in 1776, the sovereign of the United Kingdom and the leaders of various North American colonies negotiated treaties that affected the territory of what would later become the United States.\\n\\n1638 \\u2013 Treaty of Hartford (1638)\\n1646 \\u2013 Treaty of 1646\\n1677 \\u2013 Treaty of 1677\\n1701 \\u2013 Nanfan Treaty\\n1722 \\u2013 Great Treaty of 1722\\n1726 \\u2013 Deed in Trust from Three of the Five Nations of Indians to the Chancellor\\n1744 \\u2013 Treaty of Lancaster\\n1752 \\u2013 Treaty of Logstown\\n1754 \\u2013 Treaty of Albany\\n1758 \\u2013 Treaty of Easton\\n1760 \\u2013 Treaty of Pittsburgh\\n1763 \\u2013 Treaty of Paris\\n1768 \\u2013 Treaty of Hard Labour\\n1768 \\u2013 Treaty of Fort Stanwix\\n1770 \\u2013 Treaty of Lochaber\\n1774 \\u2013 Treaty of Camp Charlotte\\n\\n\\n== U.S. international treaties ==\\nThese are treaties that the United States has made with other sovereign international states. This is mostly to distinguish them from the next category.\"}}}",
+        "original_answer": " The Hellgate Treaty was a treaty signed in 1763 as part of the Treaty of Paris, which ended the Seven Years' War.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Hell Gate, Montana": {
+                        "24780689": {
+                            "pageid": 24780689,
+                            "ns": 0,
+                            "title": "Hell Gate, Montana",
+                            "extract": "Hell Gate (sometimes known as Hell Gate Ronde, Hell's Gate or Hellgate) is a ghost town at the western end of the Missoula Valley in Missoula County, Montana, United States. The town was located on the banks of the Clark Fork River roughly miles downstream from present-day Missoula near what is now Frenchtown. == Geography == Hell Gate lay at the west end of the Missoula Valley. About BCE, the advance of the Cordilleran Ice Sheet created an ice dam on the Clark Fork which created Glacial Lake Missoula."
+                        }
+                    },
+                    "List of United States treaties": {
+                        "704801": {
+                            "pageid": 704801,
+                            "ns": 0,
+                            "title": "List of United States treaties",
+                            "extract": "This is a list of treaties to which the United States has been a party or which have had direct relevance to U.S. history. == Pre-Revolutionary War treaties == Before the United States Declaration of Independence in, the sovereign of the United Kingdom and the leaders of various North American colonies negotiated treaties that affected the territory of what would later become the United States. \u2013 Treaty of Hartford () \u2013 Treaty of \u2013 Treaty of \u2013 Nanfan Treaty \u2013 Great Treaty of \u2013 Deed in Trust from of the Nations of Indians to the Chancellor \u2013 Treaty of Lancaster \u2013 Treaty of Logstown \u2013 Treaty of Albany \u2013 Treaty of Easton \u2013 Treaty of Pittsburgh \u2013 Treaty of Paris \u2013 Treaty of Hard Labour \u2013 Treaty of Fort Stanwix \u2013 Treaty of Lochaber \u2013 Treaty of Camp Charlotte == U.S. international treaties == These are treaties that the United States has made with other sovereign international states. This is mostly to distinguish them from the next category."
+                        }
+                    }
+                },
+                "answer": " The Hellgate treaty was formed in 1744 as part of the Treaty of Lancaster. It was a treaty between the United Kingdom and various North American colonies."
+            }
+        }
+    },
+    "What year didn't Michael Dell bring in Lee Walker to the company?": {
+        "original_response": "{\"David Falk\": {\"11791882\": {\"pageid\": 11791882, \"ns\": 0, \"title\": \"David Falk\", \"extract\": \"David B. Falk (born 1950) is an American sports agent who primarily works with basketball players in the National Basketball Association (NBA). He began his career representing professional tennis players for Donald Dell's ProServ and is best known for representing sports icon Michael Jordan for the entirety of Jordan's career. Besides Jordan, Falk has represented more than 100 other NBA players, and is generally considered to be the most influential player agent the NBA has seen. During the peak years of Falk's career in the 1990s, he was often considered the second-most powerful person in the NBA behind Commissioner David Stern, and in 2000 he had at least one client on all but two NBA teams.\"}}, \"Twilight's Last Gleaming\": {\"2154180\": {\"pageid\": 2154180, \"ns\": 0, \"title\": \"Twilight's Last Gleaming\", \"extract\": \"Twilight's Last Gleaming is a 1977 thriller film directed by Robert Aldrich and starring Burt Lancaster and Richard Widmark. The film was a West German/American co-production, shot mainly at the Bavaria Studios.\\nLoosely based on a 1971 novel, Viper Three by Walter Wager, it tells the story of Lawrence Dell, a renegade USAF general who escapes from a military prison and takes over an ICBM silo in Montana, threatening to launch the missiles and start World War III unless the President reveals a top secret document to the American people about the Vietnam War.\\nA split screen technique is used at several points in the movie to give the audience insight into the simultaneously occurring strands of the storyline.\"}}}",
+        "original_answer": " The response from the API indicates that Michael Dell did not bring Lee Walker into the company in any year, as no results were found related to this.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "David Falk": {
+                        "11791882": {
+                            "pageid": 11791882,
+                            "ns": 0,
+                            "title": "David Falk",
+                            "extract": "David B. Falk (born) is an American sports agent who primarily works with basketball players in the National Basketball Association (NBA). He began his career representing professional tennis players for Donald Dell's ProServ and is best known for representing sports icon Michael Jordan for the entirety of Jordan's career. Besides Jordan, Falk has represented more than other NBA players, and is generally considered to be the most influential player agent the NBA has seen. During the peak years of Falk's career in the, he was often considered the second-most powerful person in the NBA behind Commissioner David Stern, and in he had at least client on all but NBA teams."
+                        }
+                    },
+                    "Twilight's Last Gleaming": {
+                        "2154180": {
+                            "pageid": 2154180,
+                            "ns": 0,
+                            "title": "Twilight's Last Gleaming",
+                            "extract": "Twilight's Last Gleaming is a thriller film directed by Robert Aldrich and starring Burt Lancaster and Richard Widmark. The film was a West German/American co-production, shot mainly at the Bavaria Studios. Loosely based on a novel, Viper by Walter Wager, it tells the story of Lawrence Dell, a renegade USAF general who escapes from a military prison and takes over an ICBM silo in Montana, threatening to launch the missiles and start World War III unless the President reveals a top secret document to the American people about the Vietnam War. A split screen technique is used at several points in the movie to give the audience insight into the simultaneously occurring strands of the storyline."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not contain any information about Michael Dell bringing in Lee Walker to the company, so it is not possible to answer the question."
+            }
+        }
+    },
+    "What year did the announcement come about Netflix becoming available on PS3 in the U.S.?": {
+        "original_response": "{\"PlayStation Vita\": {\"26694626\": {\"pageid\": 26694626, \"ns\": 0, \"title\": \"PlayStation Vita\", \"extract\": \"The PlayStation Vita (PS Vita, or Vita) is a handheld game console developed and marketed by Sony Interactive Entertainment. It was first released in Japan on December 17, 2011, and in North America, Europe, and other international territories beginning on February 22, 2012. The console is the successor to the PlayStation Portable, and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo 3DS.\\nThe original model of the handheld includes a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, two analog joysticks, and front and shoulder push-button input, and supports Bluetooth, Wi-Fi, and optional 3G. The Vita features a quad-core ARM Cortex-A9 MPCore CPU and a quad-core SGX543MP GPU. The PS Vita 2000 series, a revised version of the system, was released across 2013 and 2014. It has all of the same features with a slightly smaller size, extended battery life, and an LCD screen instead of OLED. Sony released the PlayStation TV, a short-lived, re-purposed version of the Vita that uses a television screen like a home video game console, discontinued at the end of 2015.\"}}, \"Ultraman\": {\"2005810\": {\"pageid\": 2005810, \"ns\": 0, \"title\": \"Ultraman\", \"extract\": \"Ultraman, also known as the Ultra Series (Japanese: \\u30a6\\u30eb\\u30c8\\u30e9\\u30b7\\u30ea\\u30fc\\u30ba, Hepburn: Urutora Shir\\u012bzu), is a Japanese science fiction media franchise created by Eiji Tsuburaya, which began with Ultra Q and the eponymous television series in 1966 and became an international pop-culture phenomenon. The franchise has expanded into many television shows, films, comic books, and other media publications, becoming one of the most prominent productions in the Japanese tokusatsu and kaiju genres and pioneering the Kyodai Hero subgenre. The Ultraman series is centered on a fictional alien race of superheroes who often combat kaiju or other aliens.\\nIn Japan, the Ultraman brand generated US$7.4 billion in merchandising revenue from 1966 to 1987.\"}}}",
+        "original_answer": " The PlayStation Vita was released in Japan on December 17, 2011 and in North America, Europe, and other international territories beginning on February 22, 2012. Netflix became available on PS3 in the U.S. in 2013.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "PlayStation Vita": {
+                        "26694626": {
+                            "pageid": 26694626,
+                            "ns": 0,
+                            "title": "PlayStation Vita",
+                            "extract": "The PlayStation Vita (PS Vita, or Vita) is a handheld game console developed and marketed by Sony Interactive Entertainment. It was first released in Japan on December,, and in North America, Europe, and other international territories beginning on February,. The console is the successor to the PlayStation Portable, and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo. The original model of the handheld includes a (mm) OLED multi-touch capacitive touchscreen, analog joysticks, and front and shoulder push-button input, and supports Bluetooth, Wi-Fi, and optional. The Vita features a quad-core ARM MPCore CPU and a quad-core GPU. The PS Vita series, a revised version of the system, was released across and. It has all of the same features with a slightly smaller size, extended battery life, and an LCD screen instead of OLED. Sony released the PlayStation TV, a short-lived, re-purposed version of the Vita that uses a television screen like a home video game console, discontinued at the end of."
+                        }
+                    },
+                    "Ultraman": {
+                        "2005810": {
+                            "pageid": 2005810,
+                            "ns": 0,
+                            "title": "Ultraman",
+                            "extract": "Ultraman, also known as the Ultra Series (Japanese: \u30a6\u30eb\u30c8\u30e9\u30b7\u30ea\u30fc\u30ba, Hepburn: Urutora Shir\u012bzu), is a Japanese science fiction media franchise created by Eiji Tsuburaya, which began with Ultra Q and the eponymous television series in and became an international pop-culture phenomenon. The franchise has expanded into many television shows, films, comic books, and other media publications, becoming of the most prominent productions in the Japanese tokusatsu and kaiju genres and pioneering the Kyodai Hero subgenre. The Ultraman series is centered on a fictional alien race of superheroes who often combat kaiju or other aliens. In Japan, the Ultraman brand generated US $in merchandising revenue from to."
+                        }
+                    }
+                },
+                "answer": " The announcement of Netflix becoming available on PS3 in the U.S. was made in 2012."
+            }
+        }
+    },
+    "What year did George A. Miller work at AT&T?": {
+        "original_response": "{\"Dennis Miller\": {\"308418\": {\"pageid\": 308418, \"ns\": 0, \"title\": \"Dennis Miller\", \"extract\": \"Dennis Michael Miller (born November 3, 1953) is an American political commentator, stand-up comedian, talk show host, writer, and former sportscaster.\\nMiller was a cast member on the NBC sketch comedy series Saturday Night Live from 1985 to 1991, and he subsequently hosted a string of his own talk shows on HBO, CNBC, and also in syndication. From 2007 to 2015, Miller hosted a daily, three-hour, self-titled talk radio program, nationally syndicated by Westwood One. On March 9, 2020, Dennis Miller + One show, launched on RT America.\"}}, \"Steve Miller (musician)\": {\"209943\": {\"pageid\": 209943, \"ns\": 0, \"title\": \"Steve Miller (musician)\", \"extract\": \"Steven Haworth Miller (born October 5, 1943) is an American musician. He is the founder and only remaining original member of the Steve Miller Band, which he founded in 1966, and is the principal songwriter, lead singer, harmonicist, keyboardist, and one of the guitarists. He began his career in blues and blues rock and evolved to a more pop-oriented arena rock genre during the mid-1970s through the early 1980s, releasing popular singles and albums. Miller was inducted into the Rock and Roll Hall of Fame in 2016.\"}}}",
+        "original_answer": " George A. Miller did not work at AT&T. The response from the API provided information about two people named Dennis Miller and Steve Miller, both of whom are musicians.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Dennis Miller": {
+                        "308418": {
+                            "pageid": 308418,
+                            "ns": 0,
+                            "title": "Dennis Miller",
+                            "extract": "Dennis Michael Miller (born November,) is an American political commentator, stand-up comedian, talk show host, writer, and former sportscaster. Miller was a cast member on the NBC sketch comedy series Saturday Night Live from to, and he subsequently hosted a string of his own talk shows on HBO, CNBC, and also in syndication. From to, Miller hosted a daily,, self-titled talk radio program, nationally syndicated by Westwood. On March,, Dennis Miller + show, launched on RT America."
+                        }
+                    },
+                    "Steve Miller (musician)": {
+                        "209943": {
+                            "pageid": 209943,
+                            "ns": 0,
+                            "title": "Steve Miller (musician)",
+                            "extract": "Steven Haworth Miller (born October,) is an American musician. He is the founder and only remaining original member of the Steve Miller Band, which he founded in, and is the principal songwriter, lead singer, harmonicist, keyboardist, and of the guitarists. He began his career in blues and blues rock and evolved to a more pop-oriented arena rock genre during the through the early, releasing popular singles and albums. Miller was inducted into the Rock and Roll Hall of Fame in."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not contain any information about George A. Miller working at AT&T. It contains information about Dennis Miller and Steve Miller (musician)."
+            }
+        }
+    },
+    "What year did the CMACLR come into force?": {
+        "original_response": "{}",
+        "original_answer": " The CMACLR came into force in an unknown year.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {},
+                "answer": " The CMACLR (Convention on the Maritime Areas of the Caribbean, the Gulf of Mexico and the Atlantic) came into force in 1978."
+            }
+        }
+    },
+    "What year was Gilbert awarded for his efforts?": {
+        "original_response": "{\"What's Eating Gilbert Grape\": {\"656608\": {\"pageid\": 656608, \"ns\": 0, \"title\": \"What's Eating Gilbert Grape\", \"extract\": \"What's Eating Gilbert Grape is a 1993 American coming-of-age drama film directed by Lasse Hallstr\\u00f6m, and starring Johnny Depp, Leonardo DiCaprio, Juliette Lewis and Darlene Cates. It follows 25-year-old Gilbert (Depp), a grocery store clerk caring for his morbidly obese mother (Cates) and his intellectually disabled younger brother Arnie (DiCaprio) in a fictional sleepy Iowa town, Endora. Peter Hedges wrote the screenplay, based on his 1991 novel of the same name. Filming took place from November 1992 to January 1993 in various parts of Texas.\"}}, \"Dan Gilbert\": {\"4508564\": {\"pageid\": 4508564, \"ns\": 0, \"title\": \"Dan Gilbert\", \"extract\": \"Daniel Gilbert (born January 17, 1962) is an American billionaire, businessman, and philanthropist. He is the co-founder and majority owner of Rocket Mortgage, founder of Rock Ventures, and owner of the National Basketball Association's Cleveland Cavaliers. Gilbert owns several sports franchises, including the American Hockey League's Cleveland Monsters, and the NBA G League's Cleveland Charge. He operates the Rocket Mortgage FieldHouse in Cleveland, Ohio, home to the Cavaliers and Monsters.\"}}}",
+        "original_answer": " Dan Gilbert was awarded for his efforts in 1962.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "What's Eating Gilbert Grape": {
+                        "656608": {
+                            "pageid": 656608,
+                            "ns": 0,
+                            "title": "What's Eating Gilbert Grape",
+                            "extract": "What's Eating Gilbert Grape is a American coming-of-age drama film directed by Lasse Hallstr\u00f6m, and starring Johnny Depp, Leonardo DiCaprio, Juliette Lewis and Darlene Cates. It follows Gilbert (Depp), a grocery store clerk caring for his morbidly obese mother (Cates) and his intellectually disabled younger brother Arnie (DiCaprio) in a fictional sleepy Iowa town, Endora. Peter Hedges wrote the screenplay, based on his novel of the same name. Filming took place from November to January in various parts of Texas."
+                        }
+                    },
+                    "Dan Gilbert": {
+                        "4508564": {
+                            "pageid": 4508564,
+                            "ns": 0,
+                            "title": "Dan Gilbert",
+                            "extract": "Daniel Gilbert (born January,) is an American billionaire, businessman, and philanthropist. He is the co-founder and majority owner of Rocket Mortgage, founder of Rock Ventures, and owner of the National Basketball Association's Cleveland Cavaliers. Gilbert owns several sports franchises, including the American Hockey League's Cleveland Monsters, and the NBA G League's Cleveland Charge. He operates the Rocket Mortgage FieldHouse in Cleveland, Ohio, home to the Cavaliers and Monsters."
+                        }
+                    }
+                },
+                "answer": " Dan Gilbert is an American billionaire, businessman, and philanthropist who was co-founder and majority owner of Rocket Mortgage and owner of the National Basketball Association's Cleveland Cavaliers. He was awarded in the year of his birth, January."
+            }
+        }
+    },
+    "What year did Love Funk have his first UK hit?": {
+        "original_response": "{\"Uptown Funk\": {\"44377954\": {\"pageid\": 44377954, \"ns\": 0, \"title\": \"Uptown Funk\", \"extract\": \"\\\"Uptown Funk\\\" is a song by British record producer Mark Ronson, featuring American singer and songwriter Bruno Mars. It was released on 10 November 2014, as the lead single from Ronson's fourth studio album, Uptown Special (2015). \\\"Uptown Funk\\\" was written by Ronson, Mars, Jeff Bhasker, and Philip Lawrence; it was produced by the first three writers mentioned. The song began to be written during a freestyle studio session while they worked on a jam Mars and his band had been playing on tour.\"}}, \"G-funk\": {\"183310\": {\"pageid\": 183310, \"ns\": 0, \"title\": \"G-funk\", \"extract\": \"G-funk, short for gangsta funk, (or funk rap) is a sub-genre of gangsta rap that emerged from the West Coast scene in the early 1990s. The genre was heavily influenced by the synthesizer-heavy 1970s funk sound of Parliament-Funkadelic (aka P-Funk), often using samples or recreating the original tracks. It was represented by commercially successful albums such as Dr. Dre's The Chronic (1992) and Snoop Dogg's Doggystyle (1993).\"}}}",
+        "original_answer": " The song \"Uptown Funk\" by Mark Ronson featuring Bruno Mars was released in 2014 and was written by Ronson, Mars, Jeff Bhasker, and Philip Lawrence. G-funk, a sub-genre of gangsta rap, emerged from the West Coast scene in the early 1990s and was heavily influenced by the 1970s funk sound of Parliament-Funkadelic.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Uptown Funk": {
+                        "44377954": {
+                            "pageid": 44377954,
+                            "ns": 0,
+                            "title": "Uptown Funk",
+                            "extract": "``Uptown Funk ''is a song by British record producer Mark Ronson, featuring American singer and songwriter Bruno Mars. It was released on November, as the lead single from Ronson's fourth studio album, Uptown Special ().`` Uptown Funk'' was written by Ronson, Mars, Jeff Bhasker, and Philip Lawrence; it was produced by the first writers mentioned. The song began to be written during a freestyle studio session while they worked on a jam Mars and his band had been playing on tour."
+                        }
+                    },
+                    "G-funk": {
+                        "183310": {
+                            "pageid": 183310,
+                            "ns": 0,
+                            "title": "G-funk",
+                            "extract": "G-funk, short for gangsta funk, (or funk rap) is a sub-genre of gangsta rap that emerged from the West Coast scene in the early. The genre was heavily influenced by the synthesizer-heavy funk sound of Parliament-Funkadelic (aka P-Funk), often using samples or recreating the original tracks. It was represented by commercially successful albums such as Dr. Dre's The Chronic () and Snoop Dogg's Doggystyle ()."
+                        }
+                    }
+                },
+                "answer": " Uptown Funk, a song by British record producer Mark Ronson featuring Bruno Mars, was released in November 2014 and was the lead single from Ronson's fourth studio album, Uptown Special. G-funk, a sub-genre of gangsta rap that emerged from the West Coast scene in the early 1990s, was heavily influenced by the synthesizer-heavy funk sound of Parliament-Funkadelic and was represented by commercially successful albums such as Dr. Dre's The Chronic (1992) and Snoop Dogg's Doggystyle (1993). Therefore, Love Funk had his first UK hit in 2014."
+            }
+        }
+    },
+    "How old was Elizabeth's sister in 1940?": {
+        "original_response": "{\"Pride and Prejudice (1940 film)\": {\"2649257\": {\"pageid\": 2649257, \"ns\": 0, \"title\": \"Pride and Prejudice (1940 film)\", \"extract\": \"Pride and Prejudice is a 1940 American film adaptation of Jane Austen's 1813 novel Pride and Prejudice, starring Greer Garson and Laurence Olivier. Directed by Robert Z. Leonard, the screenplay was written by Aldous Huxley and Jane Murfin, adapted specifically from the stage adaptation by Helen Jerome, in addition to Jane Austen's novel. The story is about five sisters from an English family of landed gentry who must deal with issues of marriage, morality and misconceptions. The film was released on July 26, 1940 in the United States by MGM and was critically well received.\"}}, \"Elizabeth II\": {\"12153654\": {\"pageid\": 12153654, \"ns\": 0, \"title\": \"Elizabeth II\", \"extract\": \"Elizabeth II (Elizabeth Alexandra Mary; 21 April 1926 \\u2013 8 September 2022) was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death. Her reign of over 70 years is the longest of any British monarch and the longest verified reign of any female head of state in history.\\nElizabeth was born in Mayfair, London, during the reign of her paternal grandfather, King George V. She was the first child of the Duke and Duchess of York (later King George VI and Queen Elizabeth The Queen Mother).\"}}}",
+        "original_answer": " Elizabeth II was born in 1926 and was Queen of the United Kingdom and other Commonwealth realms from 1952 until her death in 2022, making her 94 years old in 1940.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Pride and Prejudice (1940 film)": {
+                        "2649257": {
+                            "pageid": 2649257,
+                            "ns": 0,
+                            "title": "Pride and Prejudice (1940 film)",
+                            "extract": "Pride and Prejudice is a American film adaptation of Jane Austen's novel Pride and Prejudice, starring Greer Garson and Laurence Olivier. Directed by Robert Z. Leonard, the screenplay was written by Aldous Huxley and Jane Murfin, adapted specifically from the stage adaptation by Helen Jerome, in addition to Jane Austen's novel. The story is about sisters from an English family of landed gentry who must deal with issues of marriage, morality and misconceptions. The film was released on July, in the United States by MGM and was critically well received."
+                        }
+                    },
+                    "Elizabeth II": {
+                        "12153654": {
+                            "pageid": 12153654,
+                            "ns": 0,
+                            "title": "Elizabeth II",
+                            "extract": "Elizabeth II (Elizabeth Alexandra Mary; April \u2013 September) was Queen of the United Kingdom and other Commonwealth realms from February until her death in. She was queen regnant of sovereign states over the course of her lifetime and remained the monarch of realms by the time of her death. Her reign of over years is the longest of any British monarch and the longest verified reign of any female head of state in history. Elizabeth was born in Mayfair, London, during the reign of her paternal grandfather, King George V. She was the first child of the Duke and Duchess of York (later King George VI and Queen Elizabeth The Queen Mother)."
+                        }
+                    }
+                },
+                "answer": " The response from the API does not provide a direct answer to the question. However, it does provide information about two related topics: Pride and Prejudice (1940 film) and Elizabeth II."
+            }
+        }
+    },
+    "What year did Dell launch its first products that were free of toxic chemicals?": {
+        "original_response": "{\"Dell\": {\"102490\": {\"pageid\": 102490, \"ns\": 0, \"title\": \"Dell\", \"extract\": \"Dell Inc. is an American based technology company. It develops, sells, repairs, and supports computers and related products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers.\"}}, \"TRW Inc.\": {\"259165\": {\"pageid\": 259165, \"ns\": 0, \"title\": \"TRW Inc.\", \"extract\": \"TRW Inc., was an American corporation involved in a variety of businesses, mainly aerospace, electronics, automotive, and credit reporting. It was a pioneer in multiple fields including electronic components, integrated circuits, computers, software and systems engineering. TRW built many spacecraft, including Pioneer 1, Pioneer 10, and several space-based observatories. It was #57 on the 1986 Fortune 500 list, and had 122,258 employees.\"}}}",
+        "original_answer": " Dell Inc. is an American based technology company that was founded in 1986. It sells personal computers, servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers. In the same year, TRW Inc. was also founded and was involved in a variety of businesses, mainly aerospace, electronics, automotive, and credit reporting.",
+        "deletion": {
+            "deletion-del_time-0": {
+                "api_response": {
+                    "Dell": {
+                        "102490": {
+                            "pageid": 102490,
+                            "ns": 0,
+                            "title": "Dell",
+                            "extract": "Dell Inc. is an American based technology company. It develops, sells, repairs, and supports computers and related products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers."
+                        }
+                    },
+                    "TRW Inc.": {
+                        "259165": {
+                            "pageid": 259165,
+                            "ns": 0,
+                            "title": "TRW Inc.",
+                            "extract": "TRW Inc., was an American corporation involved in a variety of businesses, mainly aerospace, electronics, automotive, and credit reporting. It was a pioneer in multiple fields including electronic components, integrated circuits, computers, software and systems engineering. TRW built many spacecraft, including Pioneer, Pioneer, and several space-based observatories. It was # on the Fortune list, and had employees."
+                        }
+                    }
+                },
+                "answer": " Dell Inc. is an American based technology company that sells personal computers, servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics. In 2002, Dell launched its first products that were free of toxic chemicals."
+            }
+        }
+    }
+}
